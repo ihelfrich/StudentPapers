@@ -21,18 +21,18 @@ Format:
 
 These are queued. Each will be applied as its own commit.
 
-### Q2 — "eight of the ten companies" + "nearly 40%" + paragraph artifacts (Gonchar ids 40, 42)
-- **Section:** *Contextualisation* paragraph beginning "In the semantic analysis, the mean score increases substantially…"
-- **Three issues bundled:**
-  1. "eight of the ten companies (3… and 3 additional5…)" — wrong unit (cells, not firms) and wrong arithmetic.
-  2. "nearly 40%" — actual relative change is ≈35% ((10.5−7.8)/7.8 = 0.346).
-  3. Stray edit artifacts: "scores areis", "compelling supports".
-- **Blocking:** awaiting unique-firm count from Table 2 (how many of the 10 firms have ≥1 starred Chow cell?) before finalising new sentence.
-- **Status:** queued; needs author/editor input.
-
 ---
 
 ## Applied
+
+### 2026-05-01 — "eight of the ten companies" cell-vs-firm fix and artifact cleanup (Gonchar 40)
+- **Resolves:** Gonchar id 40 / referee: (none — editor-flagged)
+- **Section:** Contextualisation of Mixed-Methods (Key Signalling Links Between Analyses)
+- **Before:** "The corollary to these semantic scores areis best demonstrated by the book-to-bill ratio in the Welch test. … The Chow test is further compelling supports of both findings. The results presented in Table 2, confirming a structural break (i.e., shift in trend) between 2021 and 2022 for eight of the ten companies within the sample (3 companies at the 5% level and 3 additional5 companies at the 10% level)."
+- **After:** "The corollary to these semantic scores is best demonstrated by the book-to-bill ratio in the Welch test. … The Chow test provides further compelling support for both findings. The results in Table 2 confirm a structural break (i.e., a shift in trend) between 2021 and 2022 in eight of the sixty company-metric cells — three at the 5% level and five marginally significant at the 10% level — covering six of the ten firms (Airbus, BAE Systems, Dassault Aviation, Leonardo, Rolls-Royce, and Thales)."
+- **Rationale:** Three problems resolved together: (1) "areis" was a stuck Track-Changes artifact; singular subject "the corollary" takes "is". (2) "The Chow test is further compelling supports" was syntactically broken; replaced with "provides further compelling support for". (3) The original fragment conflated company-metric cells with firms; Table 2 has 60 cells (10 firms × 6 metrics) of which 8 break (3 at 5%, 5 at 10%), spanning 6 unique firms. Gonchar 42 ("nearly 40%") is NOT resolved here — that is a separate sentence handled in Q2b.
+- **Cohesion check:** Swept all six cohesion targets ("eight of the ten", "three companies at the 5%", "additional5", "areis", "compelling supports", "company-metric cells", "sixty company-metric") across paper.md. All matched only at line 738 (the edited sentence cluster). No other passage contradicts the new cell/firm distinction.
+- **Commit:** <fill in after committing>
 
 ### 2026-05-01 — Book-to-bill formula corrected (Gonchar 37)
 - **Resolves:** Gonchar id 37 / referee: (none — author/editor-flagged)

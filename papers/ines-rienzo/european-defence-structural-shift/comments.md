@@ -47,7 +47,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 37 | Gonchar | 2026-05-01 | measures the proportion of recognised defence revenue to new defence orders. | i believe this is inverted | resolved | fixed in Q1 edit (2026-05-01); definition corrected to orders ÷ revenue |
 | 38 | Rienzo | 2026-04-26 | ntity demeaning is | check | open |  |
 | 39 | Rienzo | 2026-04-26 | reasons; | add reason | open |  |
-| 40 | Gonchar | 2026-05-01 | eight | should be six based on Table 2? | open |  |
+| 40 | Gonchar | 2026-05-01 | eight | should be six based on Table 2? | resolved | fixed in Q2a edit (2026-05-01); recast as 8 of 60 company-metric cells covering 6 unique firms |
 | 41 | Gonchar | 2026-05-01 | Prior to 2022, it was postulated that defence-related companies were out-of-favour for var… | Source? and (why) does this matter? | open |  |
 | 42 | Gonchar | 2026-05-01 | nearly 40% | check if it should be "nearly 35%"(10.5 − 7.8) / 7.8 = 34.6% | open |  |
 | 43 | Gonchar | 2026-05-01 | One future study might compare the magnitude of the 2022 invasion with that of the 2014 oc… | The 2014 invasion was not only Crimea, nor did it end. 2022 was a major expansion of the 2014 invasion. | open |  |
