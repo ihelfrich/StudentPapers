@@ -8,7 +8,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | id | author | date | anchor (excerpt) | comment | status | our note |
 |---:|:------|:-----|:-----------------|:--------|:-------|:---------|
 | 0 | Gonchar | 2026-05-01 | Executive Summary | General Formatting:I recommend numbering the section and subsection titles and try to avoid using subsubsections | open |  |
-| 1 | Gonchar | 2026-05-01 | February 2022 saw Russia’s invasion of Ukraine, marking the first conventional warfare bet… | A few concerns:- Russia initially invaded Ukraine in 2014.- This was not the first conventional warfare between European countries but it is the first in quite some time.- For the … | open |  |
+| 1 | Gonchar | 2026-05-01 | February 2022 saw Russia’s invasion of Ukraine, marking the first conventional warfare bet… | A few concerns:- Russia initially invaded Ukraine in 2014.- This was not the first conventional warfare between European countries but it is the first in quite some time.- For the … | resolved | Executive Summary opener recast: 2022 framed as escalation of 2014 war; Crimea + Donbas named; temporal hedge added |
 | 2 | Gonchar | 2026-05-01 | its previous occupation of Crimea in 2014 | Russia also invaded eastern Ukraine in 2014, which actually remained as a conflict zone through the 2022 invasion | open |  |
 | 3 | Gonchar | 2026-05-01 | fundamental strategic independence | simplify | open |  |
 | 4 | Gonchar | 2026-05-01 | Mellace et al., 2025 | Not correct - their paper considered the suspension of US aid to Ukraine in early 2025. | resolved | citation dropped from Introduction line 204; Mellace correctly retained at line 246 |
