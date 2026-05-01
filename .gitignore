@@ -22,3 +22,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Per-user Claude Code settings (project-level shared settings.json IS tracked)
+.claude/settings.local.json
