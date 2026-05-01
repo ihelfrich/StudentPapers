@@ -21,14 +21,6 @@ Format:
 
 These are queued. Each will be applied as its own commit.
 
-### Q1 — Book-to-bill formula inverted (Gonchar id 37)
-- **Section:** *Mixed Methods → Financial Analysis → Methodology* (metric definition list)
-- **Before:** "Defence book-to-bill ratio: measures the proportion of recognised defence revenue to new defence orders."
-- **After:** "Defence book-to-bill ratio: the ratio of new defence orders booked in the period to defence revenue recognised in the same period (orders ÷ revenue)…"
-- **Rationale:** Standard finance definition is orders ÷ revenue, not the reverse. The numbers in the doc are correct; only the prose is inverted. Verified by cross-checking against the figure caption ("above 1.0 means order books are getting larger") and the signalling-theory paragraph, both of which describe the metric correctly.
-- **Cohesion check needed:** confirm signalling-theory paragraph wording ("orders shipped" → "revenue recognised"), no recompute of Welch/Chow/Panel results.
-- **Status:** ready to apply.
-
 ### Q2 — "eight of the ten companies" + "nearly 40%" + paragraph artifacts (Gonchar ids 40, 42)
 - **Section:** *Contextualisation* paragraph beginning "In the semantic analysis, the mean score increases substantially…"
 - **Three issues bundled:**
@@ -42,4 +34,11 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
-*(empty until first edit lands)*
+### 2026-05-01 — Book-to-bill formula corrected (Gonchar 37)
+- **Resolves:** Gonchar id 37 / referee: (none — author/editor-flagged)
+- **Section:** Mixed Methods → Financial Analysis → Methodology (metric definitions list)
+- **Before:** "Defence book-to-bill ratio: measures the proportion of recognised defence revenue to new defence orders. A ratio of 1.0 indicates stability, while a ratio above 1.0 indicates growth."
+- **After:** "Defence book-to-bill ratio: the ratio of new defence orders booked in the period to defence revenue recognised in the same period (orders ÷ revenue). A value of 1.0 indicates that incoming orders are matching what is being billed out, so the order backlog is stable; a value above 1.0 indicates the backlog is growing (orders exceed deliveries), and a value below 1.0 indicates it is shrinking. As a forward-looking measure, it is a leading indicator of future revenue."
+- **Rationale:** The previous prose inverted the standard book-to-bill formula (it should be orders ÷ revenue, not revenue ÷ orders) and was internally contradictory: as written, "above 1.0" would actually have meant the backlog is shrinking. The numerical results in the paper (1.20 → 1.75 → 2.02) are consistent with the correct definition, so this is a prose-only fix; no statistical results need to be recomputed.
+- **Cohesion check:** Swept "book-to-bill" (9 occurrences), "orders shipped" (1), "new orders" (2), "recognised defence revenue" (0 remaining). All other book-to-bill mentions (lines 183, 189, 645, 668, 690, 719, 738, 748, 773) are consistent with the corrected definition. One follow-up candidate flagged: line 322 (signalling-theory paragraph) reads "as a ratio of total orders shipped" — correct in spirit but imprecise; "shipped" should be "revenue recognised". This should be addressed as a separate edit.
+- **Commit:** <fill in after committing>

@@ -44,7 +44,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 34 | Gonchar | 2026-05-01 | For many years after the Cold War, the European defence industry was framed predominantly … | This should go into a History of European Defence Spending subsection | open |  |
 | 35 | Gonchar | 2026-05-01 | Data Collection | "Data" should be a separate section where you discuss what data is needed for the analysis, where you got it, and any changes you made to it (as well as any immediately relevant li… | open |  |
 | 36 | Gonchar | 2026-05-01 | this study designed its AI scans to “read” the reports | Rephrase recommended. | open |  |
-| 37 | Gonchar | 2026-05-01 | measures the proportion of recognised defence revenue to new defence orders. | i believe this is inverted | open |  |
+| 37 | Gonchar | 2026-05-01 | measures the proportion of recognised defence revenue to new defence orders. | i believe this is inverted | resolved | fixed in Q1 edit (2026-05-01); definition corrected to orders ÷ revenue |
 | 38 | Rienzo | 2026-04-26 | ntity demeaning is | check | open |  |
 | 39 | Rienzo | 2026-04-26 | reasons; | add reason | open |  |
 | 40 | Gonchar | 2026-05-01 | eight | should be six based on Table 2? | open |  |
