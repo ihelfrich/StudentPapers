@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-01 — "We can deduce" foil sentence: verb and 2014 scope corrected (Gonchar 11)
+- **Resolves:** Gonchar id 11 / referee: factual-2014-framing
+- **Section:** Literature Review → Evidence of a Cyclical Shift (foil paragraph, line 240)
+- **Before:** "We can deduce here that if defence spending growth is stagnating and returning to a trend level of no growth (mean-reversion) even after the Russian invasion of Crimea in 2014, then perhaps the same scenario will occur with the 2022 invasion as well."
+- **After:** "One inference is that if defence spending growth stagnated and returned to trend (mean-reversion) even after Russia's 2014 invasion of Ukraine — which seized Crimea and opened a sustained war in the Donbas — then a similar reversion may follow the 2022 escalation."
+- **Rationale:** Two corrections in one surgical edit. (1) Gonchar 11 (word-choice): "deduce" replaced with "One inference is that … may follow," which is appropriately tentative for this foil paragraph presenting the cyclical hypothesis. (2) Referee-cohesion link to Gonchar 2 (resolved at commit 60e9506, line 200): this sentence contained a parallel "Crimea-only" characterisation of 2014; the new wording names both fronts (Crimea + Donbas) and characterises the eight-year continuity, consistent with the line-200 fix. The direction of the inference (mean-reversion expected as a foil the rest of the paper argues against) is deliberately preserved. "The 2022 invasion" is reframed as "the 2022 escalation," consistent with the series-wide framing.
+- **Cohesion check:** Swept all six targets. (1) "We can deduce" — 0 occurrences remaining; fully eliminated. (2) "Russian invasion of Crimea" — 0 occurrences remaining; fully eliminated. (3) "invasion of Crimea in 2014" — 0 occurrences remaining; fully eliminated. (4) "mean-reversion" — 1 occurrence at line 240 (the edited sentence itself); no other occurrence; no conflict. (5) "the 2022 invasion" — 3 occurrences: line 177 (Executive Summary, already reads "full-scale invasion … escalation," consistent), line 463 (figure caption date-marker, no factual claim, no conflict), line 777 (Future Research paragraph: "the 2014 occupation of Crimea" — this is the Gonchar 43 / edit-4 target, already flagged; no new issue). (6) "the same scenario will occur" — 0 occurrences remaining; fully eliminated. One standing cohesion flag: line 777 "2014 occupation of Crimea" (Gonchar 43) remains the edit-4 target, unresolved.
+- **Commit:** TBD
+
 ### 2026-05-01 — Introduction opener recast: full 2014 scope named; 2022 as escalation (Gonchar 2)
 - **Resolves:** Gonchar id 2 / referee: factual-2014-framing
 - **Section:** Introduction (opening of main paragraph, line 200)

@@ -237,7 +237,7 @@ Certain research points to the idea that Europe's reaction to the Ukrainian conf
 
   
 
-We can deduce here that if defence spending growth is stagnating and returning to a trend level of no growth (mean-reversion) even after the Russian invasion of Crimea in 2014, then perhaps the same scenario will occur with the 2022 invasion as well.
+One inference is that if defence spending growth stagnated and returned to trend (mean-reversion) even after Russia's 2014 invasion of Ukraine — which seized Crimea and opened a sustained war in the Donbas — then a similar reversion may follow the 2022 escalation.
 
   
 

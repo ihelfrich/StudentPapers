@@ -18,7 +18,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 8 | Gonchar | 2026-05-01 | Sandler and Hartley (1995) | Missing in References | open |  |
 | 9 | Gonchar | 2026-05-01 | , a research body that provides data and reports on armed conflicts, | not sure this is necessary to include? | open |  |
 | 10 | Gonchar | 2026-05-01 | below illustrates the annual percentage change in European Union defence spending from 200… | Would be helpful to add a sentence here explaining what the reader should take away from the information presented in the graph | open |  |
-| 11 | Gonchar | 2026-05-01 | We can deduce here that if defence spending growth is stagnating and returning to a trend … | is "deduce" correct here?Make sure this does not contradict the conclusion:"The overall trend forecasts that this fundamental shift will be sustained." | open |  |
+| 11 | Gonchar | 2026-05-01 | We can deduce here that if defence spending growth is stagnating and returning to a trend … | is "deduce" correct here?Make sure this does not contradict the conclusion:"The overall trend forecasts that this fundamental shift will be sustained." | resolved | "deduce" replaced with "One inference is that … may follow"; foil direction preserved; 2014 Crimea-only scope corrected to Crimea + Donbas |
 | 12 | Gonchar | 2026-05-01 | The conflict, after all, was in Europe’s backyard, and Russian aggression loomed as a clea… | Necessary to keep in? | open |  |
 | 13 | Gonchar | 2026-05-01 | the policymakers who crafted them were driven to create a fast fix and the “band-aid” natu… | What was this fast fix? Citation? | open |  |
 | 14 | Gonchar | 2026-05-01 | “band-aid” | maybe short-term? | open |  |
