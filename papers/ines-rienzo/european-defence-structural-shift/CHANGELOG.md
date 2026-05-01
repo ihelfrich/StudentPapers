@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-01 — Future Research sentence: 2014 full scope and 2022 as escalation (Gonchar 43)
+- **Resolves:** Gonchar id 43 / referee: factual-2014-framing
+- **Section:** Conclusion → Limitations and Future Research (line 777)
+- **Before:** "One future study might compare the magnitude of the 2022 invasion with that of the 2014 occupation of Crimea in terms of impact on cyclical and structural inertia in companies."
+- **After:** "One future study might decompose the cumulative impact of Russia's 2014 invasion of Ukraine — which seized Crimea and opened a sustained war in the Donbas — and the 2022 escalation, treating the eight intervening years of low-intensity conflict as a baseline against which the 2022 step-change in cyclical and structural inertia can be measured."
+- **Rationale:** Per Gonchar (id 43), the prior wording ("the 2022 invasion vs the 2014 occupation of Crimea") was wrong on two counts: (i) the 2014 invasion was not only Crimea — it included the Donbas — and (ii) it did not end before 2022; the 2022 escalation was a major expansion of an ongoing war. The replacement reframes the proposed future study as a decomposition of one continuous war into its 2014 and 2022 phases, names the full 2014 scope, and characterises 2022 as a "step-change" / "escalation" rather than a separate event. Closes the last instance of the Crimea-only framing in the paper.
+- **Cohesion check:** Swept all five targets. (1) "occupation of Crimea" — 0 occurrences remaining; fully eliminated from paper.md. (2) "the 2014 occupation" — 0 occurrences remaining; fully eliminated. (3) "the 2022 invasion" — 2 occurrences remain: line 177 (Executive Summary: "the 2022 invasion indicate a cyclical shift or a structural one?" — shorthand in a research question, no factual claim; no conflict) and line 463 (figure caption date-marker, no factual claim; no conflict). (4) "magnitude of the 2022" — 0 occurrences remaining; fully eliminated. (5) "cyclical and structural inertia" — 1 occurrence at line 777 (the edited sentence itself); no contradiction. No cohesion flags raised. This is the final edit in the 2014-framing series (Gonchar 1, 2, 11, 43).
+- **Commit:** <fill in after committing>
+
 ### 2026-05-01 — "We can deduce" foil sentence: verb and 2014 scope corrected (Gonchar 11)
 - **Resolves:** Gonchar id 11 / referee: factual-2014-framing
 - **Section:** Literature Review → Evidence of a Cyclical Shift (foil paragraph, line 240)
