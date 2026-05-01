@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-01 — Signalling Theory book-to-bill denominator corrected (cohesion follow-up Q1)
+- **Resolves:** Gonchar id (none) / referee: cohesion-followup-Q1
+- **Section:** Theoretical Frameworks → Signalling Theory
+- **Before:** "…as a ratio of total orders shipped, which would signal to the market that there is a tangible change, not only politically but perhaps more importantly, monetarily."
+- **After:** "…relative to revenue recognised in the same period — a tangible signal to the market of a real shift in demand, not only political but, perhaps more importantly, monetary."
+- **Rationale:** The previous wording said the denominator was "total orders shipped". For a defence prime, revenue is recognised on percentage-of-completion or delivery — not literal physical shipment — and the standard book-to-bill denominator is revenue recognised (billed), not orders shipped. Aligns this passage with the corrected formula in the Methodology section (Q1 fix, commit 3ba9bd0, line 631).
+- **Cohesion check:** Swept "orders shipped" (0 remaining occurrences — fully eliminated), "ratio of total orders" (0 occurrences), "revenue recognised" (lines 322 and 631 — both now consistent), "book-to-bill" (10 occurrences across lines 183, 189, 322, 631, 645, 668, 690, 719, 738, 748, 773 — all consistent with corrected definition). No contradicting passage found. No further follow-up required.
+- **Commit:** <fill in>
+
 ### 2026-05-01 — "nearly 40%" arithmetic corrected to ≈35% / 2.7 pp (Gonchar 42)
 - **Resolves:** Gonchar id 42 / referee: (none — editor-flagged arithmetic)
 - **Section:** Contextualisation of Mixed-Methods (Pre- and Post-Invasion Framing)
