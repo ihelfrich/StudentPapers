@@ -32,7 +32,7 @@ These are queued. Each will be applied as its own commit.
 - **After:** "Adjusted EBIT margins rose substantially, by 2.7 percentage points (a relative increase of ≈35%), from 7.8% pre-invasion to 10.5% post-invasion."
 - **Rationale:** The relative change is (10.5 − 7.8) / 7.8 = 0.346 ≈ 35%, not 40% as previously claimed (Gonchar id 42). I have also standardised on percentage points as the primary unit — mixing relative percent change with values that are themselves percentages (margins) is a common source of referee confusion. The same number is already correctly described elsewhere in the paper (line 645: "an increase of 2.7 percentage points"); this aligns the two passages.
 - **Cohesion check:** Swept "nearly 40%" (0 remaining occurrences), "2.7 percentage points" (lines 645, 717 — both consistent with the corrected framing; line 645 already states the pp figure without any relative-% claim; line 717 uses 2.69 pp from the fixed-effects regression, which is consistent), "7.8% pre-invasion" (line 748 only — the edited sentence), "10.5% post-invasion" (line 748 only), "EBIT margin" (lines 183, 189, 645, 717, 748 — all consistent), "0.346" (no occurrences). No contradicting passage found. Line 189 reads "EBIT margin, which increased from 7.8 to 10.5% in the panel regression" with no relative-% claim — no conflict.
-- **Commit:** <fill in after committing>
+- **Commit:** 31af338
 
 ### 2026-05-01 — "eight of the ten companies" cell-vs-firm fix and artifact cleanup (Gonchar 40)
 - **Resolves:** Gonchar id 40 / referee: (none — editor-flagged)
