@@ -49,7 +49,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 39 | Rienzo | 2026-04-26 | reasons; | add reason | open |  |
 | 40 | Gonchar | 2026-05-01 | eight | should be six based on Table 2? | resolved | fixed in Q2a edit (2026-05-01); recast as 8 of 60 company-metric cells covering 6 unique firms |
 | 41 | Gonchar | 2026-05-01 | Prior to 2022, it was postulated that defence-related companies were out-of-favour for var… | Source? and (why) does this matter? | open |  |
-| 42 | Gonchar | 2026-05-01 | nearly 40% | check if it should be "nearly 35%"(10.5 − 7.8) / 7.8 = 34.6% | open |  |
+| 42 | Gonchar | 2026-05-01 | nearly 40% | check if it should be "nearly 35%"(10.5 − 7.8) / 7.8 = 34.6% | resolved | fixed in Q2b edit (2026-05-01); recast as 2.7 pp (≈35% relative increase) |
 | 43 | Gonchar | 2026-05-01 | One future study might compare the magnitude of the 2022 invasion with that of the 2014 oc… | The 2014 invasion was not only Crimea, nor did it end. 2022 was a major expansion of the 2014 invasion. | open |  |
 | 44 | Gonchar | 2026-05-01 | Conclusion | The conclusion needs to be substantially expanded. Right now, it opens by assuming the conclusion before demonstrating it, and the two short paragraphs that follow do not constitut… | open |  |
 | 45 | Gonchar | 2026-05-01 | Europe is no longer simply purchasing most of its defence needs from the United States. | Contradicts Howorth (2025) as cited in the Literature Contradictions section. The conclusion should reflect the tension acknowledged in the literature rather than overstating the d… | open |  |
