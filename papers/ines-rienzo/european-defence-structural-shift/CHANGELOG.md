@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-01 — Mellace et al. (2025) miscitation dropped from Introduction (Gonchar 4)
+- **Resolves:** Gonchar id 4 / referee: (none — editor-flagged)
+- **Section:** Introduction
+- **Before:** "…to respond to a crisis situation (Cepparulo & Pasimeni, 2024; Mellace et al., 2025)."
+- **After:** "…to respond to a crisis situation (Cepparulo & Pasimeni, 2024)."
+- **Rationale:** Mellace et al. (2025) studies the suspension of US aid to Ukraine in early 2025 — it does not document the cyclical 2022 reaction the sentence is describing. Per Gonchar (id 4) the citation here is incorrect. Removing it; Cepparulo & Pasimeni (2024) remains as the supporting citation for the cyclical-reaction claim. Mellace's other in-text appearance at line 246 is in the correct 2025 funding-context paragraph and is left intact, as is the References entry.
+- **Cohesion check:** Swept "Mellace" (1 remaining occurrence — line 246, correct context; References entry line 908 also correct), "Cepparulo & Pasimeni" (lines 204, 230, 236 — all consistent, no conflict), "early reaction" (line 204 only — the edited sentence), "cyclical" (17 occurrences across Introduction, Literature Review, Methodology, Results, Discussion — none are linked to the now-removed citation; no contradicting passage found). No follow-up edits required.
+- **Commit:** TBD
+
 ### 2026-05-01 — Signalling Theory book-to-bill denominator corrected (cohesion follow-up Q1)
 - **Resolves:** Gonchar id (none) / referee: cohesion-followup-Q1
 - **Section:** Theoretical Frameworks → Signalling Theory
