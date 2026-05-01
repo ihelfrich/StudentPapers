@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-01 — Conclusion overclaim hedged with Howorth (2025) near-term dependence caveat (Gonchar 45)
+- **Resolves:** Gonchar id 45 / referee: causal-language-and-overclaim
+- **Section:** Conclusion (closing paragraph of forecast)
+- **Before:** "…Europe is no longer simply purchasing most of its defence needs from the United States. A clear and strategic plan for defence self-reliance is being demonstrated through the financials of the top ten European defence contractors."
+- **After:** "While Europe remains dependent on the United States for a substantial share of new equipment procurement in the near term (Howorth, 2025), the financials of the top ten European defence contractors demonstrate a clear strategic shift toward greater defence self-reliance."
+- **Rationale:** The previous conclusion sentence overstated the degree of European autonomy and directly contradicted the paper's own Literature Contradictions paragraph (line 288), which cites Howorth (2025) for the claim that European forces purchased the vast majority of new equipment from US companies during the early Ukraine response. The hedged version preserves the structural-shift claim while explicitly acknowledging continued near-term US dependence and citing Howorth (2025) for that fact.
+- **Cohesion check:** Swept "no longer simply purchasing" (0 remaining occurrences — eliminated), "Howorth" (lines 288 and 294 — both in Literature Contradictions, consistent with the caveat now added to the Conclusion; References line 884 — correct entry), "self-reliance" (line 177 — aspirational framing in Introduction, no contradiction; line 783 — the edited sentence, now hedged), "fundamental shift" (line 783 only — the edited sentence, retained), "United States" (line 288 — states EU "still heavily reliant on the United States from a military defence perspective", consistent with new Conclusion hedging; line 783 — edited sentence), "vast majority of their new equipment" (line 288 only — Literature Contradictions paragraph, still intact and now echoed by the Conclusion). No remaining passage contradicts the edit. One cohesion flag raised: line 294 closes with "the European defence industry has crossed a point of no return… a well-funded, united force ready for long-term global security" — this is in the Literature Review's synthesis paragraph and carries its own hedging via attribution ("the research overwhelmingly agrees"); it does not make an autonomous over-claim, but it sits close to the tension and should be reviewed in the Conclusion expansion (Gonchar 44).
+- **Commit:** <fill in after committing>
+
 ### 2026-05-01 — Mellace et al. (2025) miscitation dropped from Introduction (Gonchar 4)
 - **Resolves:** Gonchar id 4 / referee: (none — editor-flagged)
 - **Section:** Introduction

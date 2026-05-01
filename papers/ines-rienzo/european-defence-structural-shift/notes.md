@@ -9,7 +9,7 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 - [x] **"eight of the ten companies" + arithmetic + artifacts** (Gonchar 40, 42) — units wrong (cells, not firms); ≈35% not 40%; fix "areis", "compelling supports". *Applied; see CHANGELOG 2026-05-01.*
 - [ ] **Russia invaded in 2014** (Gonchar 1, 2, 43) — recast every "first conventional warfare in Europe" / "occupation of Crimea" passage; 2022 is an *expansion* of an ongoing 2014 invasion.
 - [x] **Mellace et al. miscited** (Gonchar 4) — that paper is on the 2025 US aid suspension, not 2022. Fix or drop. *Applied; see CHANGELOG 2026-05-01.*
-- [ ] **Conclusion contradicts Howorth (2025)** (Gonchar 45) — line "Europe is no longer simply purchasing most of its defence needs from the United States" must be hedged.
+- [x] **Conclusion contradicts Howorth (2025)** (Gonchar 45) — line "Europe is no longer simply purchasing most of its defence needs from the United States" must be hedged. *Applied; see CHANGELOG 2026-05-01.*
 
 ## Tier 2 — references and citations
 

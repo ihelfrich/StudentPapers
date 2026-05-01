@@ -780,7 +780,7 @@ General macroeconomic conditions may impact companies across the data set in a r
 
 # **Conclusion** 
 
-The overall trend forecasts that this fundamental shift will be sustained. Europe is no longer simply purchasing most of its defence needs from the United States. A clear and strategic plan for defence self-reliance is being demonstrated through the financials of the top ten European defence contractors.
+The overall trend forecasts that this fundamental shift will be sustained. While Europe remains dependent on the United States for a substantial share of new equipment procurement in the near term (Howorth, 2025), the financials of the top ten European defence contractors demonstrate a clear strategic shift toward greater defence self-reliance.
 
 The 2022 war on Ukraine awakened the entire continent and the world. We can confidently say that the Peace Dividend era is fading and that the exclusion of defence companies from policy frameworks such as ESG is a bygone narrative. The defence industry today is no longer unanimously seen as a war-waging mechanism, but rather as an essential pillar of nations and the security of European society.
 
