@@ -7,7 +7,7 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 
 - [x] **Book-to-bill formula inverted** (Gonchar 37) — fix prose; numbers OK. *Applied; see CHANGELOG 2026-05-01.*
 - [x] **"eight of the ten companies" + arithmetic + artifacts** (Gonchar 40, 42) — units wrong (cells, not firms); ≈35% not 40%; fix "areis", "compelling supports". *Applied; see CHANGELOG 2026-05-01.*
-- [ ] **Russia invaded in 2014** (Gonchar 1, 2, 43) — recast every "first conventional warfare in Europe" / "occupation of Crimea" passage; 2022 is an *expansion* of an ongoing 2014 invasion. *Gonchar 1 applied (Executive Summary opener, edit 1 of 4 in "2014 framing" series, commit e40464b); Gonchar 2 applied (Introduction opener, line 200, edit 2 of 4, commit TBD); Gonchar 43 (line 777) pending edit 4.*
+- [ ] **Russia invaded in 2014** (Gonchar 1, 2, 43) — recast every "first conventional warfare in Europe" / "occupation of Crimea" passage; 2022 is an *expansion* of an ongoing 2014 invasion. *Gonchar 1 applied (Executive Summary opener, edit 1 of 4 in "2014 framing" series, commit e40464b); Gonchar 2 applied (Introduction opener, line 200, edit 2 of 4, commit 60e9506); Gonchar 43 (line 777) pending edit 4.*
 - [x] **Mellace et al. miscited** (Gonchar 4) — that paper is on the 2025 US aid suspension, not 2022. Fix or drop. *Applied; see CHANGELOG 2026-05-01.*
 - [x] **Conclusion contradicts Howorth (2025)** (Gonchar 45) — line "Europe is no longer simply purchasing most of its defence needs from the United States" must be hedged. *Applied; see CHANGELOG 2026-05-01.*
 
