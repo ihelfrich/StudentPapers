@@ -223,8 +223,6 @@ During the long period of relative calm following the collapse of the Soviet Uni
 
   
 
-## **Evidence of a Cyclical Shift**
-
 *Temporary Spike*
 
 Certain research points to the idea that Europe's reaction to the Ukrainian conflict appears to be a temporary spike in activity and not a permanent change in defence production. Most European nations are members of the Permanent Structured Cooperation (PESCO), which serves as a unifying defence alliance similar to NATO but with a specific focus on the European Union. In 2017, under PESCO, most European nations had agreed to increase their defence budgets consistently as part of their shared commitments. However, only half of the nations fulfilled this commitment (Cepparulo & Pasimeni, 2024). Figure 1The graph below illustrates the annual yearly percentage change in European Union defence spending from 2000 to 2022.

@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Drop ## Evidence of a Cyclical Shift header; content attaches to 3.1 (Tier 3 Step 3/12)
+- **Resolves:** Gonchar id (none — multi-step; id 5 will be closed at end of Phase B/C) / referee: tier-3-structure-step-3-of-12
+- **Section:** Drop ## Evidence of a Cyclical Shift header; content attaches to 3.1 (Tier 3 Step 3/12)
+- **Before:** "## **Evidence of a Cyclical Shift**\n\n*Temporary Spike*"
+- **After:** "*Temporary Spike*"
+- **Rationale:** Per RESTRUCTURE_PLAN.md Step 3, the `## Evidence of a Cyclical Shift` header is dropped. The cyclical-evidence content (Temporary Spike paragraph, Figure 1 caption, the foil "One inference" paragraph) is now part of 3.1 History of European Defence Spending. The italic *Temporary Spike* lead remains as a bold/italic intra-section marker (not a heading). "An Improvised Solution" sub-block (currently lines 242–244 area) temporarily sits at the bottom of 3.1 until Step 4 moves it to the new 3.2 Russia's Invasion of Ukraine section. This is the surgical, atomic version of the move — no content relocation, just header removal.
+- **Cohesion check:** (1) "Evidence of a Cyclical Shift" — 1 remaining occurrence at line 85 (TOC entry `[Evidence of a Cyclical Shift 11](…)`) — stale TOC link; flag for Step 11, no action here. 0 body occurrences remain. (2) "Temporary Spike" — 1 occurrence at line 226 (italic lead `*Temporary Spike*`, now sitting directly under `## **3.1 History of European Defence Spending**`); correct, no conflict. (3) "Figure 1" — 2 occurrences: line 228 (inline reference "Figure 1The graph below…" in body prose — pre-existing typo, no new issue) and line 232 (caption `**Figure 1: EU Defence Spending Growth 2000-2022 (Annual % Change)**`); both intact, no broken figure reference. (4) "An Improvised Solution" — 1 occurrence at line 242 (italic lead `*An Improvised Solution*`); still present and intact; temporarily orphaned in 3.1 as expected — this is the target of Step 4. COHESION FLAGS FOR STEP 11: TOC line 85 carries stale label "Evidence of a Cyclical Shift 11" and will be rebuilt in Step 11 of this series. COHESION NOTE FOR STEP 4: `*An Improvised Solution*` block (lines 242–end of section) now sits at the bottom of 3.1 and must be moved to 3.2 Russia's Invasion of Ukraine in Step 4.
+- **Commit:** TBD
+
 ### 2026-05-02 — Historical Baseline subsection renamed to 3.1 History of European Defence Spending (Tier 3 Step 2/12)
 - **Resolves:** Gonchar id (none — multi-step; id 5 will be closed at end of Phase B/C) / referee: tier-3-structure-step-2-of-12
 - **Section:** Historical Baseline subsection renamed to 3.1 History of European Defence Spending (Tier 3 Step 2/12)
