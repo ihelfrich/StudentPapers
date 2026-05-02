@@ -73,87 +73,69 @@ On another note, AI is a key part of my semantic analysis, in which I asked both
 
 **Table of Contents**
 
-[**Executive Summary** **7**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.97qishhleko9)
+**1. Executive Summary**
 
-[**Introduction** **8**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.pc5afu6scsgb)
+**2. Introduction**
 
-[**Literature Review** **10**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.mrgno0tcnou1)
+**3. Background**
 
-[Historical Baseline 10](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.srgzu9gih9pf)
+&nbsp;&nbsp;&nbsp;&nbsp;3.1 History of European Defence Spending
 
-[Evidence of a Cyclical Shift 11](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.8uzt649l6ycs)
+&nbsp;&nbsp;&nbsp;&nbsp;3.2 Russia's Invasion of Ukraine
 
-[Evidence of Structural Shift 12](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.hls728g9xbu9)
+**4. Literature Review**
 
-[Textual Analysis of Corporate Disclosures 13](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.lxucvn8nvgd7)
+&nbsp;&nbsp;&nbsp;&nbsp;4.1 Textual Analysis of Corporate Disclosures
 
-[Detecting Structural Change 14](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.7gkpie1vid6q)
+&nbsp;&nbsp;&nbsp;&nbsp;4.2 Literature Contradictions
 
-[Literature Contradictions 14](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.be4clboermro)
+&nbsp;&nbsp;&nbsp;&nbsp;4.3 Current Literature Gaps and Our Contributions
 
-[Current Literature Gaps and Our Contributions 16](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.g0mkm13x2wbp)
+**5. Theoretical Framework**
 
-[**Analytical and Theoretical Frameworks** **16**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.1tnvyguf7qt0)
+&nbsp;&nbsp;&nbsp;&nbsp;5.1 Structural Break Analysis
 
-[Structural Break Analysis 16](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.5bkjgntnrgjf)
+&nbsp;&nbsp;&nbsp;&nbsp;5.2 Signalling Theory
 
-[Signaling Theory 17](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.qq1thcrfh4vm)
+&nbsp;&nbsp;&nbsp;&nbsp;5.3 Framing Theory
 
-[Framing Theory 18](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.rf8uynvhjm7t)
+**6. Data**
 
-[**Mixed Methods** **19**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.66quuy5rzd9p)
+**7. Mixed Methods**
 
-[Data Collection 19](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.bzeirfvemvb6)
+&nbsp;&nbsp;&nbsp;&nbsp;7.1 Semantic Analysis
 
-[Semantic Analysis 20](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.rc2ptyvppx77)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.1 Methodology
 
-[Methodology 20](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.5u7y1wmlsln1)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.2 Large Language Model Framework
 
-[Large Language Model Framework 20](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.jfessv4nopqj)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.3 Results
 
-[Results 21](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.aw29wm9cuixx)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.4 Inter-Rater Reliability Using a Second AI Model
 
-[The Overall Picture 21](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.l1ilqp27wvyp)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.5 Difference-in-Difference (DiD) Analysis
 
-[Classification 22](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.13sc2nx502j)
+&nbsp;&nbsp;&nbsp;&nbsp;7.2 Financial Analysis
 
-[Company-level Assessment 24](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.miyo8pirprl1)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2.1 Methodology
 
-[The Outliers 25](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.q837hbo4w8pv)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2.2 Tests
 
-[Investment Commitment Language 27](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.szq3ux1cd8wv)
+**8. Contextualisation of Mixed Methods vis-à-vis the Theoretical Framework and Results**
 
-[Inter-Rater Reliability Using a Second AI Model 28](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.y588jwm71jwk)
+&nbsp;&nbsp;&nbsp;&nbsp;8.1 Key Signalling Links Between Analyses
 
-[Difference-in-Difference (DiD) Analysis 29](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.97ulzqrnoiy6)
+&nbsp;&nbsp;&nbsp;&nbsp;8.2 Pre- and Post-Invasion Framing
 
-[Financial Analysis 33](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.13gmimgtw6ug)
+&nbsp;&nbsp;&nbsp;&nbsp;8.3 Theoretical Support through Company Heterogeneity
 
-[Methodology 33](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.qxg782y4qtg1)
+&nbsp;&nbsp;&nbsp;&nbsp;8.4 Summary of Key Limitations and Potential Avenues for Future Study
 
-[Tests 34](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.sztmqszhjmld)
+**9. Conclusion**
 
-[Test 1 - Comparing Metric Averages Before and After the Invasion (Welch) 34](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.aom8zhtmtd38)
+**References**
 
-[Test 2 - Confirming the Break Point, Per-Company and Pooled Chow Tests 35](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.iypbchg9eru3)
-
-[Test 3 - Panel Fixed-Effects Regression 37](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.y9zynjd9f7l4)
-
-[**Contextualisation of Mixed-Methods vis-a-vis the Theoretical Framework and Results** **39**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.hkx49j4edy9n)
-
-[Key Signalling Links Between Analyses 39](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.4vfd8e84flkk)
-
-[Pre- and Post-Invasion Framing 40](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.qcjd42sc82pe)
-
-[Theoretical Support through Company Heterogeneity 41](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.odyw08kl5bsb)
-
-[Summary of Key Limitations and Potential Avenues for Future Study 41](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.mu6kih1hybg2)
-
-[**Conclusion** **43**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.nlsqrm94wc0q)
-
-[**References** **44**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.fxnmlyoic2b)
-
-[**Appendix** **47**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.kcst2grop0ju)
+**Appendix**
 
   
   
