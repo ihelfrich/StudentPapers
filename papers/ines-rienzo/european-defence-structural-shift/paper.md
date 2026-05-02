@@ -1,4 +1,3 @@
-# Onglet 1  
 
   
   
@@ -74,87 +73,69 @@ On another note, AI is a key part of my semantic analysis, in which I asked both
 
 **Table of Contents**
 
-[**Executive Summary** **7**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.97qishhleko9)
+**1. Executive Summary**
 
-[**Introduction** **8**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.pc5afu6scsgb)
+**2. Introduction**
 
-[**Literature Review** **10**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.mrgno0tcnou1)
+**3. Background**
 
-[Historical Baseline 10](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.srgzu9gih9pf)
+&nbsp;&nbsp;&nbsp;&nbsp;3.1 History of European Defence Spending
 
-[Evidence of a Cyclical Shift 11](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.8uzt649l6ycs)
+&nbsp;&nbsp;&nbsp;&nbsp;3.2 Russia's Invasion of Ukraine
 
-[Evidence of Structural Shift 12](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.hls728g9xbu9)
+**4. Literature Review**
 
-[Textual Analysis of Corporate Disclosures 13](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.lxucvn8nvgd7)
+&nbsp;&nbsp;&nbsp;&nbsp;4.1 Textual Analysis of Corporate Disclosures
 
-[Detecting Structural Change 14](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.7gkpie1vid6q)
+&nbsp;&nbsp;&nbsp;&nbsp;4.2 Literature Contradictions
 
-[Literature Contradictions 14](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.be4clboermro)
+&nbsp;&nbsp;&nbsp;&nbsp;4.3 Current Literature Gaps and Our Contributions
 
-[Current Literature Gaps and Our Contributions 16](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.g0mkm13x2wbp)
+**5. Theoretical Framework**
 
-[**Analytical and Theoretical Frameworks** **16**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.1tnvyguf7qt0)
+&nbsp;&nbsp;&nbsp;&nbsp;5.1 Structural Break Analysis
 
-[Structural Break Analysis 16](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.5bkjgntnrgjf)
+&nbsp;&nbsp;&nbsp;&nbsp;5.2 Signalling Theory
 
-[Signaling Theory 17](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.qq1thcrfh4vm)
+&nbsp;&nbsp;&nbsp;&nbsp;5.3 Framing Theory
 
-[Framing Theory 18](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.rf8uynvhjm7t)
+**6. Data**
 
-[**Mixed Methods** **19**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.66quuy5rzd9p)
+**7. Mixed Methods**
 
-[Data Collection 19](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.bzeirfvemvb6)
+&nbsp;&nbsp;&nbsp;&nbsp;7.1 Semantic Analysis
 
-[Semantic Analysis 20](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.rc2ptyvppx77)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.1 Methodology
 
-[Methodology 20](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.5u7y1wmlsln1)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.2 Large Language Model Framework
 
-[Large Language Model Framework 20](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.jfessv4nopqj)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.3 Results
 
-[Results 21](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.aw29wm9cuixx)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.4 Inter-Rater Reliability Using a Second AI Model
 
-[The Overall Picture 21](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.l1ilqp27wvyp)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.1.5 Difference-in-Difference (DiD) Analysis
 
-[Classification 22](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.13sc2nx502j)
+&nbsp;&nbsp;&nbsp;&nbsp;7.2 Financial Analysis
 
-[Company-level Assessment 24](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.miyo8pirprl1)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2.1 Methodology
 
-[The Outliers 25](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.q837hbo4w8pv)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.2.2 Tests
 
-[Investment Commitment Language 27](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.szq3ux1cd8wv)
+**8. Contextualisation of Mixed Methods vis-à-vis the Theoretical Framework and Results**
 
-[Inter-Rater Reliability Using a Second AI Model 28](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.y588jwm71jwk)
+&nbsp;&nbsp;&nbsp;&nbsp;8.1 Key Signalling Links Between Analyses
 
-[Difference-in-Difference (DiD) Analysis 29](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.97ulzqrnoiy6)
+&nbsp;&nbsp;&nbsp;&nbsp;8.2 Pre- and Post-Invasion Framing
 
-[Financial Analysis 33](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.13gmimgtw6ug)
+&nbsp;&nbsp;&nbsp;&nbsp;8.3 Theoretical Support through Company Heterogeneity
 
-[Methodology 33](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.qxg782y4qtg1)
+&nbsp;&nbsp;&nbsp;&nbsp;8.4 Summary of Key Limitations and Potential Avenues for Future Study
 
-[Tests 34](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.sztmqszhjmld)
+**9. Conclusion**
 
-[Test 1 - Comparing Metric Averages Before and After the Invasion (Welch) 34](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.aom8zhtmtd38)
+**References**
 
-[Test 2 - Confirming the Break Point, Per-Company and Pooled Chow Tests 35](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.iypbchg9eru3)
-
-[Test 3 - Panel Fixed-Effects Regression 37](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.y9zynjd9f7l4)
-
-[**Contextualisation of Mixed-Methods vis-a-vis the Theoretical Framework and Results** **39**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.hkx49j4edy9n)
-
-[Key Signalling Links Between Analyses 39](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.4vfd8e84flkk)
-
-[Pre- and Post-Invasion Framing 40](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.qcjd42sc82pe)
-
-[Theoretical Support through Company Heterogeneity 41](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.odyw08kl5bsb)
-
-[Summary of Key Limitations and Potential Avenues for Future Study 41](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.mu6kih1hybg2)
-
-[**Conclusion** **43**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.nlsqrm94wc0q)
-
-[**References** **44**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.fxnmlyoic2b)
-
-[**Appendix** **47**](https://docs.google.com/document/d/1fQtV1I4r3GJgnfDwWdCANBtkDuwVPNz1Tih-qAyWBb0/edit#heading=h.kcst2grop0ju)
+**Appendix**
 
   
   
@@ -172,9 +153,9 @@ On another note, AI is a key part of my semantic analysis, in which I asked both
   
   
 
-# **Executive Summary**
+# **1. Executive Summary**
 
- February of 2022 saw Russia’s full-scale invasion of Ukraine — a major escalation of the war Russia had launched in 2014 with the seizure of Crimea and the incursion into the Donbas — and the first large-scale interstate conventional war in Europe in decades. The continent suddenly awoke to a seismic shift from the status quo. Not only did European countries not expect such aggression, they also realised that the US was no longer a reliable resource in mediating European conflicts. In response to these factors, the European Union (EU) immediately increased defence spending, which defence companies responded to by increasing their own capital expenditure and research and development (R\&D). There was also a shift toward creating capacity for a new self-reliance in defence by EU members. The reasons for the surge in defence spending are clear, but a question arises. Does the upswing in response to the 2022 invasion indicate a *cyclical* shift or a *structural* one? 
+ February of 2022 saw Russia’s full-scale invasion of Ukraine, a major escalation of the war Russia had launched in 2014 with the seizure of Crimea and the incursion into the Donbas. The 2022 invasion was the first large-scale interstate conventional war in Europe in decades. The continent suddenly awoke to a seismic shift from the status quo. Not only did European countries not expect such aggression, they also realised that the US was no longer a reliable resource in mediating European conflicts. In response to these factors, the European Union (EU) immediately increased defence spending, which defence companies responded to by increasing their own capital expenditure and research and development (R\&D). There was also a shift toward creating capacity for a new self-reliance in defence by EU members. The reasons for the surge in defence spending are clear, but a question arises. Does the upswing in response to the 2022 invasion indicate a *cyclical* shift or a *structural* one? 
 
  The research for this paper employs econometric (structural break theory) and theoretical frameworks (signalling and framing theories). It involves both semantic and quantitative approaches and uses eight years of annual reports (2018-2025) of the same ten companies (Airbus, BAE Systems, Dassault Aviation, Indra, Leonardo, Rheinmetall, Rolls-Royce Holdings, Saab, Safran, and Thales). Annual reports serve well to generate analyses for this study, since these documents reflect the financial and cultural positions of firms. 
 
@@ -193,23 +174,23 @@ Based on both the semantic and financial analyses, a structural shift has occurr
   
   
 
-# **Introduction** 
+# **2. Introduction**
 
   
 
-Russia’s full-scale invasion of Ukraine in 2022 broke a period of relative social and economic calm in Europe that its earlier 2014 invasion — the seizure of Crimea and the incursion into the Donbas, which simmered as an active conflict zone for the next eight years — had not. The 2022 escalation alarmed people, as it was the largest conventional war on European soil since World War II, and shook the complacent belief that peace in the post-Cold War era would be sustainable indefinitely. The NATO alliance faced upheavals and questions regarding the resolute support of the US, and in contrast to 2014, Ukraine would now need to enlist support and devote resources to maintain its sovereignty. This quickly affected the European economy, but nowhere more prominently than in the defence sector. For the EU and its member countries, the conflict caused an immediate reevaluation of security policies and readiness of their defence industries (Genini, 2025). Almost overnight, European defence companies experienced a massive influx of capital, including a spike in orders to refill national military stockpiles (IvančíkRadoslav, 20254). Consequently, European nations and defence companies have committed to securing an upgraded level of security, and, moreover, one that can be sustained regardless of the whims of any external force.  
+Russia’s full-scale invasion of Ukraine in 2022 broke a period of relative social and economic calm in Europe that its earlier 2014 invasion had not. The 2014 invasion seized Crimea and opened the Donbas conflict, which simmered as an active conflict zone for the next eight years. The 2022 escalation alarmed people, as it was the largest conventional war on European soil since World War II, and shook the complacent belief that peace in the post-Cold War era would be sustainable indefinitely. The NATO alliance faced upheavals and questions regarding the resolute support of the US, and in contrast to 2014, Ukraine would now need to enlist support and devote resources to maintain its sovereignty. This quickly affected the European economy, but nowhere more prominently than in the defence sector. For the EU and its member countries, the conflict caused an immediate reevaluation of security policies and readiness of their defence industries (Genini, 2025). Almost overnight, European defence companies experienced a massive influx of capital, including a spike in orders to refill national military stockpiles (Ivančík, 2025). Consequently, European nations and defence companies have committed to securing an upgraded level of security, and, moreover, one that can be sustained regardless of the whims of any external force.  
 
-The question that emerges from this new, sustained conflict is: did Russia’s invasion of Ukraine in February 2022 create a structural or cyclical shift in European defence companies? The sequence of events since 2022 has created sustained demand for products from the defence sector. Whether the economic shifts in this sector are cyclical or structural becomes a more heated debate in a volatile geopolitical landscape that includes other global conflicts. Europe has increasingly sought strategic autonomy and independence from external policy caprices. Europe’s response to the Ukraine invasion reveals a clear need for greater defence autonomy: starting from the year 2005 to the year 2023,  approximately 37% of EU defence equipment was imported from outside the bloc. Further, 80% of EU financial support for Ukraine was spent on non-EU military products (Genini, 2025). Without questionObviously, any major upheaval, such as COVID-19 or natural disasters, can shift a short-term allocation toward one sector or another, but the threat of an elongated conflict and the desire for autonomy are likely to drive a shift toward fundamental strategic independence.
+The question that emerges from this new, sustained conflict is: did Russia’s invasion of Ukraine in February 2022 create a structural or cyclical shift in European defence companies? The sequence of events since 2022 has created sustained demand for products from the defence sector. Whether the economic shifts in this sector are cyclical or structural becomes a more heated debate in a volatile geopolitical landscape that includes other global conflicts. Europe has increasingly sought strategic autonomy and independence from external policy caprices. Europe’s response to the Ukraine invasion reveals a clear need for greater defence autonomy: starting from the year 2005 to the year 2023,  approximately 37% of EU defence equipment was imported from outside the bloc. Further, 80% of EU financial support for Ukraine was spent on non-EU military products (Genini, 2025). Without questionObviously, any major upheaval, such as COVID-19 or natural disasters, can shift a short-term allocation toward one sector or another, but the threat of an elongated conflict and the desire for autonomy are likely to drive a shift toward greater strategic independence.
 
-Academic research suggests that the early reaction to the invasion was cyclical, implying that governments predictably articulated temporary funding methods to purchase readily available stockpiles in an effort to respond to a crisis situation (Cepparulo & Pasimeni, 2024). As the conflict and its accompanying geopolitical dynamics evolved, however, it became clear that a  structural transformation appears to be underway (IvančíkRadoslav, 20254). This research paper reviews the evidence for both temporary and permanent shifts. As governmental and industrial strategies are still developing, the longitudinal evidence is in many ways yet to be understood. However, the measurable evidence, thus far, is striking and clearly indicates a trend that seems to lean toward an ongoing structural shift. 
-
-  
-
-# **Literature Review**
+Academic research suggests that the early reaction to the invasion was cyclical, implying that governments predictably articulated temporary funding methods to purchase readily available stockpiles in an effort to respond to a crisis situation (Cepparulo & Pasimeni, 2024). As the conflict and its accompanying geopolitical dynamics evolved, however, it became clear that a  structural transformation appears to be underway (Ivančík, 2025). This research paper reviews the evidence for both temporary and permanent shifts. As governmental and industrial strategies are still developing, the longitudinal evidence is in many ways yet to be understood. However, the measurable evidence, thus far, is striking and clearly indicates a trend that seems to lean toward an ongoing structural shift. 
 
   
 
-## **Historical Baseline**
+# **3. Background**
+
+  
+
+## **3.1 History of European Defence Spending**
 
 *Defence Companies as “Sin Stocks”*
 
@@ -223,8 +204,6 @@ During the long period of relative calm following the collapse of the Soviet Uni
 
   
 
-## **Evidence of a Cyclical Shift**
-
 *Temporary Spike*
 
 Certain research points to the idea that Europe's reaction to the Ukrainian conflict appears to be a temporary spike in activity and not a permanent change in defence production. Most European nations are members of the Permanent Structured Cooperation (PESCO), which serves as a unifying defence alliance similar to NATO but with a specific focus on the European Union. In 2017, under PESCO, most European nations had agreed to increase their defence budgets consistently as part of their shared commitments. However, only half of the nations fulfilled this commitment (Cepparulo & Pasimeni, 2024). Figure 1The graph below illustrates the annual yearly percentage change in European Union defence spending from 2000 to 2022.
@@ -237,25 +216,31 @@ Certain research points to the idea that Europe's reaction to the Ukrainian conf
 
   
 
-One inference is that if defence spending growth stagnated and returned to trend (mean-reversion) even after Russia's 2014 invasion of Ukraine — which seized Crimea and opened a sustained war in the Donbas — then a similar reversion may follow the 2022 escalation.
+One inference is that if defence spending growth stagnated and returned to trend (mean-reversion) even after Russia’s 2014 invasion of Ukraine, which seized Crimea and opened a sustained war in the Donbas, then a similar reversion may follow the 2022 escalation.
 
   
+
+Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in demand, and the incentive to invest large amounts of capital did not exist. The invasion dramatically changed this. Still, as governments anticipated longer-term defence needs, it was necessary for them to send consistent –and costly–signals to defence companies to make credible that they were intent upon developing and expanding their militaries (Ribera Payá & Barredo González, 2025).
+
+  
+
+For many years after the Cold War, the European defence industry was framed predominantly through a lens of ethical liability and restraint. The key political narrative placed emphasis on the previously -noted peace dividends and demilitarisation. The defence sector was often framed as an unfortunate, heavily regulated necessity rather than a public good. In financial markets, this framing resulted in the exclusion of most defence companies from many Environmental, Social, and Governance ESG (ESGEnvironmental, Social, and Governance) portfolios, creating the moral opinion that weapons manufacturing was inherently risky or anti-sustainable (Drempetic et al., 2020).
+
+  
+
+## **3.2 Russia’s Invasion of Ukraine**
+
+Given its nature and organisation, the EU had no choice but to devise a limited short-term response to the invasion of Ukraine, but as it became clear that this conflict would not be resolved quickly, a more developed long-term response took shape. Government policies, economic forecasts, and the way companies saw their role in adapting to this new level of Russian aggression all influenced a stimulation of the European defence market. Companies could now foresee a necessary expansion and adapt to a far broader scale of operation and production.
 
 *An Improvised Solution*
 
-The uncertainty and volatility in countries providing defence aid to Ukraine are obviously driven by simultaneous, parallel political and economic developments. For example, when the U.S. commitment to Ukraine became uncertainlear in early 2025., As a result, European countries and the EU were compelled to fill the gap. – Tthe conflict, after all, was in Europe’s backyard, and Russian aggression loomed as a clear possibility to Europe’s eastern areas. Even though Europe gave a record €26.9 billion to Ukraine in the first part of 2025, analysts warned this spike was temporary, uneven, and relied on one-time funding tricks, such as using the interest from frozen Russian assets (Mellace et al., 2025). Even when these short-term efforts to fill a funding void were instituted, the policymakers who crafted them were driven to create a fast fix -to stop the bleeding, as it were-and the “band-aid” nature of this response implied that a more sustainable course of providing a coherent continental level of defence security needed to be developed.
-
-  
-
-## **Evidence of Structural Shift**
-
-Given its nature and organisation, the EU had no choice but to devise a limited short-term response to the invasion of Ukraine, but as it became clear that this conflict would not be resolved quickly, a more developed long-term response took shape. Government policies, economic forecasts, and the way companies saw their role in adapting to this new level of Russian aggression all influenced a stimulation of the European defence market. Companies could now foresee a necessary expansion and adapt to a far broader scale of operation and production.
+The uncertainty and volatility in countries providing defence aid to Ukraine are obviously driven by simultaneous, parallel political and economic developments. For example, when the U.S. commitment to Ukraine became uncertainlear in early 2025., As a result, European countries and the EU were compelled to fill the gap. – Tthe conflict, after all, was in Europe’s backyard, and Russian aggression loomed as a clear possibility to Europe’s eastern areas. Even though Europe gave a record €26.9 billion to Ukraine in the first part of 2025, analysts warned this spike was temporary, uneven, and relied on one-time funding tricks, such as using the interest from frozen Russian assets (Mellace et al., 2025). Even when these short-term efforts to fill a funding void were instituted, the policymakers who crafted them were driven to create short-term measures, and the limited durability of these arrangements implied that a more sustainable, coherent continental level of defence security needed to be developed.
 
   
 
 *Underlying Political Change*
 
-The EU, somewhat remarkably given its prior reluctance to find consensus on defence matters, now grouped together to address a clear European demand for defence, a demand that necessitated a scaling up of production, investment, and long-term policies. The EU created new policies like the Act in Support of Ammunition Production (ASAP) and the European Defence Industry Reinforcement through Common Procurement Act (EDIRPA) to clear supply bottlenecks and encourage countries to buy supplies together (Lane Jean-Claude, 2024).
+The EU, somewhat remarkably given its prior reluctance to find consensus on defence matters, now grouped together to address a clear European demand for defence, a demand that necessitated a scaling up of production, investment, and long-term policies. The EU created new policies like the Act in Support of Ammunition Production (ASAP) and the European Defence Industry Reinforcement through Common Procurement Act (EDIRPA) to clear supply bottlenecks and encourage countries to buy supplies together (Lane, 2024).
 
  More recently, the European Defence Industrial Strategy, also known as (EDIS), showed a deeply committed stance toward a truly united market which aims to fundamentally reverse the trend of relying on non-EU suppliers and instead permanently boosts the entire bloc's industrial readiness. The innovative use of joint funds like the European Peace Facility highly suggests that the EU is moving from a purely economic project to a genuine security provider that can deliver the needed funds for weapons at scale and even be used to train soldiers like the 75,000 Ukrainian troops that were trained by early 2025 (Andersson & Britz, 2025).
 
@@ -267,97 +252,95 @@ Recent macroeconomic analyses reflect that the transition to a “war economy”
 
   
 
+# **4. Literature Review**
+
 *Microeconomic Transition*
 
 This conflict has resulted in a new transition in which the top defence contractors are reinvigorated,  quickly growing their presence and signaling that demand for their land warfare materials will be maintained for the next decade to come, which will require more capacity increases (Freedman, 2023).
 
 Another subset of contractors, such as Rheinmetall and Saab, are reverting to a different strategy. Previous conflicts resulted in cyclical anomalies akin to temporary “government handouts.” Under the new paradigm, these and other companies are changing their core operations to focus on “dual-use” technologies to fulfill long-term demand (EhrnborgBörjeson Kennedy et al., 2025). In Ukraine, the battlefield brought about new truths regarding the kind of fighting technologies that are most critical. For example, drones and cyber warfare have influenced contractors to place heavy, permanent investments into new jamming technology (Osimen et al., 2025).
 
-## **Textual Analysis of Corporate Disclosures**
+## **4.1 Textual Analysis of Corporate Disclosures**
 
 In past research, the texts of corporate reports and disclosures have been traditionally analysed, and finance-specific word lists were applied in this dictionary-based method. Loughran and McDonald (2011) crafted these word inventories (2011) and showed that when applied to financial language, domain-adapted lexicons outperform general sentiment dictionaries. For example, the word “investment” may signal either a generational capital commitment or cautious discipline toward costs, but because dictionary methods measure word frequency and cannot capture intent or context, their value owes more to transparency than to precision in capturing a text’s overall message or intent. Nevertheless, the dictionary method is still widely used. More recently, large language models (LLMs) have been applied, as these provide for a more holistic framing while still creating structured outputs compatible with statistical analysis. LLM-based methods have met with concerns regarding replicability and inter-rater reliability, but these are typically addressed by using cross-model validation and agreement statistics such as Cohen’s Kappa (Landis & Koch, 1977). An LLM-based approach, therefore, suits this thesis, as the research question centeres on narrative intent rather than word frequency, and the LLM scoring is validated by independent replication via two models, Claude API key (Anthropic, claude-opus-4-5-model) and Gemini 2.5 API key. 
 
-## **Detecting Structural Change**
-
-Distinguishing temporary shocks from permanent regime changes is, of course, necessary here, and the econometric literature concerning structural break theory was developed by Chow (1960). This tests the significance of relative regression parameters that occur beforeprior to and after a specific transition point, but this test’s primary drawback comes from limited sample size. Work aiming to identify breaks typically addresses the complement of per-unit tests with pooled specifications, panel-fixed effects models that absorb time-invariant heterogeneity, and heteroskedasticity-robust standard errors. The difference-in-differences estimation, applied only to narrative text in this thesis, complements this and identifies causal effects of shocks that impact both treated and control groups. The methods noted above address distinct questions, and current applied work usually combines them to triangulate findings. These traditions are combined across both halves of the analysis in this thesis: financial metrics are evaluated via Welch comparisons, pooled and per-company Chow tests, and panel-fixed regressions. The evaluation of the LLM-generated narrative scores is, however, carried out by using a difference-in-differences template; in this case, commercial aerospace firms serve as a control group in the larger realm of defence-primary firms. Evidence that converges between methods is applied to both narrative and financial outcomes, and this should compensate for any single text’s specific limitations.
-
   
 
-## **Literature Contradictions**
+## **4.2 Literature Contradictions**
 
 While many researchers point to a permanent shift in the defence sector, there are still certain caveats accompanyingoverhanging the conclusions. First, researchers point out a major contradiction which is that the EU wants to be independent;, however, it is still heavily reliant on the United States from a military defence perspective. As European forces hurried to provide critical support to Ukraine, they purchased the vast majority of their new equipment from US companies (Howorth, 2025). If European countries keep shifting funds away from their own defence production, they risk becoming more dependent on the US, which creates a structural barrier to true EU defence integration.
 
-Second, there is the ongoing worry about war fatigue. Convincing the public of the necessity of utilising more funds on war efforts increases in difficulty as the conflict carries on without a clear end in sight ([Holesch](https://www.tandfonline.com/author/Holesch%2C+Adam) & [Martill](https://www.tandfonline.com/author/Martill%2C+Benjamin), 2026). A very common debate regarding this issue is often called “guns versus butter” which holds that if a government spends more on guns it will have fewerless funds for public benefits. If a nation’s policy makers return to favouring social utility programs, then the defence industry's new funding could quickly evaporate (Sacchi et al., 2025).
+Second, there is the ongoing worry about war fatigue. Convincing the public of the necessity of utilising more funds on war efforts increases in difficulty as the conflict carries on without a clear end in sight ([Holesch](https://www.tandfonline.com/author/Holesch%2C+Adam) & [Martill](https://www.tandfonline.com/author/Martill%2C+Benjamin), 2026). A very common debate regarding this issue is often called “guns versus butter”: the idea that money spent on military capacity is money not available for civilian welfare (Sacchi et al., 2026). If a nation’s policy makers return to favouring social utility programs, then the defence industry’s new funding could quickly evaporate (Sacchi et al., 2026).
 
-At the onset of the conflict, the response was definitely accelerated, as European governments scrambled to purchase whatever was readily available and rapidly emptied their existing warehouses. However, this crisis exposed the fatal flaws of a disconnected industrial base. According to the “failing forward” theory of European integration, this exact type of crisis is what forces EU leaders to create strong, permanent rules and programs to unify defence efforts (Lane Jean-Claude, 2024).
+At the onset of the conflict, the response was definitely accelerated, as European governments scrambled to purchase whatever was readily available and rapidly emptied their existing warehouses. However, this crisis exposed the fatal flaws of a disconnected industrial base. According to the “failing forward” theory of European integration, this exact type of crisis is what forces EU leaders to create strong, permanent rules and programs to unify defence efforts (Lane, 2024).
 
-At the same time, the business side of defence has entirelycompletely changed. As the old perceptions regarding spending on weaponry begin to shift, we start to see a large influx of capital into the industry, admitting in the process its crucial nature from a socioeconomic lens (Shevchuk & Luchka, 2024). The excessive reliance on US technology and the risk that the public will refuse to sacrifice their social services to pay for rearmament remain as key challenges. Nonetheless, the research overwhelmingly agrees that the European defence industry has crossed a point of no return. It has moved from a quiet, scattered peacetime operation to a well-funded, united force ready for long-term global security (Genini, 2025; Howorth, 2025; IvančíkRadoslave, 20254).
-
-  
-
-## **Current Literature Gaps and Our Contributions**
-
- An abundance of literature exists about the conflict's effects on European nations and the reactionary strategies that followed, but as yet no comprehensive analysis jointly examines the communications and financial data of the defence contractors themselves. This thesis scrutinises management teams’ semantic narratives in conjunction along with their companies’ key financial metrics in order to broaden understanding of shifts in European industry goals. 
+At the same time, the business side of defence has entirelycompletely changed. As the old perceptions regarding spending on weaponry begin to shift, we start to see a large influx of capital into the industry, admitting in the process its crucial nature from a socioeconomic lens (Shevchuk & Luchka, 2024). The excessive reliance on US technology and the risk that the public will refuse to sacrifice their social services to pay for rearmament remain as key challenges. Nonetheless, the research overwhelmingly agrees that the European defence industry has crossed a point of no return. It has moved from a quiet, scattered peacetime operation to a well-funded, united force ready for long-term global security (Genini, 2025; Howorth, 2025; Ivančík, 2025).
 
   
 
-# **Analytical and Theoretical Frameworks**
+## **4.3 Current Literature Gaps and Our Contributions**
 
-In order to determine whether Russia’s invasion of Ukraine did indeed force a structural shift or a cyclical one, a strong theoretical model must be applied. From 2018-2025, the dynamics in Europe and among defence companies changed. Now, a complex environment of ethical questions, changing budgets, and shifting global political priorities has emerged. This evolution has energised the defence sector and prompts a close look at three key theoretical frameworks: structural break theory, signalling theory, and framing theory.
+The literature reviewed above approaches the post-2022 European defence shift from three distinct angles, but no single study brings them together. Macro-level analyses examine EU spending and procurement patterns (Cepparulo & Pasimeni, 2024; Genini, 2025; Lane, 2024). Firm-level studies look at how individual contractors are adapting their strategy and product mix (Freedman, 2023; Börjeson Kennedy et al., 2025; Osimen et al., 2025). A separate methodological literature has refined the tools for measuring intent in corporate disclosures (Loughran & McDonald, 2011). Each of these strands is informative on its own, but none of them joins the narrative signal coming from management to the financial signal coming from the same companies' books, in a single panel, across a comparable set of firms over the same time window.
 
-As applied to the original research question, structural break theory distinguishes the difference between a short-term bump and a permanent shift in the defence sector. Signalling theory reflects how the defence contractors articulate long-term plans through their communications and earnings during volatile economic conditions. Finally, framing theory breaks down the companies’ changing public narrative to anticipate or promote long-term economic changes. This can be accomplished via an analysis of word-choice and tone in the annual reports. Together, these three theories merge to give a clear understanding of how the European defence industry has evolved in the EU era, and more to the point, in the years leading up to and then after 2022.
+This thesis contributes that joint analysis. First, it applies an LLM-based scoring framework to 79 annual reports from ten listed European defence primes between 2018 and 2025, producing a comparable structural-vs-cyclical score for each report. Second, it tests whether the narrative shift is corroborated in the same firms' financial data, using three complementary tests on six metrics: a Welch t-test of pre- and post-invasion means, a Chow test for structural breaks, and a panel fixed-effects regression that controls for firm-level differences and pre-existing trends. Third, it validates the post-2022 narrative shift with a difference-in-differences design that uses commercial-aerospace firms as a control group, separating the defence-specific effect from broader macroeconomic recovery.
+
+The relevance extends beyond the academic question. If the shift identified across both signals proves structural, capital allocation, EU industrial policy, and the post-Cold-War "peace dividend" frame all need to be re-examined on a multi-decade horizon. If it proves cyclical, current order-book momentum is at risk of unwinding once the conflict resolves. The mixed-methods framework here is intended to make that distinction defensible rather than rhetorical.
 
   
 
-## **Structural Break Analysis**
+# **5. Theoretical Framework**
+
+In order to determine whether Russia’s invasion of Ukraine did indeed force a structural shift or a cyclical one, a strong theoretical model must be applied. From 2018-2025, the dynamics in Europe and among defence companies changed. Now, a complex environment of ethical questions, changing budgets, and shifting global political priorities has emerged. To analyse this evolution, the thesis applies three key theoretical frameworks: structural break theory, signalling theory, and framing theory.
+
+As applied to the original research question, structural break theory (Chow, 1960) distinguishes the difference between a short-term bump and a permanent shift in the defence sector. Signalling theory reflects how the defence contractors articulate long-term plans through their communications and earnings during volatile economic conditions. Finally, framing theory breaks down the companies’ changing public narrative to anticipate or promote long-term economic changes. This can be accomplished via an analysis of word-choice and tone in the annual reports. Together, these three theories merge to give a clear understanding of how the European defence industry has evolved in the EU era, and more to the point, in the years leading up to and then after 2022.
+
+  
+
+## **5.1 Structural Break Analysis**
 
 In determining whether the current state of the defence sector in Europe resulted from a cyclical shift or a structural break, one must elaborate on each. Cyclical shifts occur fairly often in many sectors as they are a  responsed to unexpected but clearly temporary influences–labor strikes, earthquakes, floods, etc. These are unavoidable shocks such as, for example, labour strikes, earthquakes, or floods, that and nations cannot immediately prevent or preemptively mitigatenegotiate or write policy to avert them. The return to normalcy is implied, even though a decisive response to the crisis may create significant economic shifts. A structural break, by contrast, indicates that the basic rules and long-term trends have permanently changed (Wongsosaputro et al., 2011). No anticipation of a return to the *status quo* is implied by a structural break, and a “new normal” emerges as a result of the break.
 
 The Chow test, originally designed by Gregory Chow in 1960, allowed economists to test these breaks by seeing if future outcomes are predictable when measured in time frames before and after a specific date, and thus can be applied in this thesis. In a slightly larger context, European defence spending since the 1970s has tended to drop or stay flat (the aforementioned “peace dividend”), but as defence spending ramps up now, we can measure pre- and post-invasion trends using the Chow test. Measuring the earnings and other metrics of the largest European defence companies over the eight-year period 2018-2025 should provide clear evidence of a structural break.
 
+Distinguishing temporary shocks from permanent regime changes is, of course, necessary here, and the econometric literature concerning structural break theory was developed by Chow (1960). This tests the significance of relative regression parameters that occur beforeprior to and after a specific transition point, but this test's primary drawback comes from limited sample size. Work aiming to identify breaks typically addresses the complement of per-unit tests with pooled specifications, panel-fixed effects models that absorb time-invariant heterogeneity, and heteroskedasticity-robust standard errors. The difference-in-differences estimation, applied only to narrative text in this thesis, complements this and identifies causal effects of shocks that impact both treated and control groups. The methods noted above address distinct questions, and current applied work usually combines them to triangulate findings. These traditions are combined across both halves of the analysis in this thesis: financial metrics are evaluated via Welch comparisons, pooled and per-company Chow tests, and panel-fixed regressions. The evaluation of the LLM-generated narrative scores is, however, carried out by using a difference-in-differences template; in this case, commercial aerospace firms serve as a control group in the larger realm of defence-primary firms. Evidence that converges between methods is applied to both narrative and financial outcomes, and this should compensate for any single text's specific limitations.
+
  
 
-## **Signalling Theory** 
+## **5.2 Signalling Theory**
 
-Michael Spence (1973) articulated the principles of signalling theory in 1973, which is based on understanding that people will discreetly share information that is hidden or that cannot be publicly disclosed. Politicians and business leaders are privy to such information, which might involve commitments to long-term plans or a large shift in investment or policy priorities, but because these visions or plans cannot be fully disclosed or articulated, the leaders must send “signals” to establish credibility and prove their “seriousness” to the market (BliegeBird et al., 2005). A key rule here is that a signal must be “costly” to be believable. If a promise is cheap or easy to make, anyone can do it, so no one will trust it. Economists often look at what a group gives up (opportunity costs) to test that their signal of integrity or trustworthiness  is received (Hover et al., 2025). For example, the book-to-bill ratio reveals how many new orders the companies are receiving relative to revenue recognised in the same period — a tangible signal to the market of a real shift in demand, not only political but, perhaps more importantly, monetary. If the ratio is greater than 1, this indicates that the corporation is growing, and if less than 1, then it is shrinking.
+Michael Spence (1973) articulated the principles of signalling theory in 1973, which is based on understanding that people will discreetly share information that is hidden or that cannot be publicly disclosed. Politicians and business leaders are privy to such information, which might involve commitments to long-term plans or a large shift in investment or policy priorities, but because these visions or plans cannot be fully disclosed or articulated, the leaders must send “signals” to establish credibility and prove their “seriousness” to the market (BliegeBird et al., 2005). A key rule here is that a signal must be “costly” to be believable. If a promise is cheap or easy to make, anyone can do it, so no one will trust it. Economists often look at what a group gives up (opportunity costs) to test that their signal of integrity or trustworthiness  is received (Hover et al., 2025). For example, the book-to-bill ratio shows how many new orders companies are receiving relative to revenue recognised in the same period. This is a clear signal of a real shift in demand, not only political but, perhaps more importantly, monetary. If the ratio is greater than 1, this indicates that the corporation is growing, and if less than 1, then it is shrinking.
 
-Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in demand, and the incentive to invest large amounts of capital did not exist. The invasion dramatically changed this. Still, as governments anticipated longer-term defence needs, it was necessary for them to send consistent –and costly–signals to defence companies to make credible that they were intent upon developing and expanding their militaries (Ribera Payá & Barredo González, 2025). 
-
-Germany’s *Zeitenwende* (“watershed moment”) was established in February of 2022 and earmarked 100 billion euros to be disbursed in binding, long-term contracts just for its military. To the uncritical onlooker, this might seem like a person renting a hall for his wedding banquet before he is betrothed, but the potential brides–defence contractors–clearly got *Zeitenwende*’s signal. And *Zeitenwende 2.0* (500 billion euros over the next 12 years) carries the resolution forward (KRPATA, 2025), like booking the honeymoon trip and luxury suite, too. In defence realities today, the demand is very real and will not be brief. Like the marriage. The German commitment to responding to the pressing need for a more robust defence stimulated a huge increase in corporate spending toward building new facilities, factories, and production lines (Zandee et al., 2024). This illustration of signalling theory then piggybacks into other spheres as well, and the defence companies send their own signals to financial markets, which can then plan for expansion in banking, loans, increased financial activity, and so on.
+Germany’s *Zeitenwende* (“watershed moment”) was established in February of 2022 and earmarked 100 billion euros to be disbursed in binding, long-term contracts just for its military. *Zeitenwende 2.0* (500 billion euros over the next 12 years) extends this commitment further (KRPATA, 2025). Defence contractors read these commitments as a credible signal, and the German push for a more robust defence stimulated a considerable increase in corporate spending on new facilities, factories, and production lines (Zandee et al., 2024). This illustration of signalling theory then piggybacks into other spheres as well. Defence companies send their own signals to financial markets, which can then plan for expansion in banking, loans, and broader financial activity.
 
   
 
-## **Framing Theory**
+## **5.3 Framing Theory**
 
-Framing theory is a sociological practice that examines how the presentation of information (sometimes called messaging) influences public perception and drives ensuing opinions and behaviours. Framing does not fabricate facts but rather emphasises unique aspects of a complex scenario in order to elicit reactions from people, institutions, and even investors (Entman, 1993). An example of this might be when a doctor, articulating the risk of surgery, says the procedure has an 85% success rate. This frame is clearly more attractive and likely to motivate patients toward surgery than saying that the procedure has a 15% mortality rate. The facts are the same, but the frame is quite different. When we apply this similar logic to the European defence industry, framing theory provides a clear explanation of how the sector's public and financial position has changed. 
-
-For many years after the Cold War, the European defence industry was framed predominantly through a lens of ethical liability and restraint. The key political narrative placed emphasis on the previously -noted peace dividends and demilitarisation. The defence sector was often framed as an unfortunate, heavily regulated necessity rather than a public good. In financial markets, this framing resulted in the exclusion of most defence companies from many Environmental, Social, and Governance ESG (ESGEnvironmental, Social, and Governance) portfolios, creating the moral opinion that weapons manufacturing was inherently risky or anti-sustainable (Drempetic et al., 2020).
+Framing theory is a sociological practice that examines how the presentation of information (sometimes called messaging) influences public perception and drives ensuing opinions and behaviours (Entman, 1993). Framing does not fabricate facts but rather emphasises unique aspects of a complex scenario in order to elicit reactions from people, institutions, and even investors. An example of this might be when a doctor, articulating the risk of surgery, says the procedure has an 85% success rate. This frame is clearly more attractive and likely to motivate patients toward surgery than saying that the procedure has a 15% mortality rate. The facts are the same, but the frame is quite different. When we apply this similar logic to the European defence industry, framing theory provides a clear explanation of how the sector's public and financial position has changed. 
 
 The abrupt and emphatic change in popular, governmental, and financial worlds forced a rapid reevaluation of existential security and economic stability. The EU and national governments were now compelled to reframe their worlds and words in terms of survival and resilience, moving from budgetary stewardship to intentional efforts to repel or at least deter existential threats and an overt assault on democratic values (Fiott, 2018). The time to squabble about, for instance, how the Greeks handle debt is gone because reality has spawned an understanding that the defence sector is actually a pillar of long-term social and economic stability. 
 
   
 
-# **Mixed Methods**
-
-  
-
-## **Data Collection**
+# **6. Data**
 
 The primary data source consists of annual reports and earnings presentation materials published by ten European defence companies over the period 2018–2025. These are Airbus, Thales, Leonardo, Dassault Aviation, Indra, Rolls-Royce Holdings, BAE Systems, Rheinmetall, Safran, and Saab. For each company, eight reports were collected, four from the pre-invasion period (2018, 2019, 2020, and 2021) and four from the post-invasion period (2022, 2023, 2024, and either 2025 full-year results or the most recent available report). In total, 79 reports were included in the semantic analysis, as Indra’s 2025 report was too short to be meaningfully incorporated. However, this report was retained and used in the financial analysis. Rheinmetall had only published results for the first three quarters of 2025 at the time of writing. To avoid mixing partial-year data with full-year figures from other companies, Rheinmetall’s 2025 data was excluded. All other companies have complete data for every year from 2018 to 2025.  
 
  The reports from which the analyses were derived were published on the companies’ own websites, and while the reports differed in length, they essentially contain similar information. Some were fully narrative, and others provided graphic support. The code constructed for this study instructed the AI to focus on the first and final parts as well as sections in which management most clearly articulates its intent, including CEO letters, strategic overviews, outlook statements, and summaries of financial discussions. The same reports were used to drive the quantitative analysis, and a corpus was made using the relevant metrics for each company.
 
-## **Semantic Analysis**
+# **7. Mixed Methods**
 
-### ***Methodology***
+## **7.1 Semantic Analysis**
 
-Any semantic analysis should strive to discern *meaning*, rather than merely word counting. While AI can readily identify word frequency in texts, this study designed its AI scans to “read” the reports from the approximate perspective of a financial analyst specialising in defence sector nomenclature and structures. Thus, the AI here analyses and assesses tone, framing, and commitment levels as reflected in word choices, and the identifiable language of strategic stance.
+### ***7.1.1 Methodology***
+
+Semantic analysis should aim to identify *meaning* rather than count words. AI tools can readily measure word frequency, but in this study the prompts ask the model to read each report as a financial analyst would, applying the vocabulary and reporting conventions specific to the defence sector. The prompts then ask the model to score tone, framing, and commitment levels as expressed through word choice and the language of strategic stance.
 
 A qualitative-quantitative hybrid emerged from this method to produce structured assessments. The goal was to tailor statistical comparisons that are derived from textual comprehension of management language to offer a more complete understanding than a basic quantification of word frequency.
 
   
 
-### ***Large Language Model Framework***
+### ***7.1.2 Large Language Model Framework***
 
 The report excerpts were extracted via a code programme using a Claude key (Anthropic, claude-opus-4-5-model) that used a prompt carefully designed to frame the central research question and to assess the reports’ narratives across multiple dimensions. It was given clear examples and definitions of what constitutes structural language in contrast to cyclical language. The full prompts are included in Appendix C.
 
@@ -376,9 +359,7 @@ The LLM framework was applied across all 79 reports uniformly, and all models we
 
   
 
-### ***Results***
-
-#### *The Overall Picture*
+### ***7.1.3 Results***
 
 The consistency and degree of management language shifts from the pre-invasion through the post-invasion periods were evident in the findings of the analysis. Across 10 companies and 79 reports, the structural score mean rose from 4.7 to 7.1 on a scale of 10, an increase of 2.4 points or approximately 51 percent.
 
@@ -395,8 +376,6 @@ In the larger context of the analysis, a score of 4.7 stands just below a neutra
 The figure illustrates the year-by-year trajectory of this structural score. The pre-invasion period indicates a modest downward trend from 2018 to 2021, reflecting the effect of the COVID-19 pandemic in 2020 and 2021, which pushed the tone and register of companies’ language toward a more cautious, business-continuity articulation. This changed between 2021 and 2022, where a sharp and immediate jump is noticeable. The mean score jumps from 4.4 in 2021 to 6.2 in 2022. This represents the largest single-year movement in the dataset. This jump is followed by a continuous upward trend, reaching 8.1 by 2025. The post-2022 ongoing acceleration is compelling evidence vis-a-vis the structural versus cyclical question. If the shift were cyclical, one might expect scores to plateau or even decline once the initial shock of the invasion had passed. Instead, scores continued rising, which is consistent with companies deepening their structural commitments over time.
 
   
-
-#### *Classification*
 
 Categorical distributions of narrative tone and structural labels across the two periods reinforce and validate the results of the structural scores.
 
@@ -422,8 +401,6 @@ The table above confirms the results from a different perspective. In the pre-in
 
   
 
-#### *Company-level Assessment*
-
 Of course, when aggregating evidence from multiple reports, some variations in data will occur, and these are statistically significant but do not diminish the clear general trend. The line of best fit in a scatterplot is not intended to explain the outlying data points. Across the ten companies in this study, the structural shift was not uniform, as some revealed striking transformation in strategic language while others had more modest changes. Airbus and Safran, for instance, had a relatively small shift in language, but this may be more indicative of which companies among the ten were most affected by the invasion. There are also unknowns within companies–editorial and/or style guidelines for publications–that cannot be known from a series of annual reports, although an AI analysis might certainly infer these.
 
   
@@ -444,15 +421,11 @@ Leonardo provides the most dramatic shift toward structural identity. Its pre-in
 
   
 
-#### *The Outliers*
-
 Airbus and Safran notably seem to buck the trend toward structural shift among the companies in this study, but this is due to core differences in their role in defense production. Since both companies may be viewed as indirectly involved with defence-oriented products (aircraft and aircraft components), it would likely take a full mobilisation for another global war to move them to an overtly structural level. Safran’s post-invasion structural score, 4.0, is the lowest in the sample, and thus three of its four post-invasion reports land in a cyclical area, but this reflects Safran’s business mix: primarily a commercial aerospace company, Safran is prominent in the areas of LEAP aircraft engines and serves other commercial aviation aftermarkets. Its reports from 2022 onward offer a focus on a post-pandemic recovery of civil aviation rather than an engagement with European rearmament. In fact, Russia and Ukraine are only noted in risk disclaimers that acknowledge potential supply chain disruptions or compliance with sanctions–not as demand catalysts or strategic opportunities.
 
 As a company that participates in FCAS (Future Combat Air Systems), Safran is relevant to this study, but in its role as a commercial aerospace business, it has limited defence exposure and is certainly not a defence company operating in a transformed level of mobilisation. Still, by 2025, its reports show signs of a partial shift to 6.0 and include language concerning new joint ventures and defence manufacturing investments. Nevertheless, Safran remains the least structurally committed company in the sample.
 
 Airbus is synonymous with commercial aviation and in commercial airliner production, and thus its 3.9 average in the 2022 and 2023 reports almost entirely focus on commercial aviation’s recovery from the pandemic. The 2024 report frames its Defence and Space division as a source of write-downs and transformation costs, but not in the lens of strategic growth. Airbus’s score, however, rises to 7.0 by 2025, with the report language beginning to illustrate defence momentum as a structural opportunity, citing record order intakes of 16.7 billion euros in Defence and Space. Considering this, one may view Airbus as a company demonstrating a lagged response to the overall structural shift as the recovery of commercial aviation gave way to a more defence-forward stance. In its overall corporate identity, however, Airbus is responding to one factor in a much larger reality, and its core identity is not as a defence manufacturer. But its move toward more structural language is likely an indicator of Airbus' investment commitment remaining more stable over the period due to its lower exposure to defence spending. This does suggest that the trend results from structural shifts in defence rather than a broader macro trend increasing investment generally. Airbus seems to be adapting to the structural shift among defence-focused companies even as it maintains its identity  as an aviation company.
-
-#### *Investment Commitment Language*
 
 The below Investment Commitment heatmap provides a complementary perspective on the structural shift by scoring how companies discuss capital spending decisions, workforce investment, and procurement commitments over the entire eight-year period.
 
@@ -472,7 +445,7 @@ Safran’s capital language focus continues to be on commercial aerospace decarb
 
   
 
-### ***Inter-Rater Reliability Using a Second AI Model***
+### ***7.1.4 Inter-Rater Reliability Using a Second AI Model***
 
 The reliability of AI-based text assessment does pose methodological concerns, one of which is whether findings are unique to a specific AI model or whether they reflect genuine signals in the source documents that another capable AI-based assessment could also identify.  To test this thesis and confirm the overall results, the entire corpus of 79 reports was independently assessed using a second AI model, Google Gemini 2.5 Pro. Neither model had cross-access to scores as the assessment occurred, which accommodated a true inter-rater reliability in keeping with human-coder agreement studies in other qualitative research. Although clearly not perfect, this use of AI cross-referencing is still compelling. 
 
@@ -499,7 +472,7 @@ These results confirm the core findings of this study and could be theoretically
 
   
 
-### ***Difference-in-Difference (DiD) Analysis***
+### ***7.1.5 Difference-in-Difference (DiD) Analysis***
 
  The clear takeaway from analyses of report narratives and Cohen’s Kappa is that  European defence companies shifted sharply toward structural language after February 2022.  Using the LLM to identify a shift in the tone of reports does not verify causality vis-a-vis the invasion, and a sceptic might ask whether defence company language had already trended toward becoming more structural prior to 2022 driven by rising geopolitical tensions, NATO spending commitments after 2014, or the general post-COVID recovery in defence budgets. If this pre-existing trend was identified, the invasion might be considered merely coincidental.
 
@@ -617,9 +590,9 @@ Four limitations should be acknowledged. First, as noted above, the parallel tre
 
   
 
-## **Financial Analysis**
+## **7.2 Financial Analysis**
 
-### ***Methodology***
+### ***7.2.1 Methodology***
 
 For each company and year (2018 to 2025), six different financial metrics have been compiled to analyse defence-related business performance pre- and post-invasion. For context, each metric and its relevance is summarised as follows:
 
@@ -634,11 +607,9 @@ All figures originally reported in British pounds were converted to euros using 
 
   
 
-### **Tests** 
+### **7.2.2 Tests**
 
 Three tests have been performed to analyse and verify findings: (1) a Welch test to compare metric averages pre- and post-invasion (2) a Chow test to confirm the breaking point, and (3) a panel fixed effect regression to normalise the underlying data and confirm results.
-
-#### *Test 1 - Comparing Metric Averages Before and After the Invasion (Welch)*
 
 The first test measures whether financial metrics are meaningfully different pre- and post-invasion. The test divides the data into two groups: the years 2018 to 2021 (pre-invasion) and the years 2022 to 2025 (post-invasion). For each period grouping, the average for each financial metric is calculated across all companies. The pre- and post-invasion averages are then compared to indicate significance or potential random variation.
 
@@ -656,8 +627,6 @@ Two metrics produce strong and statistically significant results. First, the boo
 By contrast, defence revenue growth showed no meaningful difference between the two periods. The observed gap carries a 50.2% probability of having arisen by chance alone. This is consistent with the lagging nature of revenue recognition. Contracts signed in 2022 and 2023 are only physically delivered (and therefore recognised as revenue) over the following years. Therefore, the absence of a revenue signal at this stage is expected, not contradictory.
 
   
-
-#### *Test 2 - Confirming the Break Point, Per-Company and Pooled Chow Tests*
 
 While the Welch test compared static averages, it is limited in terms of testing underlying statistical trends. The Chow structural break test applies a simple regression model (a constant plus a time trend) to the pre- and post-invasion periods to determine whether the two models are statistically different from one another. If the models differ significantly, February 2022 represents a genuine structural break point, not merely a continuation of underlying trends. The restricted model pools all data and fits a single trend. The unrestricted model fits separate trends to each sub-period and leaves less unexplained variation. 
 
@@ -706,8 +675,6 @@ Two of the six metrics confirm a structural break at the 5% significance level: 
 
   
 
-#### *Test 3 - Panel Fixed-Effects Regression*
-
 The core construct of the regression is to independently analyse each company against its own historical performance, rather than against other companies within the sample. This provides incremental insight due to the inherent differences between companies. An example of the test’s importance is demonstrated by Rheinmetall consistently having a higher order ratio than Thales. This is due to Rheinmetall exclusively producing weapons, whereas Thales produces a mix of defence electronics and commercial products. Based on a comparison of the whole group pre- and post-invasion, Rheinmetall's already-high figures incrementally increase the post-invasion group average in a potentially misleading way. The regression removes these types of distortions to identify intra-company improvements across all ten companies and find the common signal in a resultant number, termed a coefficient. A significant positive coefficient indicates that improvements happened consistently across companies and cannot be explained by pre-existing differences between companies.
 
 Additionally, by including a time trend control in the model, the test eliminates any gradual improvements that may have been underway pre-invasion. The remaining variation will be attributable to the post-invasion period.
@@ -722,7 +689,7 @@ Clearly, the aggregated evidence from the panel regression is consistent with ea
 
   
 
-# **Contextualisation of Mixed-Methods vis-a-vis the Theoretical Framework and Results**
+# **8. Contextualisation of Mixed Methods vis-à-vis the Theoretical Framework and Results**
 
 To refresh, the mixed-methodology consists of the following four tests of the overarching research, including one semantic test and three quantitative tests:
 
@@ -731,17 +698,17 @@ To refresh, the mixed-methodology consists of the following four tests of the ov
 
  The findings throughout this analysis complement and confirm one another. The semantic models demonstrate sharp contrasts between managerial language pre- and post-invasion, while providing insight into a significantly more bullish future. The three separate financial tests (analyses) capture the hard data supporting and confirming the managerial language. The collective interlocking threads are highly indicative of the structural shift.
 
-### **Key Signalling Links Between Analyses**
+## **8.1 Key Signalling Links Between Analyses**
 
  As noted above, signalling theory dictates that markets and governments will provide indications of demand prior to companies investing significant amounts of capital. Capital will then be committed as these demand signals come to fruition through actual orders and sales. Both the semantic and financial analyses support the signalling sequence.
 
-In the semantic analysis, the mean score increases substantially between 2021 and 2022 (from 4.4 to 6.2). Additionally, the score continues accelerating to 8.1 by 2025. Similarly, the mean structural score rose from 4.7 out of 10 in the pre-invasion period to 7.1 out of 10 in the post-invasion period. This represents an increase of around 51 percent. The strength and magnitude of these scores are highly suggestive of a structural shift. The corollary to these semantic scores is best demonstrated by the book-to-bill ratio in the Welch test. As the most forward-looking financial metric, the book-to-bill ratio increased from 1.20 pre-invasion to 1.75 post-invasion and accelerated to 2.02 by 2025. The Chow test provides further compelling support for both findings. The results in Table 2 confirm a structural break (i.e., a shift in trend) between 2021 and 2022 in eight of the sixty company-metric cells — three at the 5% level and five marginally significant at the 10% level — covering six of the ten firms (Airbus, BAE Systems, Dassault Aviation, Leonardo, Rolls-Royce, and Thales). 
+In the semantic analysis, the mean score increases substantially between 2021 and 2022 (from 4.4 to 6.2). Additionally, the score continues accelerating to 8.1 by 2025. Similarly, the mean structural score rose from 4.7 out of 10 in the pre-invasion period to 7.1 out of 10 in the post-invasion period. This represents an increase of around 51 percent. The strength and magnitude of these scores are highly suggestive of a structural shift. The corollary to these semantic scores is best demonstrated by the book-to-bill ratio in the Welch test. As the most forward-looking financial metric, the book-to-bill ratio increased from 1.20 pre-invasion to 1.75 post-invasion and accelerated to 2.02 by 2025. The Chow test provides further compelling support for both findings. The results in Table 2 confirm a structural break (i.e., a shift in trend) between 2021 and 2022 in eight of the sixty company-metric cells: three at the 5% level and five marginally significant at the 10% level. These cover six of the ten firms (Airbus, BAE Systems, Dassault Aviation, Leonardo, Rolls-Royce, and Thales). 
 
 The market signals translate into meaningfully significant results for defence companies, which are deepening their capital investments to fulfil growing demand. The breadth and depth of the managerial language, confirmed by the financial results, creates a cycle of the longer-term demand characteristics confirmed by the semantic and financial tests.
 
-### **Pre- and Post-Invasion Framing**
+## **8.2 Pre- and Post-Invasion Framing**
 
- Framing theory suggests how the market views of various industries and sectors impact various operating and valuation dynamics. Prior to 2022, it was postulated that defence-related companies were out-of-favour for various reasons, including ethical challenges associated with investing in the space and inconsistent demand that was primarily dependent on shorter-term government procurement trends. This was collectively indicative of a highly cyclical landscape.
+ Framing theory suggests how the market views of various industries and sectors impact various operating and valuation dynamics. Prior to 2022, defence-related companies were out-of-favour with many institutional investors for two related reasons: the ethical challenges associated with investing in the sector (the "sin stock" framing studied by Hong & Kacperczyk, 2009) and inconsistent demand that was primarily dependent on shorter-term government procurement cycles. This was collectively indicative of a highly cyclical landscape.
 
  The evidence for the re-framing of the defence industry is highlighted throughout the analyses. The shift in tone within the semantic analysis is dramatic. Moderate-to-strongly “bullish” language categorisations in the pre-invasion period represented approximately 30% of the sample. In the post-invasion period, the equivalent bullish language is nearly 92%,, a definitive shift.
 
@@ -751,7 +718,7 @@ The market signals translate into meaningfully significant results for defence c
 
   
 
-### **Theoretical Support through Company Heterogeneity**
+## **8.3 Theoretical Support through Company Heterogeneity**
 
  While not explicitly quantified, the distinctive nature, or heterogeneity, across the companies within the sample set, provides a strong indirect indication of a structural shift. If the post-invasion results were due to more temporary conditions, an observer might expect more uniformity across the sample set. However, companies most directly exposed to European defence production, such as Rheinmetall, BAE, Saab and Leonardo, show the strongest responses across the semantic and quantitative tests, while commercial aerospace-oriented companies, such as Airbus and Safran, demonstrate more limited responses.
 
@@ -759,7 +726,7 @@ General macroeconomic conditions may impact companies across the data set in a r
 
   
 
-### **Summary of Key Limitations and Potential Avenues for Future Study**
+## **8.4 Summary of Key Limitations and Potential Avenues for Future Study**
 
  The study identified four key limitations:
 
@@ -774,15 +741,21 @@ General macroeconomic conditions may impact companies across the data set in a r
 
  The size and breadth of data introduces an implied, yet potentially crucial, limitation in terms of the structural conclusion being forward-looking. By definition, a structural shift should not revert. However, as noted above, results can be continually updated, which may strengthen, weaken or invalidate the current findings. It is theoretically possible for near-term geopolitical resolutions to drastically alter or nullify the structural shift. Two notable risks to the findings are (a) persistent reliance on US procurement and (b) public “war fatigue” and subsequent diminished political support. Uncertainties surrounding multiple geopolitical events have been multiplying beyond the Russian invasion, including significant turmoil in the Middle East and traditional country relationships being upended. These conditions should serve to strengthen European resolve around its strategic autonomy ambitions, thus strengthening the structural case.
 
- Solving for the managerial discussion and financial data limitations will naturally resolve as time passes and more data is presented into the analysis. Further, new financial data metrics could be considered and incorporated into the analysis with relative ease. Addressing the limited sample size will require screens to find and study additional and appropriate publicly -traded companies. Significant additional research will be necessary to determine the viability of privately- held companies so that a more complete landscape of defence-related firms can expand the full understanding of the scope of the structural shift identified here. One future study might decompose the cumulative impact of Russia's 2014 invasion of Ukraine — which seized Crimea and opened a sustained war in the Donbas — and the 2022 escalation, treating the eight intervening years of low-intensity conflict as a baseline against which the 2022 step-change in cyclical and structural inertia can be measured. Additionally, the semantic and quantitative tests used can be refined, expanded, and applied in subsequent studies to articulate more thorough conclusions. 
+ Solving for the managerial discussion and financial data limitations will naturally resolve as time passes and more data is presented into the analysis. Further, new financial data metrics could be considered and incorporated into the analysis with relative ease. Addressing the limited sample size will require screens to find and study additional and appropriate publicly -traded companies. Significant additional research will be necessary to determine the viability of privately- held companies so that a more complete landscape of defence-related firms can expand the full understanding of the scope of the structural shift identified here. One future study might decompose the cumulative impact of Russia's 2014 invasion of Ukraine, which seized Crimea and opened a sustained war in the Donbas, and the 2022 escalation. The eight intervening years of low-intensity conflict could serve as a baseline against which the 2022 step-change in cyclical and structural inertia can be measured. Additionally, the semantic and quantitative tests used can be refined, expanded, and applied in subsequent studies to articulate more thorough conclusions. 
 
   
 
-# **Conclusion** 
+# **9. Conclusion**
 
-The overall trend forecasts that this fundamental shift will be sustained. While Europe remains dependent on the United States for a substantial share of new equipment procurement in the near term (Howorth, 2025), the financials of the top ten European defence contractors demonstrate a clear strategic shift toward greater defence self-reliance.
+This thesis asked whether Russia's February 2022 escalation of its war against Ukraine produced a structural shift in European defence companies (a permanent change in the conditions facing the sector), or only a cyclical surge that would unwind once the conflict ended. The answer matters for capital allocation, EU industrial policy, and the future of the post-Cold-War "peace dividend" frame.
 
-The 2022 war on Ukraine awakened the entire continent and the world. We can confidently say that the Peace Dividend era is fading and that the exclusion of defence companies from policy frameworks such as ESG is a bygone narrative. The defence industry today is no longer unanimously seen as a war-waging mechanism, but rather as an essential pillar of nations and the security of European society.
+The narrative analysis covered 79 annual reports from ten listed European defence primes between 2018 and 2025. The mean structural-language score rose from 4.7 in the pre-invasion period to 7.1 post-invasion, and reached 8.1 by 2025. Business-as-usual framings dropped from 22 of 40 reports pre-invasion to 4 of 39 post-invasion, while transformational framings rose from 1 report to 23. Two independent LLM scorers (Claude and Gemini) agreed at Cohen's κ = 0.88 across the corpus and κ = 0.94 in the post-invasion subset. A difference-in-differences design using commercial-aerospace firms as a control group estimates the treatment effect at +2.03 score points, significant at the 5 percent level (p = 0.0241), with parallel pre-trends holding at the 10 percent threshold (p = 0.0855).
+
+Three financial tests point in the same direction. In the Welch t-test, the mean book-to-bill ratio rose from 1.20 to 1.75 (p = 0.0013), and the group EBIT margin rose by 2.7 percentage points, from 7.8 to 10.5 percent (p = 0.0041). The Chow test detects a structural break between 2021 and 2022 in eight of the sixty firm-metric cells, covering six of the ten firms (Airbus, BAE Systems, Dassault Aviation, Leonardo, Rolls-Royce, and Thales). The panel fixed-effects regression, which controls for firm fixed effects and a pre-invasion trend, confirms an EBIT-margin shift of +2.69 percentage points (p = 0.037). Order-book signals trend the same way in the panel but do not yet reach significance, given the short post-2022 window.
+
+Four caveats apply. First, the sample is ten publicly listed primes; private and smaller contractors are excluded. Second, the post-2022 window is three to four years per company, which limits statistical power on volatile metrics. Third, annual reports reflect a management view of the business and are not free of intentional optimism, though the financial analysis is intended as a check against this. Fourth, by its very nature, a structural claim is forward-looking, and a near-term geopolitical resolution, persistent US procurement dependence (Howorth, 2025), or "war fatigue" could yet alter the trajectory. Future work should expand the firm sample, extend the post-2022 window as new years of data become available, and decompose the cumulative effect of the 2014 and 2022 phases of the war.
+
+With those limitations in mind, the joint semantic and financial evidence is more consistent with a structural shift than a cyclical one. The strongest single result is the +2.69 percentage point EBIT-margin lift, which holds under firm fixed effects and a pre-invasion trend control. Whether the shift hardens into a new equilibrium or erodes will depend on European political will, the durability of EU-level procurement instruments, and the ongoing tension between strategic autonomy ambitions and continued near-term US dependence.
 
   
   
@@ -809,10 +782,6 @@ Andersson, J. J., & Britz, M. (2025). The European Union’s role in European de
 
 policy. Defence Studies, 25(2), 322–341.<https://doi.org/10.1080/14702436.2025.2472694>
 
-Article.([https://www.researchgate.net/publication/398034076\_Transformation\_of\_the\_European](https://www.researchgate.net/publication/398034076_Transformation_of_the_European_Union's_Security_and_Defence_Policy_After_2022)
-
-[\_Union's\_Security\_and\_Defence\_Policy\_After\_2022](https://www.researchgate.net/publication/398034076_Transformation_of_the_European_Union's_Security_and_Defence_Policy_After_2022))
-
 BliegeBird, R., & Smith, E. (2005). Signaling Theory, Strategic Interaction, and Symbolic 
 
 Capital. Current Anthropology, 46(2), 221–248. https://doi.org/10.1086/427115
@@ -820,10 +789,6 @@ Capital. Current Anthropology, 46(2), 221–248. https://doi.org/10.1086/427115
 Börjeson Kennedy, C., Kojouharov Sjögren, E., & Ehrnborg, V. (2025). Guns, growth and 
 
 government: State support and institutional influence on export, profitability, and dual-use innovation \[Bachelor's thesis, Lund University\]. LUP Student Papers.[ https://lup.lub.lu.se/luur/download?func=downloadFile\&recordOId=9212116\&fileOId=9212117](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9212116&fileOId=9212117)
-
-Bruner, T. (2024). Peaceful, not Vulnerable: ESG Reporting should not weaken EU Defence 
-
-Industry. Peace Research Center Prague. http://www.jstor.org/stable/resrep58068
 
 Cepparulo, A., & Pasimeni, P. (2024). Trends in defence spending in the European Union. In F. 
 
@@ -840,10 +805,6 @@ Drempetic, S., Klein, C., & Zwergel, B. (2020). The influence of firm size on th
 Corporate sustainability ratings under review. Journal of Business Ethics, 167(2), 333–360.[ https://doi.org/10.1007/s10551-019-04164-1](https://doi.org/10.1007/s10551-019-04164-1)
 
 Ehrnborg, V., Kojouharov Sjögren, E., & Börjeson Kennedy, C. (2025). Guns, growth & government \[Bachelor’s thesis, Lund University\]. Lund University Publications. https://lup.lub.lu.se/student-papers/record/9212116.
-
-English, V. (2025). The Danish model and Ukraine's wartime defence industry. Journal of 
-
-International Politics, 6(2), 14–29.[ ](https://www.google.com/search?q=https://doi.org/10.22259/2642-8245.0602002)<https://doi.org/10.22259/2642-8245.0602002>
 
 Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal of 
 
@@ -885,17 +846,13 @@ Howorth, J. (2025). European defence and NATO: From competition to co-operation 
 
 replacement? JCMS: Journal of Common Market Studies, 63.[ ](https://www.google.com/search?q=https://doi.org/10.1111/jcms.70010)<https://doi.org/10.1111/jcms.70010>
 
-Ivančík, Radoslav. (2025). Transformation of the European Union's Security and Defence Policy After 2022. https://doi.org/10.52651/nmb.c.2025.9788080406882.65-72.[Ivančík](https://www.researchgate.net/profile/Radoslav-Ivancik?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19), [Radoslav Ivančík](https://www.researchgate.net/profile/Radoslav-Ivancik?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19). (2024). Transformation of the European Union's Security and Defence Policy 
-
-After 2022. ResearchGate Academic.
+Ivančík, R. (2025). Transformation of the European Union's Security and Defence Policy After 2022. https://doi.org/10.52651/nmb.c.2025.9788080406882.65-72
 
 KrpataKRPATA, M. (2025, March). Friedrich Merz et la Zeitenwende 2.0. Une « nouvelle ère » pour les 
 
 relations transatlantiques ? https://www.ifri.org/sites/default/files/2025-03/ifri\_krpata\_friedrich\_merz\_zeitenwende\_2.0\_2025.pdf 
 
- Lane, J. C. (2025). The Giant Stirs?: Failing Forward in EU Defense Integration after the Ukraine Invasion (Doctoral dissertation, University of Pennsylvania).Lane Jean-Claude (2024). The Giant Stirs?: Failing Forward in EU Defense Integration after the 
-
-Ukraine Invasion.[ University of Pennsylvania https://repository.upenn.edu/bitstreams/662bcf21-ef7a-4bb7-b6cc-fd79b4fd8f5e/download](https://repository.upenn.edu/bitstreams/662bcf21-ef7a-4bb7-b6cc-fd79b4fd8f5e/download)
+Lane, J. C. (2024). The Giant Stirs?: Failing Forward in EU Defense Integration after the Ukraine Invasion. University of Pennsylvania. https://repository.upenn.edu/bitstreams/662bcf21-ef7a-4bb7-b6cc-fd79b4fd8f5e/download
 
 Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical 
 
@@ -913,10 +870,6 @@ Osimen, G. U., Fulani, O., & Mogbolu, N. (2025). The evolving landscape of Europ
 
 An assessment of NATO’s posture and deterrence strategies in response to the Russia-Ukraine war. Journal of Strategic Security, 18(4), 1–18.[ https://doi.org/10.5038/1944-0472.18.4.2589](https://doi.org/10.5038/1944-0472.18.4.2589)
 
-Ivančík, Radoslav. (2025). Transformation of the European Union's Security and Defence Policy After 2022. https://doi.org/10.52651/nmb.c.2025.9788080406882.65-72.[Ivančík](https://www.researchgate.net/profile/Radoslav-Ivancik?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19), [Radoslav Ivančík](https://www.researchgate.net/profile/Radoslav-Ivancik?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19). (2024). Transformation of the European Union's Security and Defence Policy 
-
-After 2022. ResearchGate Academic
-
 Ribera Payá, P., & Barredo González, P. (2025). Defence in the European Union: Policy 
 
 supporting paper for the EESC Workers' Group. European Economic and Social Committee.[ https://espas.secure.europarl.europa.eu/orbis/system/files/generated/document/en/defence%20in%20the%20EU.pdf](https://espas.secure.europarl.europa.eu/orbis/system/files/generated/document/en/defence%20in%20the%20EU.pdf)
@@ -925,27 +878,17 @@ Sacchi, S., Buzzelli, G., & de la Porte, C. (2026). ‘Guns versus butter’ in 
 
 politicization of the warfare-welfare trade-off. Journal of European Public Policy, 33(4), 1199–1225. https://doi.org/10.1080/13501763.2025.2534663
 
+Sandler, T., & Hartley, K. (1995). *The Economics of Defense*. Cambridge University Press.
+
 Shevchuk, V., & Luchka, O. (2024). The relationship between ESG ratings and corporate 
 
 decisions during the Russian-Ukrainian war. Visnyk of the Lviv University. Series Economics, (66).[ ](https://www.google.com/search?q=https://doi.org/10.30970/ves.2024.66.0.6614)<https://doi.org/10.30970/ves.2024.66.0.6614>
 
 Spence, M. (1973). Job Market Signaling. *The Quarterly Journal of Economics*, *87*(3), 355–374. https://doi.org/10.2307/1882010
 
-Strüwe, J. (2024). Exploring the sin stock premium: A comparative analysis across regions and 
-
-industries \[Master's thesis, Católica Lisbon School of Business and Economics\]. UCP Repository.
-
-Suchman, M. C. (1995). Managing Legitimacy: Strategic and Institutional Approaches. The 
-
-Academy of Management Review, 20(3), 571–610. https://doi.org/10.2307/258788
-
 Tian, N., Lopes da Silva, D., Liang, X., & Scarazzato, L. (2024). Trends in world military 
 
 expenditure, 2023. Stockholm International Peace Research Institute.
-
-Walker, H. A., & Willer, D. (2014). Legitimizing Collective Action and Countervailing Power. 
-
-Social Forces, 92(3), 1217–1239. http://www.jstor.org/stable/43287778
 
 Wongsosaputro, J., Pauwels, L. L., & Chan, F. (2011). Testing for structural breaks in discrete 
 

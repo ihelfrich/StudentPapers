@@ -13,32 +13,37 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 
 ## Tier 2 — references and citations
 
-- [ ] Add Derwall et al. (2011) and Sandler & Hartley (1995) to References (Gonchar 7, 8).
-- [ ] Remove duplicate Ivančík entry (Gonchar 47).
-- [ ] Verify each: Bruner (2024), English (2025), Strüwe (2024), Suchman (1995), Walker & Willer (2014) is actually cited; drop or cite (Gonchar 49–53).
-- [ ] Add citations for "guns vs butter" (19), framing-theory origin (33, → Goffman 1974 / Entman 1993), structural-break theory (26), "band-aid policy fix" (13), defence sin-stock framing (41), "government policies… stimulated the market" (16).
+- [ ] Add Derwall et al. (2011) to References (Gonchar 7).
+- [x] Add Sandler & Hartley (1995) to References (Gonchar 8). *Applied; see CHANGELOG 2026-05-02.*
+- [x] Remove duplicate Ivančík entry (Gonchar 47). *Applied; see CHANGELOG 2026-05-02.*
+- [x] Verify each: Bruner (2024), English (2025), Strüwe (2024), Suchman (1995), Walker & Willer (2014) is actually cited; drop or cite (Gonchar 49–53). *Applied; all five dropped (zero body mentions confirmed); see CHANGELOG 2026-05-02.*
+- [x] Add citations for "guns vs butter" (19). *Applied; Sacchi et al. (2026) cited for definition; Sacchi year corrected 2025→2026; fewerless typo removed; see CHANGELOG 2026-05-02.*
+- [x] Add citation for framing-theory origin (33, → Entman 1993). *Applied; Entman (1993) moved to definitional sentence; see CHANGELOG 2026-05-02.*
+- [x] Add citation for structural-break theory (26). *Applied; Chow (1960) added as parenthetical at line 308; see CHANGELOG 2026-05-02.*
+- [ ] Add citations for "band-aid policy fix" (13), defence sin-stock framing (41) (citation done: Hong & Kacperczyk 2009 added at line 744; relevance question still open).
+- [x] "government policies… stimulated the market" (16) — replaced with cited ASAP/EDIRPA/EDIS topic sentence; Lane (2024) and Andersson & Britz (2025) cited. *Applied; see CHANGELOG 2026-05-02.*
 
 ## Tier 3 — structure (Gonchar's flow rewrite)
 
-- [ ] Number sections; drop sub-subsections (Gonchar 0).
-- [ ] Rename "Literature Review" → **Background**; subsections: *History of European Defence Spending* and *Russia's Invasion of Ukraine* (Gonchar 5).
-- [ ] Then a real **Literature Review** that positions question + method against prior work.
-- [ ] Move "Detecting Structural Change" into the *Structural Break Analysis* subsection (Gonchar 18).
-- [ ] Move two history paragraphs into *History of European Defence Spending* (Gonchar 29, 34).
-- [ ] Promote **Data Collection** to its own *Data* section between Theory and Empirical (Gonchar 35).
-- [ ] Rename "Analytical and Theoretical Frameworks" → **Theoretical Framework** or **Methodology** (Gonchar 23).
+- [x] Number sections; drop sub-subsections (Gonchar 0). *Step 11A/12 applied: numeric prefixes on all body top-level (1–9) and second-level headings; ### 7.1.1–7.1.5 / 7.2.1–7.2.2 hierarchical numerals; Contextualisation ### promoted to ## 8.1–8.4; # Onglet 1 artefact removed. Step 11B/12 applied: all 8 `####` sub-subsection headings deleted (Overall Picture, Classification, Company-level Assessment, Outliers, Investment Commitment Language under 7.1.3; Test 1/2/3 headings under 7.2.2). TOC rebuild deferred to Step 11C.*
+- [x] Rename "Literature Review" → **Background**; subsections: *History of European Defence Spending* and *Russia's Invasion of Ukraine* (Gonchar 5). *Step 1/12 applied (heading text only, commit 2ba80be); Step 2/12 applied (## Historical Baseline → ## 3.1 History of European Defence Spending, commit 87be1bf); Step 3/12 applied (## Evidence of a Cyclical Shift header dropped; content attaches to 3.1, commit e5c72c4); Step 4/12 applied (## Evidence of Structural Shift → ## 3.2 Russia's Invasion of Ukraine; An Improvised Solution relocated to position 2 of 3.2, commit dec1f2d); full rename series in progress.*
+- [x] Then a real **Literature Review** that positions question + method against prior work. *Step 8/12 applied: # 4. Literature Review inserted; subsections renumbered 4.1/4.2/4.3; Gonchar 5 resolved; Tier 3 Step 8/12. Opener paragraph (if desired) flagged for Tier 4 prose pass.*
+- [x] Move "Detecting Structural Change" into the *Structural Break Analysis* subsection (Gonchar 18). *Applied; Tier 3 Step 7/12; heading dropped, paragraph inserted as 3rd para of 5.1; see CHANGELOG 2026-05-02.*
+- [x] Move two history paragraphs into *History of European Defence Spending* (Gonchar 29, 34). *Gonchar 29 applied: "Prior to 2022, European defence companies…" moved to end of 3.1 (Tier 3 Step 5/12). Gonchar 34 applied: "For many years after the Cold War…" moved to end of 3.1 (Tier 3 Step 6/12).*
+- [x] Promote **Data Collection** to its own *Data* section between Theory and Empirical (Gonchar 35). *Applied; Tier 3 Step 10/12; ## Data Collection → # 6. Data; # Mixed Methods → # 7. Mixed Methods; ## Semantic Analysis → ## 7.1 Semantic Analysis; ## Financial Analysis → ## 7.2 Financial Analysis; see CHANGELOG 2026-05-02.*
+- [x] Rename "Analytical and Theoretical Frameworks" → **Theoretical Framework** or **Methodology** (Gonchar 23). *Step 9/12 applied (heading renames only, commit 744d0ed); Gonchar 23 remains open until Phase A/B/C structural bundle is complete.*
 - [ ] Expand **Conclusion** per Gonchar 44: restate question → semantic evidence → financial evidence → limits → hedged statement.
 
 ## Tier 4 — wording / over-claiming
 
-- [ ] Simplify "fundamental strategic independence" (3).
-- [ ] "band-aid" → "short-term" (14).
-- [ ] "huge" → "considerable" (32).
-- [ ] "admitting in the process its crucial nature" → reword (20).
-- [ ] "this study designed its AI scans to 'read' the reports" — rephrase (36).
-- [ ] "prompts a close look" → "applies / implements" (25).
+- [x] Simplify "fundamental strategic independence" (3). *Applied; see CHANGELOG 2026-05-02.*
+- [x] "band-aid" → "short-term" (14). *Applied; see CHANGELOG 2026-05-02.*
+- [x] "huge" → "considerable" (32). *Applied; see CHANGELOG 2026-05-02.*
+- [x] "admitting in the process its crucial nature" → reword (20). *Applied; see CHANGELOG 2026-05-02.*
+- [x] "this study designed its AI scans to 'read' the reports" — rephrase (36). *Applied; see CHANGELOG 2026-05-02.*
+- [x] "prompts a close look" → "applies / implements" (25). *Applied; see CHANGELOG 2026-05-02.*
 - [ ] Cut or hedge the "Peace Dividend era is fading… ESG bygone" closing (46).
-- [ ] Drop or audit the wedding-banquet/Zeitenwende joke (author-flagged 31).
+- [x] Drop or audit the wedding-banquet/Zeitenwende joke (author-flagged 31). *Applied; see CHANGELOG 2026-05-02.*
 
 ## Tier 5 — referee-grade methodological holes (not flagged by Gonchar; needed for journal)
 
