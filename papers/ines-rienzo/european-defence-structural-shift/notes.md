@@ -34,7 +34,7 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 - [x] Simplify "fundamental strategic independence" (3). *Applied; see CHANGELOG 2026-05-02.*
 - [x] "band-aid" → "short-term" (14). *Applied; see CHANGELOG 2026-05-02.*
 - [ ] "huge" → "considerable" (32).
-- [ ] "admitting in the process its crucial nature" → reword (20).
+- [x] "admitting in the process its crucial nature" → reword (20). *Applied; see CHANGELOG 2026-05-02.*
 - [ ] "this study designed its AI scans to 'read' the reports" — rephrase (36).
 - [ ] "prompts a close look" → "applies / implements" (25).
 - [ ] Cut or hedge the "Peace Dividend era is fading… ESG bygone" closing (46).

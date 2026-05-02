@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — "admitting in the process its crucial nature" reworded (Gonchar 20)
+- **Resolves:** Gonchar id 20 / referee: (none — Gonchar wording fix)
+- **Section:** Literature Review → Literature Contradictions (paragraph at line 294)
+- **Before:** "…we start to see a large influx of capital into the industry, admitting in the process its crucial nature from a socioeconomic lens (Shevchuk & Luchka, 2024)."
+- **After:** "…capital is flowing into the industry at scale, reflecting a growing recognition of its socioeconomic importance (Shevchuk & Luchka, 2024)."
+- **Rationale:** Per Gonchar (id 20), "admitting in the process its crucial nature from a socioeconomic lens" was awkward and overwritten. The rewrite drops the "we start to see" first-person phrasing (consistent with single-author academic register), replaces "admitting … its crucial nature" with the more direct "reflecting a growing recognition of its socioeconomic importance," and cleans up "from a socioeconomic lens" to "socioeconomic importance" — same meaning, less jargon.
+- **Cohesion check:** (1) "admitting in the process" — 0 occurrences remaining; fully eliminated. (2) "crucial nature" — 0 occurrences remaining; fully eliminated. (3) "from a socioeconomic lens" — 0 occurrences remaining; fully eliminated. (4) "we start to see" — 0 occurrences remaining; fully eliminated. (5) "Shevchuk" — 2 occurrences: line 294 (the edited sentence, correct) and line 928 (References entry, untouched). No contradicting passage found. The remainder of the line-294 paragraph — "a point of no return … well-funded, united force ready for long-term global security" — is untouched; this is the cohesion follow-up flagged during the Conclusion expansion (Gonchar 44 / commit 064e4b3), and it is left to that separate edit.
+- **Commit:** TBD
+
 ### 2026-05-02 — "band-aid"/"stop the bleeding" replaced with neutral academic register (Gonchar 14)
 - **Resolves:** Gonchar id 14 / referee: (none — Gonchar wording fix)
 - **Section:** Literature Review → Evidence of a Cyclical Shift (closing of paragraph at line 246)
