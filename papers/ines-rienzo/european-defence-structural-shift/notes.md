@@ -21,7 +21,7 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 ## Tier 3 — structure (Gonchar's flow rewrite)
 
 - [ ] Number sections; drop sub-subsections (Gonchar 0).
-- [x] Rename "Literature Review" → **Background**; subsections: *History of European Defence Spending* and *Russia's Invasion of Ukraine* (Gonchar 5). *Step 1/12 applied (heading text only, commit 2ba80be); Step 2/12 applied (## Historical Baseline → ## 3.1 History of European Defence Spending, commit TBD); full rename series in progress.*
+- [x] Rename "Literature Review" → **Background**; subsections: *History of European Defence Spending* and *Russia's Invasion of Ukraine* (Gonchar 5). *Step 1/12 applied (heading text only, commit 2ba80be); Step 2/12 applied (## Historical Baseline → ## 3.1 History of European Defence Spending, commit 87be1bf); full rename series in progress.*
 - [ ] Then a real **Literature Review** that positions question + method against prior work.
 - [ ] Move "Detecting Structural Change" into the *Structural Break Analysis* subsection (Gonchar 18).
 - [ ] Move two history paragraphs into *History of European Defence Spending* (Gonchar 29, 34).
