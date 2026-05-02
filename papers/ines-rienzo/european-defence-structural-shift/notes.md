@@ -26,7 +26,7 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 - [ ] Move "Detecting Structural Change" into the *Structural Break Analysis* subsection (Gonchar 18).
 - [ ] Move two history paragraphs into *History of European Defence Spending* (Gonchar 29, 34).
 - [ ] Promote **Data Collection** to its own *Data* section between Theory and Empirical (Gonchar 35).
-- [x] Rename "Analytical and Theoretical Frameworks" → **Theoretical Framework** or **Methodology** (Gonchar 23). *Step 9/12 applied (heading renames only, commit TBD); Gonchar 23 remains open until Phase A/B/C structural bundle is complete.*
+- [x] Rename "Analytical and Theoretical Frameworks" → **Theoretical Framework** or **Methodology** (Gonchar 23). *Step 9/12 applied (heading renames only, commit 744d0ed); Gonchar 23 remains open until Phase A/B/C structural bundle is complete.*
 - [ ] Expand **Conclusion** per Gonchar 44: restate question → semantic evidence → financial evidence → limits → hedged statement.
 
 ## Tier 4 — wording / over-claiming
