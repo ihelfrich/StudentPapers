@@ -817,10 +817,6 @@ Börjeson Kennedy, C., Kojouharov Sjögren, E., & Ehrnborg, V. (2025). Guns, gro
 
 government: State support and institutional influence on export, profitability, and dual-use innovation \[Bachelor's thesis, Lund University\]. LUP Student Papers.[ https://lup.lub.lu.se/luur/download?func=downloadFile\&recordOId=9212116\&fileOId=9212117](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9212116&fileOId=9212117)
 
-Bruner, T. (2024). Peaceful, not Vulnerable: ESG Reporting should not weaken EU Defence 
-
-Industry. Peace Research Center Prague. http://www.jstor.org/stable/resrep58068
-
 Cepparulo, A., & Pasimeni, P. (2024). Trends in defence spending in the European Union. In F. 
 
 Cerniglia & F. Saraceno (Eds.), Investing in the structural transformation: 2024 European public 
@@ -836,10 +832,6 @@ Drempetic, S., Klein, C., & Zwergel, B. (2020). The influence of firm size on th
 Corporate sustainability ratings under review. Journal of Business Ethics, 167(2), 333–360.[ https://doi.org/10.1007/s10551-019-04164-1](https://doi.org/10.1007/s10551-019-04164-1)
 
 Ehrnborg, V., Kojouharov Sjögren, E., & Börjeson Kennedy, C. (2025). Guns, growth & government \[Bachelor’s thesis, Lund University\]. Lund University Publications. https://lup.lub.lu.se/student-papers/record/9212116.
-
-English, V. (2025). The Danish model and Ukraine's wartime defence industry. Journal of 
-
-International Politics, 6(2), 14–29.[ ](https://www.google.com/search?q=https://doi.org/10.22259/2642-8245.0602002)<https://doi.org/10.22259/2642-8245.0602002>
 
 Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal of 
 
@@ -923,21 +915,9 @@ decisions during the Russian-Ukrainian war. Visnyk of the Lviv University. Serie
 
 Spence, M. (1973). Job Market Signaling. *The Quarterly Journal of Economics*, *87*(3), 355–374. https://doi.org/10.2307/1882010
 
-Strüwe, J. (2024). Exploring the sin stock premium: A comparative analysis across regions and 
-
-industries \[Master's thesis, Católica Lisbon School of Business and Economics\]. UCP Repository.
-
-Suchman, M. C. (1995). Managing Legitimacy: Strategic and Institutional Approaches. The 
-
-Academy of Management Review, 20(3), 571–610. https://doi.org/10.2307/258788
-
 Tian, N., Lopes da Silva, D., Liang, X., & Scarazzato, L. (2024). Trends in world military 
 
 expenditure, 2023. Stockholm International Peace Research Institute.
-
-Walker, H. A., & Willer, D. (2014). Legitimizing Collective Action and Countervailing Power. 
-
-Social Forces, 92(3), 1217–1239. http://www.jstor.org/stable/43287778
 
 Wongsosaputro, J., Pauwels, L. L., & Chan, F. (2011). Testing for structural breaks in discrete 
 

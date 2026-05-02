@@ -25,6 +25,19 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Drop five unreferenced bibliography entries (Gonchar 49–53)
+- **Resolves:** Gonchar ids 49, 50, 51, 52, 53 / referee: bibliography-cleanup
+- **Section:** References (drop five entries with no in-text citation, per Gonchar 49–53)
+- **Before (Gonchar 49):** "Bruner, T. (2024). Peaceful, not Vulnerable: ESG Reporting should not weaken EU Defence…"
+- **Before (Gonchar 50):** "English, V. (2025). The Danish model and Ukraine's wartime defence industry. Journal of…"
+- **Before (Gonchar 51):** "Strüwe, J. (2024). Exploring the sin stock premium: A comparative analysis across regions…"
+- **Before (Gonchar 52):** "Suchman, M. C. (1995). Managing Legitimacy: Strategic and Institutional Approaches. The…"
+- **Before (Gonchar 53):** "Walker, H. A., & Willer, D. (2014). Legitimizing Collective Action and Countervailing Power…"
+- **After (all five):** *(entries deleted; following reference entry now leads directly)*
+- **Rationale:** Per Gonchar ids 49–53, each asked "Was this referenced?" of these five entries. Case-insensitive grep confirmed that none of the surnames Bruner, English V., Strüwe/Struwe, Suchman, or Walker/Willer appears anywhere in the paper body — all five existed solely in the References list. Per academic convention, uncited references are removed from the bibliography. Git history makes individual restoration trivial if any was inadvertently dropped.
+- **Cohesion check:** Post-deletion sweep of all five surnames and "Willer" across paper.md returned zero matches. Confirmed zero residual mentions for each of: Bruner (0), English V. (0), Strüwe / Struwe (0), Suchman (0), Walker (0), Willer (0). No body-text citation was orphaned; no in-text citation chain was broken.
+- **Commit:** TBD
+
 ### 2026-05-02 — References cleanup: duplicate Ivančík entry + fragmented Article. block removed (Gonchar 47)
 - **Resolves:** Gonchar id 47 / referee: bibliography-cleanup
 - **Section:** References (cleanup of duplicate Ivančík + fragmented Article. block)

@@ -56,11 +56,11 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 46 | Gonchar | 2026-05-01 | The 2022 war on Ukraine awakened the entire continent and the world. We can confidently sa… | Strong language and not necessarily the focus of the paper, so I'd recommend omitting it since you'd have to really defend the connection between the shift being structural and the… | open |  |
 | 47 | Gonchar | 2026-05-01 | (no anchor) | This is a duplicate Radoslav Ivančík citation. | resolved | duplicate Ivančík entry (former lines 916–918) and fragmented Article. block (former lines 812–814) deleted |
 | 48 | Gonchar | 2026-05-01 | (no anchor) | (And need to move to correct spot - I moved it) | open |  |
-| 49 | Gonchar | 2026-05-01 | Bruner, T. (2024). Peaceful, not Vulnerable: ESG Reporting should not weaken EU Defence In… | Was this referenced? | open |  |
-| 50 | Gonchar | 2026-05-01 | English, V. (2025). The Danish model and Ukraine's wartime defence industry. Journal of In… | Was this referenced? | open |  |
-| 51 | Gonchar | 2026-05-01 | Strüwe, J. (2024). Exploring the sin stock premium: A comparative analysis across regions … | Was this referenced? | open |  |
-| 52 | Gonchar | 2026-05-01 | Suchman, M. C. (1995). Managing Legitimacy: Strategic and Institutional Approaches. The Ac… | Was this referenced? | open |  |
-| 53 | Gonchar | 2026-05-01 | Walker, H. A., & Willer, D. (2014). Legitimizing Collective Action and Countervailing Powe… | Was this referenced? | open |  |
+| 49 | Gonchar | 2026-05-01 | Bruner, T. (2024). Peaceful, not Vulnerable: ESG Reporting should not weaken EU Defence In… | Was this referenced? | resolved | grep confirmed 0 body mentions; entry deleted in bibliography-cleanup commit |
+| 50 | Gonchar | 2026-05-01 | English, V. (2025). The Danish model and Ukraine's wartime defence industry. Journal of In… | Was this referenced? | resolved | grep confirmed 0 body mentions; entry deleted in bibliography-cleanup commit |
+| 51 | Gonchar | 2026-05-01 | Strüwe, J. (2024). Exploring the sin stock premium: A comparative analysis across regions … | Was this referenced? | resolved | grep confirmed 0 body mentions; entry deleted in bibliography-cleanup commit |
+| 52 | Gonchar | 2026-05-01 | Suchman, M. C. (1995). Managing Legitimacy: Strategic and Institutional Approaches. The Ac… | Was this referenced? | resolved | grep confirmed 0 body mentions; entry deleted in bibliography-cleanup commit |
+| 53 | Gonchar | 2026-05-01 | Walker, H. A., & Willer, D. (2014). Legitimizing Collective Action and Countervailing Powe… | Was this referenced? | resolved | grep confirmed 0 body mentions; entry deleted in bibliography-cleanup commit |
 | 54 | Gonchar | 2026-05-01 | Company-level Scores | Missing "Table 15:" | open |  |
 | 55 | Rienzo | 2026-04-26 | (no anchor) | check | open |  |
 
