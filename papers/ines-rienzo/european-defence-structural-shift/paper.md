@@ -249,7 +249,7 @@ The uncertainty and volatility in countries providing defence aid to Ukraine are
 
 ## **Evidence of Structural Shift**
 
-Given its nature and organisation, the EU had no choice but to devise a limited short-term response to the invasion of Ukraine, but as it became clear that this conflict would not be resolved quickly, a more developed long-term response took shape. Government policies, economic forecasts, and the way companies saw their role in adapting to this new level of Russian aggression all influenced a stimulation of the European defence market. Companies could now foresee a necessary expansion and adapt to a far broader scale of operation and production.
+Given its nature and organisation, the EU had no choice but to devise a limited short-term response to the invasion of Ukraine, but as it became clear that this conflict would not be resolved quickly, a more developed long-term response took shape. Three EU policy instruments stimulated the European defence market: the Act in Support of Ammunition Production (ASAP), the European Defence Industry Reinforcement through Common Procurement Act (EDIRPA), and the European Defence Industrial Strategy (EDIS). They cleared procurement bottlenecks and signalled sustained long-term demand (Lane, 2024; Andersson & Britz, 2025). Companies could now foresee a necessary expansion and adapt to a far broader scale of operation and production.
 
   
 
@@ -287,7 +287,7 @@ Distinguishing temporary shocks from permanent regime changes is, of course, nec
 
 While many researchers point to a permanent shift in the defence sector, there are still certain caveats accompanyingoverhanging the conclusions. First, researchers point out a major contradiction which is that the EU wants to be independent;, however, it is still heavily reliant on the United States from a military defence perspective. As European forces hurried to provide critical support to Ukraine, they purchased the vast majority of their new equipment from US companies (Howorth, 2025). If European countries keep shifting funds away from their own defence production, they risk becoming more dependent on the US, which creates a structural barrier to true EU defence integration.
 
-Second, there is the ongoing worry about war fatigue. Convincing the public of the necessity of utilising more funds on war efforts increases in difficulty as the conflict carries on without a clear end in sight ([Holesch](https://www.tandfonline.com/author/Holesch%2C+Adam) & [Martill](https://www.tandfonline.com/author/Martill%2C+Benjamin), 2026). A very common debate regarding this issue is often called “guns versus butter” which holds that if a government spends more on guns it will have fewerless funds for public benefits. If a nation’s policy makers return to favouring social utility programs, then the defence industry's new funding could quickly evaporate (Sacchi et al., 2025).
+Second, there is the ongoing worry about war fatigue. Convincing the public of the necessity of utilising more funds on war efforts increases in difficulty as the conflict carries on without a clear end in sight ([Holesch](https://www.tandfonline.com/author/Holesch%2C+Adam) & [Martill](https://www.tandfonline.com/author/Martill%2C+Benjamin), 2026). A very common debate regarding this issue is often called “guns versus butter”: the idea that money spent on military capacity is money not available for civilian welfare (Sacchi et al., 2026). If a nation’s policy makers return to favouring social utility programs, then the defence industry’s new funding could quickly evaporate (Sacchi et al., 2026).
 
 At the onset of the conflict, the response was definitely accelerated, as European governments scrambled to purchase whatever was readily available and rapidly emptied their existing warehouses. However, this crisis exposed the fatal flaws of a disconnected industrial base. According to the “failing forward” theory of European integration, this exact type of crisis is what forces EU leaders to create strong, permanent rules and programs to unify defence efforts (Lane Jean-Claude, 2024).
 
@@ -305,7 +305,7 @@ At the same time, the business side of defence has entirelycompletely changed. A
 
 In order to determine whether Russia’s invasion of Ukraine did indeed force a structural shift or a cyclical one, a strong theoretical model must be applied. From 2018-2025, the dynamics in Europe and among defence companies changed. Now, a complex environment of ethical questions, changing budgets, and shifting global political priorities has emerged. This evolution has energised the defence sector and prompts a close look at three key theoretical frameworks: structural break theory, signalling theory, and framing theory.
 
-As applied to the original research question, structural break theory distinguishes the difference between a short-term bump and a permanent shift in the defence sector. Signalling theory reflects how the defence contractors articulate long-term plans through their communications and earnings during volatile economic conditions. Finally, framing theory breaks down the companies’ changing public narrative to anticipate or promote long-term economic changes. This can be accomplished via an analysis of word-choice and tone in the annual reports. Together, these three theories merge to give a clear understanding of how the European defence industry has evolved in the EU era, and more to the point, in the years leading up to and then after 2022.
+As applied to the original research question, structural break theory (Chow, 1960) distinguishes the difference between a short-term bump and a permanent shift in the defence sector. Signalling theory reflects how the defence contractors articulate long-term plans through their communications and earnings during volatile economic conditions. Finally, framing theory breaks down the companies’ changing public narrative to anticipate or promote long-term economic changes. This can be accomplished via an analysis of word-choice and tone in the annual reports. Together, these three theories merge to give a clear understanding of how the European defence industry has evolved in the EU era, and more to the point, in the years leading up to and then after 2022.
 
   
 
@@ -329,7 +329,7 @@ Germany’s *Zeitenwende* (“watershed moment”) was established in February o
 
 ## **Framing Theory**
 
-Framing theory is a sociological practice that examines how the presentation of information (sometimes called messaging) influences public perception and drives ensuing opinions and behaviours. Framing does not fabricate facts but rather emphasises unique aspects of a complex scenario in order to elicit reactions from people, institutions, and even investors (Entman, 1993). An example of this might be when a doctor, articulating the risk of surgery, says the procedure has an 85% success rate. This frame is clearly more attractive and likely to motivate patients toward surgery than saying that the procedure has a 15% mortality rate. The facts are the same, but the frame is quite different. When we apply this similar logic to the European defence industry, framing theory provides a clear explanation of how the sector's public and financial position has changed. 
+Framing theory is a sociological practice that examines how the presentation of information (sometimes called messaging) influences public perception and drives ensuing opinions and behaviours (Entman, 1993). Framing does not fabricate facts but rather emphasises unique aspects of a complex scenario in order to elicit reactions from people, institutions, and even investors. An example of this might be when a doctor, articulating the risk of surgery, says the procedure has an 85% success rate. This frame is clearly more attractive and likely to motivate patients toward surgery than saying that the procedure has a 15% mortality rate. The facts are the same, but the frame is quite different. When we apply this similar logic to the European defence industry, framing theory provides a clear explanation of how the sector's public and financial position has changed. 
 
 For many years after the Cold War, the European defence industry was framed predominantly through a lens of ethical liability and restraint. The key political narrative placed emphasis on the previously -noted peace dividends and demilitarisation. The defence sector was often framed as an unfortunate, heavily regulated necessity rather than a public good. In financial markets, this framing resulted in the exclusion of most defence companies from many Environmental, Social, and Governance ESG (ESGEnvironmental, Social, and Governance) portfolios, creating the moral opinion that weapons manufacturing was inherently risky or anti-sustainable (Drempetic et al., 2020).
 
@@ -741,7 +741,7 @@ The market signals translate into meaningfully significant results for defence c
 
 ### **Pre- and Post-Invasion Framing**
 
- Framing theory suggests how the market views of various industries and sectors impact various operating and valuation dynamics. Prior to 2022, it was postulated that defence-related companies were out-of-favour for various reasons, including ethical challenges associated with investing in the space and inconsistent demand that was primarily dependent on shorter-term government procurement trends. This was collectively indicative of a highly cyclical landscape.
+ Framing theory suggests how the market views of various industries and sectors impact various operating and valuation dynamics. Prior to 2022, defence-related companies were out-of-favour with many institutional investors for two related reasons: the ethical challenges associated with investing in the sector (the "sin stock" framing studied by Hong & Kacperczyk, 2009) and inconsistent demand that was primarily dependent on shorter-term government procurement cycles. This was collectively indicative of a highly cyclical landscape.
 
  The evidence for the re-framing of the defence industry is highlighted throughout the analyses. The shift in tone within the semantic analysis is dramatic. Moderate-to-strongly “bullish” language categorisations in the pre-invasion period represented approximately 30% of the sample. In the post-invasion period, the equivalent bullish language is nearly 92%,, a definitive shift.
 
@@ -809,10 +809,6 @@ Andersson, J. J., & Britz, M. (2025). The European Union’s role in European de
 
 policy. Defence Studies, 25(2), 322–341.<https://doi.org/10.1080/14702436.2025.2472694>
 
-Article.([https://www.researchgate.net/publication/398034076\_Transformation\_of\_the\_European](https://www.researchgate.net/publication/398034076_Transformation_of_the_European_Union's_Security_and_Defence_Policy_After_2022)
-
-[\_Union's\_Security\_and\_Defence\_Policy\_After\_2022](https://www.researchgate.net/publication/398034076_Transformation_of_the_European_Union's_Security_and_Defence_Policy_After_2022))
-
 BliegeBird, R., & Smith, E. (2005). Signaling Theory, Strategic Interaction, and Symbolic 
 
 Capital. Current Anthropology, 46(2), 221–248. https://doi.org/10.1086/427115
@@ -820,10 +816,6 @@ Capital. Current Anthropology, 46(2), 221–248. https://doi.org/10.1086/427115
 Börjeson Kennedy, C., Kojouharov Sjögren, E., & Ehrnborg, V. (2025). Guns, growth and 
 
 government: State support and institutional influence on export, profitability, and dual-use innovation \[Bachelor's thesis, Lund University\]. LUP Student Papers.[ https://lup.lub.lu.se/luur/download?func=downloadFile\&recordOId=9212116\&fileOId=9212117](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9212116&fileOId=9212117)
-
-Bruner, T. (2024). Peaceful, not Vulnerable: ESG Reporting should not weaken EU Defence 
-
-Industry. Peace Research Center Prague. http://www.jstor.org/stable/resrep58068
 
 Cepparulo, A., & Pasimeni, P. (2024). Trends in defence spending in the European Union. In F. 
 
@@ -840,10 +832,6 @@ Drempetic, S., Klein, C., & Zwergel, B. (2020). The influence of firm size on th
 Corporate sustainability ratings under review. Journal of Business Ethics, 167(2), 333–360.[ https://doi.org/10.1007/s10551-019-04164-1](https://doi.org/10.1007/s10551-019-04164-1)
 
 Ehrnborg, V., Kojouharov Sjögren, E., & Börjeson Kennedy, C. (2025). Guns, growth & government \[Bachelor’s thesis, Lund University\]. Lund University Publications. https://lup.lub.lu.se/student-papers/record/9212116.
-
-English, V. (2025). The Danish model and Ukraine's wartime defence industry. Journal of 
-
-International Politics, 6(2), 14–29.[ ](https://www.google.com/search?q=https://doi.org/10.22259/2642-8245.0602002)<https://doi.org/10.22259/2642-8245.0602002>
 
 Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal of 
 
@@ -913,10 +901,6 @@ Osimen, G. U., Fulani, O., & Mogbolu, N. (2025). The evolving landscape of Europ
 
 An assessment of NATO’s posture and deterrence strategies in response to the Russia-Ukraine war. Journal of Strategic Security, 18(4), 1–18.[ https://doi.org/10.5038/1944-0472.18.4.2589](https://doi.org/10.5038/1944-0472.18.4.2589)
 
-Ivančík, Radoslav. (2025). Transformation of the European Union's Security and Defence Policy After 2022. https://doi.org/10.52651/nmb.c.2025.9788080406882.65-72.[Ivančík](https://www.researchgate.net/profile/Radoslav-Ivancik?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19), [Radoslav Ivančík](https://www.researchgate.net/profile/Radoslav-Ivancik?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19). (2024). Transformation of the European Union's Security and Defence Policy 
-
-After 2022. ResearchGate Academic
-
 Ribera Payá, P., & Barredo González, P. (2025). Defence in the European Union: Policy 
 
 supporting paper for the EESC Workers' Group. European Economic and Social Committee.[ https://espas.secure.europarl.europa.eu/orbis/system/files/generated/document/en/defence%20in%20the%20EU.pdf](https://espas.secure.europarl.europa.eu/orbis/system/files/generated/document/en/defence%20in%20the%20EU.pdf)
@@ -925,27 +909,17 @@ Sacchi, S., Buzzelli, G., & de la Porte, C. (2026). ‘Guns versus butter’ in 
 
 politicization of the warfare-welfare trade-off. Journal of European Public Policy, 33(4), 1199–1225. https://doi.org/10.1080/13501763.2025.2534663
 
+Sandler, T., & Hartley, K. (1995). *The Economics of Defense*. Cambridge University Press.
+
 Shevchuk, V., & Luchka, O. (2024). The relationship between ESG ratings and corporate 
 
 decisions during the Russian-Ukrainian war. Visnyk of the Lviv University. Series Economics, (66).[ ](https://www.google.com/search?q=https://doi.org/10.30970/ves.2024.66.0.6614)<https://doi.org/10.30970/ves.2024.66.0.6614>
 
 Spence, M. (1973). Job Market Signaling. *The Quarterly Journal of Economics*, *87*(3), 355–374. https://doi.org/10.2307/1882010
 
-Strüwe, J. (2024). Exploring the sin stock premium: A comparative analysis across regions and 
-
-industries \[Master's thesis, Católica Lisbon School of Business and Economics\]. UCP Repository.
-
-Suchman, M. C. (1995). Managing Legitimacy: Strategic and Institutional Approaches. The 
-
-Academy of Management Review, 20(3), 571–610. https://doi.org/10.2307/258788
-
 Tian, N., Lopes da Silva, D., Liang, X., & Scarazzato, L. (2024). Trends in world military 
 
 expenditure, 2023. Stockholm International Peace Research Institute.
-
-Walker, H. A., & Willer, D. (2014). Legitimizing Collective Action and Countervailing Power. 
-
-Social Forces, 92(3), 1217–1239. http://www.jstor.org/stable/43287778
 
 Wongsosaputro, J., Pauwels, L. L., & Chan, F. (2011). Testing for structural breaks in discrete 
 
