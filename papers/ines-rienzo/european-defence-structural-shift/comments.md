@@ -38,8 +38,8 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 28 | Gonchar | 2026-05-01 | immediately prevent or preemptively mitigate | (or something like this) | open |  |
 | 29 | Gonchar | 2026-05-01 | Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in … | This should go into a History of European Defence Spending subsection | open |  |
 | 30 | Gonchar | 2026-05-01 | necessary | why? | open |  |
-| 31 | Rienzo | 2026-04-26 | its military. To the uncritical onlooker, this might seem like a person renting a hall for… | check the joke | open |  |
-| 32 | Gonchar | 2026-05-01 | huge | large or considerable | open |  |
+| 31 | Rienzo | 2026-04-26 | its military. To the uncritical onlooker, this might seem like a person renting a hall for… | check the joke | resolved | wedding-banquet/brides/honeymoon/"Like the marriage" metaphor fully removed; all substantive claims preserved |
+| 32 | Gonchar | 2026-05-01 | huge | large or considerable | resolved | "huge" → "considerable"; also tightened "toward building" → "on" |
 | 33 | Gonchar | 2026-05-01 | Framing theory is a sociological practice that examines how the presentation of informatio… | Who started it? (Source) | open |  |
 | 34 | Gonchar | 2026-05-01 | For many years after the Cold War, the European defence industry was framed predominantly … | This should go into a History of European Defence Spending subsection | open |  |
 | 35 | Gonchar | 2026-05-01 | Data Collection | "Data" should be a separate section where you discuss what data is needed for the analysis, where you got it, and any changes you made to it (as well as any immediately relevant li… | open |  |
