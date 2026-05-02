@@ -1,4 +1,3 @@
-# Onglet 1  
 
   
   
@@ -172,7 +171,7 @@ On another note, AI is a key part of my semantic analysis, in which I asked both
   
   
 
-# **Executive Summary**
+# **1. Executive Summary**
 
  February of 2022 saw Russia’s full-scale invasion of Ukraine — a major escalation of the war Russia had launched in 2014 with the seizure of Crimea and the incursion into the Donbas — and the first large-scale interstate conventional war in Europe in decades. The continent suddenly awoke to a seismic shift from the status quo. Not only did European countries not expect such aggression, they also realised that the US was no longer a reliable resource in mediating European conflicts. In response to these factors, the European Union (EU) immediately increased defence spending, which defence companies responded to by increasing their own capital expenditure and research and development (R\&D). There was also a shift toward creating capacity for a new self-reliance in defence by EU members. The reasons for the surge in defence spending are clear, but a question arises. Does the upswing in response to the 2022 invasion indicate a *cyclical* shift or a *structural* one? 
 
@@ -193,7 +192,7 @@ Based on both the semantic and financial analyses, a structural shift has occurr
   
   
 
-# **Introduction** 
+# **2. Introduction**
 
   
 
@@ -347,7 +346,7 @@ The primary data source consists of annual reports and earnings presentation mat
 
 ## **7.1 Semantic Analysis**
 
-### ***Methodology***
+### ***7.1.1 Methodology***
 
 Any semantic analysis should strive to discern *meaning*, rather than merely word counting. While AI can readily identify word frequency in texts, this study designed its AI scans to “read” the reports from the approximate perspective of a financial analyst specialising in defence sector nomenclature and structures. Thus, the AI here analyses and assesses tone, framing, and commitment levels as reflected in word choices, and the identifiable language of strategic stance.
 
@@ -355,7 +354,7 @@ A qualitative-quantitative hybrid emerged from this method to produce structured
 
   
 
-### ***Large Language Model Framework***
+### ***7.1.2 Large Language Model Framework***
 
 The report excerpts were extracted via a code programme using a Claude key (Anthropic, claude-opus-4-5-model) that used a prompt carefully designed to frame the central research question and to assess the reports’ narratives across multiple dimensions. It was given clear examples and definitions of what constitutes structural language in contrast to cyclical language. The full prompts are included in Appendix C.
 
@@ -374,7 +373,7 @@ The LLM framework was applied across all 79 reports uniformly, and all models we
 
   
 
-### ***Results***
+### ***7.1.3 Results***
 
 #### *The Overall Picture*
 
@@ -470,7 +469,7 @@ Safran’s capital language focus continues to be on commercial aerospace decarb
 
   
 
-### ***Inter-Rater Reliability Using a Second AI Model***
+### ***7.1.4 Inter-Rater Reliability Using a Second AI Model***
 
 The reliability of AI-based text assessment does pose methodological concerns, one of which is whether findings are unique to a specific AI model or whether they reflect genuine signals in the source documents that another capable AI-based assessment could also identify.  To test this thesis and confirm the overall results, the entire corpus of 79 reports was independently assessed using a second AI model, Google Gemini 2.5 Pro. Neither model had cross-access to scores as the assessment occurred, which accommodated a true inter-rater reliability in keeping with human-coder agreement studies in other qualitative research. Although clearly not perfect, this use of AI cross-referencing is still compelling. 
 
@@ -497,7 +496,7 @@ These results confirm the core findings of this study and could be theoretically
 
   
 
-### ***Difference-in-Difference (DiD) Analysis***
+### ***7.1.5 Difference-in-Difference (DiD) Analysis***
 
  The clear takeaway from analyses of report narratives and Cohen’s Kappa is that  European defence companies shifted sharply toward structural language after February 2022.  Using the LLM to identify a shift in the tone of reports does not verify causality vis-a-vis the invasion, and a sceptic might ask whether defence company language had already trended toward becoming more structural prior to 2022 driven by rising geopolitical tensions, NATO spending commitments after 2014, or the general post-COVID recovery in defence budgets. If this pre-existing trend was identified, the invasion might be considered merely coincidental.
 
@@ -617,7 +616,7 @@ Four limitations should be acknowledged. First, as noted above, the parallel tre
 
 ## **7.2 Financial Analysis**
 
-### ***Methodology***
+### ***7.2.1 Methodology***
 
 For each company and year (2018 to 2025), six different financial metrics have been compiled to analyse defence-related business performance pre- and post-invasion. For context, each metric and its relevance is summarised as follows:
 
@@ -632,7 +631,7 @@ All figures originally reported in British pounds were converted to euros using 
 
   
 
-### **Tests** 
+### **7.2.2 Tests**
 
 Three tests have been performed to analyse and verify findings: (1) a Welch test to compare metric averages pre- and post-invasion (2) a Chow test to confirm the breaking point, and (3) a panel fixed effect regression to normalise the underlying data and confirm results.
 
@@ -720,7 +719,7 @@ Clearly, the aggregated evidence from the panel regression is consistent with ea
 
   
 
-# **Contextualisation of Mixed-Methods vis-a-vis the Theoretical Framework and Results**
+# **8. Contextualisation of Mixed Methods vis-à-vis the Theoretical Framework and Results**
 
 To refresh, the mixed-methodology consists of the following four tests of the overarching research, including one semantic test and three quantitative tests:
 
@@ -729,7 +728,7 @@ To refresh, the mixed-methodology consists of the following four tests of the ov
 
  The findings throughout this analysis complement and confirm one another. The semantic models demonstrate sharp contrasts between managerial language pre- and post-invasion, while providing insight into a significantly more bullish future. The three separate financial tests (analyses) capture the hard data supporting and confirming the managerial language. The collective interlocking threads are highly indicative of the structural shift.
 
-### **Key Signalling Links Between Analyses**
+## **8.1 Key Signalling Links Between Analyses**
 
  As noted above, signalling theory dictates that markets and governments will provide indications of demand prior to companies investing significant amounts of capital. Capital will then be committed as these demand signals come to fruition through actual orders and sales. Both the semantic and financial analyses support the signalling sequence.
 
@@ -737,7 +736,7 @@ In the semantic analysis, the mean score increases substantially between 2021 an
 
 The market signals translate into meaningfully significant results for defence companies, which are deepening their capital investments to fulfil growing demand. The breadth and depth of the managerial language, confirmed by the financial results, creates a cycle of the longer-term demand characteristics confirmed by the semantic and financial tests.
 
-### **Pre- and Post-Invasion Framing**
+## **8.2 Pre- and Post-Invasion Framing**
 
  Framing theory suggests how the market views of various industries and sectors impact various operating and valuation dynamics. Prior to 2022, it was postulated that defence-related companies were out-of-favour for various reasons, including ethical challenges associated with investing in the space and inconsistent demand that was primarily dependent on shorter-term government procurement trends. This was collectively indicative of a highly cyclical landscape.
 
@@ -749,7 +748,7 @@ The market signals translate into meaningfully significant results for defence c
 
   
 
-### **Theoretical Support through Company Heterogeneity**
+## **8.3 Theoretical Support through Company Heterogeneity**
 
  While not explicitly quantified, the distinctive nature, or heterogeneity, across the companies within the sample set, provides a strong indirect indication of a structural shift. If the post-invasion results were due to more temporary conditions, an observer might expect more uniformity across the sample set. However, companies most directly exposed to European defence production, such as Rheinmetall, BAE, Saab and Leonardo, show the strongest responses across the semantic and quantitative tests, while commercial aerospace-oriented companies, such as Airbus and Safran, demonstrate more limited responses.
 
@@ -757,7 +756,7 @@ General macroeconomic conditions may impact companies across the data set in a r
 
   
 
-### **Summary of Key Limitations and Potential Avenues for Future Study**
+## **8.4 Summary of Key Limitations and Potential Avenues for Future Study**
 
  The study identified four key limitations:
 
@@ -776,7 +775,7 @@ General macroeconomic conditions may impact companies across the data set in a r
 
   
 
-# **Conclusion** 
+# **9. Conclusion**
 
 The overall trend forecasts that this fundamental shift will be sustained. While Europe remains dependent on the United States for a substantial share of new equipment procurement in the near term (Howorth, 2025), the financials of the top ten European defence contractors demonstrate a clear strategic shift toward greater defence self-reliance.
 
