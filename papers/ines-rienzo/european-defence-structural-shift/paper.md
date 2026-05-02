@@ -249,7 +249,7 @@ The uncertainty and volatility in countries providing defence aid to Ukraine are
 
 ## **Evidence of Structural Shift**
 
-Given its nature and organisation, the EU had no choice but to devise a limited short-term response to the invasion of Ukraine, but as it became clear that this conflict would not be resolved quickly, a more developed long-term response took shape. Government policies, economic forecasts, and the way companies saw their role in adapting to this new level of Russian aggression all influenced a stimulation of the European defence market. Companies could now foresee a necessary expansion and adapt to a far broader scale of operation and production.
+Given its nature and organisation, the EU had no choice but to devise a limited short-term response to the invasion of Ukraine, but as it became clear that this conflict would not be resolved quickly, a more developed long-term response took shape. EU policy instruments — most notably the Act in Support of Ammunition Production (ASAP), the European Defence Industry Reinforcement through Common Procurement Act (EDIRPA), and the European Defence Industrial Strategy (EDIS) — directly stimulated the European defence market by clearing procurement bottlenecks and signalling sustained long-term demand (Lane, 2024; Andersson & Britz, 2025). Companies could now foresee a necessary expansion and adapt to a far broader scale of operation and production.
 
   
 

@@ -20,7 +20,8 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 - [x] Add citations for "guns vs butter" (19). *Applied; Sacchi et al. (2026) cited for definition; Sacchi year corrected 2025→2026; fewerless typo removed; see CHANGELOG 2026-05-02.*
 - [x] Add citation for framing-theory origin (33, → Entman 1993). *Applied; Entman (1993) moved to definitional sentence; see CHANGELOG 2026-05-02.*
 - [x] Add citation for structural-break theory (26). *Applied; Chow (1960) added as parenthetical at line 308; see CHANGELOG 2026-05-02.*
-- [ ] Add citations for "band-aid policy fix" (13), defence sin-stock framing (41) (citation done: Hong & Kacperczyk 2009 added at line 744; relevance question still open), "government policies… stimulated the market" (16).
+- [ ] Add citations for "band-aid policy fix" (13), defence sin-stock framing (41) (citation done: Hong & Kacperczyk 2009 added at line 744; relevance question still open).
+- [x] "government policies… stimulated the market" (16) — replaced with cited ASAP/EDIRPA/EDIS topic sentence; Lane (2024) and Andersson & Britz (2025) cited. *Applied; see CHANGELOG 2026-05-02.*
 
 ## Tier 3 — structure (Gonchar's flow rewrite)
 

@@ -23,7 +23,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 13 | Gonchar | 2026-05-01 | the policymakers who crafted them were driven to create a fast fix and the “band-aid” natu… | What was this fast fix? Citation? | open |  |
 | 14 | Gonchar | 2026-05-01 | “band-aid” | maybe short-term? | open |  |
 | 15 | Gonchar | 2026-05-01 | Given its nature and organisation | What about their nature and organisation gave them no choice? | open |  |
-| 16 | Gonchar | 2026-05-01 | Government policies, economic forecasts, and the way companies saw their role in adapting … | Vague/broad - need citations | open |  |
+| 16 | Gonchar | 2026-05-01 | Government policies, economic forecasts, and the way companies saw their role in adapting … | Vague/broad - need citations | resolved | vague three-part claim replaced with cited ASAP/EDIRPA/EDIS topic sentence; Lane (2024) and Andersson & Britz (2025) cited |
 | 17 | Gonchar | 2026-05-01 | (no anchor) | (I could be wrong on this one) | open |  |
 | 18 | Gonchar | 2026-05-01 | Detecting Structural ChangeDistinguishing temporary shocks from permanent regime changes i… | Should be moved to the "Structural Break Analysis" subsection | open |  |
 | 19 | Gonchar | 2026-05-01 | “guns versus butter” which holds that if a government spends more on guns it will have few… | Citation? | resolved | Sacchi et al. (2026) citation added to definition sentence; “fewerless” typo removed; existing Sacchi year corrected from 2025 → 2026 |
