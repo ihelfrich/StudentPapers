@@ -323,7 +323,7 @@ Michael Spence (1973) articulated the principles of signalling theory in 1973, w
 
 Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in demand, and the incentive to invest large amounts of capital did not exist. The invasion dramatically changed this. Still, as governments anticipated longer-term defence needs, it was necessary for them to send consistent –and costly–signals to defence companies to make credible that they were intent upon developing and expanding their militaries (Ribera Payá & Barredo González, 2025). 
 
-Germany’s *Zeitenwende* (“watershed moment”) was established in February of 2022 and earmarked 100 billion euros to be disbursed in binding, long-term contracts just for its military. *Zeitenwende 2.0* (500 billion euros over the next 12 years) extends this commitment substantially further (KRPATA, 2025). Defence contractors received the signal clearly: the German commitment to a more robust defence stimulated a considerable increase in corporate spending on new facilities, factories, and production lines (Zandee et al., 2024). This illustration of signalling theory then piggybacks into other spheres as well — defence companies send their own signals to financial markets, which can then plan for expansion in banking, loans, and broader financial activity.
+Germany’s *Zeitenwende* (“watershed moment”) was established in February of 2022 and earmarked 100 billion euros to be disbursed in binding, long-term contracts just for its military. *Zeitenwende 2.0* (500 billion euros over the next 12 years) extends this commitment further (KRPATA, 2025). Defence contractors read these commitments as a credible signal, and the German push for a more robust defence stimulated a considerable increase in corporate spending on new facilities, factories, and production lines (Zandee et al., 2024). This illustration of signalling theory then piggybacks into other spheres as well. Defence companies send their own signals to financial markets, which can then plan for expansion in banking, loans, and broader financial activity.
 
   
 
@@ -351,7 +351,7 @@ The primary data source consists of annual reports and earnings presentation mat
 
 ### ***Methodology***
 
-Semantic analysis should aim to identify *meaning* rather than count words. While AI tools can readily measure word frequency, the prompts in this study direct the model to interpret each report from the perspective of a financial analyst specialising in defence-sector nomenclature and reporting conventions. The model is then asked to assess tone, framing, and commitment levels as reflected in word choices and the identifiable language of strategic stance.
+Semantic analysis should aim to identify *meaning* rather than count words. AI tools can readily measure word frequency, but in this study the prompts ask the model to read each report as a financial analyst would, applying the vocabulary and reporting conventions specific to the defence sector. The prompts then ask the model to score tone, framing, and commitment levels as expressed through word choice and the language of strategic stance.
 
 A qualitative-quantitative hybrid emerged from this method to produce structured assessments. The goal was to tailor statistical comparisons that are derived from textual comprehension of management language to offer a more complete understanding than a basic quantification of word frequency.
 
