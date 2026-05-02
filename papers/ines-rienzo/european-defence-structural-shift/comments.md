@@ -54,7 +54,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 44 | Gonchar | 2026-05-01 | Conclusion | The conclusion needs to be substantially expanded. Right now, it opens by assuming the conclusion before demonstrating it, and the two short paragraphs that follow do not constitut… | open |  |
 | 45 | Gonchar | 2026-05-01 | Europe is no longer simply purchasing most of its defence needs from the United States. | Contradicts Howorth (2025) as cited in the Literature Contradictions section. The conclusion should reflect the tension acknowledged in the literature rather than overstating the d… | resolved | hedged with Howorth (2025) near-term US dependence caveat; see CHANGELOG 2026-05-01 |
 | 46 | Gonchar | 2026-05-01 | The 2022 war on Ukraine awakened the entire continent and the world. We can confidently sa… | Strong language and not necessarily the focus of the paper, so I'd recommend omitting it since you'd have to really defend the connection between the shift being structural and the… | open |  |
-| 47 | Gonchar | 2026-05-01 | (no anchor) | This is a duplicate Radoslav Ivančík citation. | open |  |
+| 47 | Gonchar | 2026-05-01 | (no anchor) | This is a duplicate Radoslav Ivančík citation. | resolved | duplicate Ivančík entry (former lines 916–918) and fragmented Article. block (former lines 812–814) deleted |
 | 48 | Gonchar | 2026-05-01 | (no anchor) | (And need to move to correct spot - I moved it) | open |  |
 | 49 | Gonchar | 2026-05-01 | Bruner, T. (2024). Peaceful, not Vulnerable: ESG Reporting should not weaken EU Defence In… | Was this referenced? | open |  |
 | 50 | Gonchar | 2026-05-01 | English, V. (2025). The Danish model and Ukraine's wartime defence industry. Journal of In… | Was this referenced? | open |  |

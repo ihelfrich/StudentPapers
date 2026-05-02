@@ -809,10 +809,6 @@ Andersson, J. J., & Britz, M. (2025). The European Union’s role in European de
 
 policy. Defence Studies, 25(2), 322–341.<https://doi.org/10.1080/14702436.2025.2472694>
 
-Article.([https://www.researchgate.net/publication/398034076\_Transformation\_of\_the\_European](https://www.researchgate.net/publication/398034076_Transformation_of_the_European_Union's_Security_and_Defence_Policy_After_2022)
-
-[\_Union's\_Security\_and\_Defence\_Policy\_After\_2022](https://www.researchgate.net/publication/398034076_Transformation_of_the_European_Union's_Security_and_Defence_Policy_After_2022))
-
 BliegeBird, R., & Smith, E. (2005). Signaling Theory, Strategic Interaction, and Symbolic 
 
 Capital. Current Anthropology, 46(2), 221–248. https://doi.org/10.1086/427115
@@ -912,10 +908,6 @@ early 2025 – New insights from the Kiel Institute Ukraine Support Tracker. The
 Osimen, G. U., Fulani, O., & Mogbolu, N. (2025). The evolving landscape of European security: 
 
 An assessment of NATO’s posture and deterrence strategies in response to the Russia-Ukraine war. Journal of Strategic Security, 18(4), 1–18.[ https://doi.org/10.5038/1944-0472.18.4.2589](https://doi.org/10.5038/1944-0472.18.4.2589)
-
-Ivančík, Radoslav. (2025). Transformation of the European Union's Security and Defence Policy After 2022. https://doi.org/10.52651/nmb.c.2025.9788080406882.65-72.[Ivančík](https://www.researchgate.net/profile/Radoslav-Ivancik?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19), [Radoslav Ivančík](https://www.researchgate.net/profile/Radoslav-Ivancik?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19). (2024). Transformation of the European Union's Security and Defence Policy 
-
-After 2022. ResearchGate Academic
 
 Ribera Payá, P., & Barredo González, P. (2025). Defence in the European Union: Policy 
 

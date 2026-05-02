@@ -14,7 +14,7 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 ## Tier 2 — references and citations
 
 - [ ] Add Derwall et al. (2011) and Sandler & Hartley (1995) to References (Gonchar 7, 8).
-- [ ] Remove duplicate Ivančík entry (Gonchar 47).
+- [x] Remove duplicate Ivančík entry (Gonchar 47). *Applied; see CHANGELOG 2026-05-02.*
 - [ ] Verify each: Bruner (2024), English (2025), Strüwe (2024), Suchman (1995), Walker & Willer (2014) is actually cited; drop or cite (Gonchar 49–53).
 - [ ] Add citations for "guns vs butter" (19), framing-theory origin (33, → Goffman 1974 / Entman 1993), structural-break theory (26), "band-aid policy fix" (13), defence sin-stock framing (41), "government policies… stimulated the market" (16).
 
