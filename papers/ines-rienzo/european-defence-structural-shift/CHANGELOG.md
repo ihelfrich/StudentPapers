@@ -32,7 +32,7 @@ These are queued. Each will be applied as its own commit.
 - **After:** "…the desire for autonomy are likely to drive a shift toward greater strategic independence."
 - **Rationale:** Per Gonchar (id 3), "fundamental strategic independence" was over-engineered phrasing; "fundamental" is doing no work and "strategic independence" carries the meaning on its own. Replaced with "greater strategic independence" — matches the same paragraph's earlier phrasing ("strategic autonomy and independence from external policy caprices") and avoids the doubled-up modifiers.
 - **Cohesion check:** (1) "fundamental strategic independence" — 0 occurrences remaining; fully eliminated. (2) "strategic independence" — 2 occurrences: line 202 (the edited sentence, now "greater strategic independence") and line 775 (Conclusion limitations paragraph: "strategic autonomy ambitions" — no contradiction). (3) "strategic autonomy" — 1 occurrence at line 202 (same paragraph, earlier clause: "Europe has increasingly sought strategic autonomy and independence from external policy caprices" — fully consistent with the new closing; "greater strategic independence" in the closing clause now echoes this phrasing rather than clashing with it). No contradicting passage found. No follow-up edits required.
-- **Commit:** <fill in after committing>
+- **Commit:** 8397fac
 
 ### 2026-05-01 — Future Research sentence: 2014 full scope and 2022 as escalation (Gonchar 43)
 - **Resolves:** Gonchar id 43 / referee: factual-2014-framing
