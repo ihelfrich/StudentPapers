@@ -31,7 +31,7 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 
 ## Tier 4 — wording / over-claiming
 
-- [ ] Simplify "fundamental strategic independence" (3).
+- [x] Simplify "fundamental strategic independence" (3). *Applied; see CHANGELOG 2026-05-02.*
 - [ ] "band-aid" → "short-term" (14).
 - [ ] "huge" → "considerable" (32).
 - [ ] "admitting in the process its crucial nature" → reword (20).
