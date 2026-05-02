@@ -25,7 +25,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 15 | Gonchar | 2026-05-01 | Given its nature and organisation | What about their nature and organisation gave them no choice? | open |  |
 | 16 | Gonchar | 2026-05-01 | Government policies, economic forecasts, and the way companies saw their role in adapting … | Vague/broad - need citations | open |  |
 | 17 | Gonchar | 2026-05-01 | (no anchor) | (I could be wrong on this one) | open |  |
-| 18 | Gonchar | 2026-05-01 | Detecting Structural ChangeDistinguishing temporary shocks from permanent regime changes i… | Should be moved to the "Structural Break Analysis" subsection | open |  |
+| 18 | Gonchar | 2026-05-01 | Detecting Structural ChangeDistinguishing temporary shocks from permanent regime changes i… | Should be moved to the "Structural Break Analysis" subsection | resolved | moved to 5.1 Structural Break Analysis as 3rd paragraph; heading dropped; Tier 3 Step 7/12 |
 | 19 | Gonchar | 2026-05-01 | “guns versus butter” which holds that if a government spends more on guns it will have few… | Citation? | open |  |
 | 20 | Gonchar | 2026-05-01 | admitting in the process its crucial nature | Recommend rewording | open |  |
 | 21 | Rienzo | 2026-04-26 | This thesis scrutinises management teams’ semantic narratives along with their companies’ … | to check | open |  |

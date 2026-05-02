@@ -25,6 +25,17 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Move Detecting Structural Change content into 5.1 Structural Break Analysis (Tier 3 Step 7/12, Gonchar 18)
+- **Resolves:** Gonchar id 18 / referee: tier-3-structure-step-7-of-12
+- **Section:** Move Detecting Structural Change content into 5.1 Structural Break Analysis (Tier 3 Step 7/12, Gonchar 18)
+- **Before (A):** "## **Detecting Structural Change**\n\nDistinguishing temporary shocks from permanent regime changes is, of course, necessary here…single text's specific limitations.\n\n  "
+- **After (A):** "  " (heading + paragraph deleted from Background section)
+- **Before (B):** "…should provide clear evidence of a structural break.\n\n \n\n## **5.2 Signalling Theory**"
+- **After (B):** "…should provide clear evidence of a structural break.\n\nDistinguishing temporary shocks from permanent regime changes is, of course, necessary here…single text's specific limitations.\n\n \n\n## **5.2 Signalling Theory**"
+- **Rationale:** Per Gonchar (id 18), the "Detecting Structural Change" subsection — sitting under the renamed Background section — describes the Chow test, panel-fixed-effects, and DiD methodology. It belongs under 5.1 Structural Break Analysis where the same machinery is being introduced. Moved as the third paragraph of 5.1: definitional cyclical-vs-structural opener → Chow-test history → "Distinguishing temporary shocks…" methodological detail → next subsection (5.2 Signalling Theory). The `## Detecting Structural Change` heading is dropped; the content becomes part of 5.1.
+- **Cohesion check:** (1) "Detecting Structural Change" — 1 remaining occurrence at line 91 (TOC entry `[Detecting Structural Change 14](…)`); stale TOC link, flagged for Step 11, no action here. 0 body occurrences remain. (2) "Distinguishing temporary shocks" — exactly 1 occurrence, now at line 318 inside 5.1 Structural Break Analysis (the third paragraph of 5.1), correct. (3) "5.1 Structural Break Analysis" — 1 occurrence at line 312 (the subsection heading); consistent. (4) "Wongsosaputro" — 2 occurrences: line 314 (5.1 first paragraph, correct) and line 948 (References entry); no orphans. (5) "Chow" — paragraph at line 316 (Chow test history, second paragraph of 5.1) and line 318 (Chow (1960) citation in the moved paragraph, third paragraph of 5.1); plus methodology references at lines 183, 637, 658, 660, 662, 686, 728, 736, 746, 771; and References entry at line 832 and table captions at lines 980, 1052. All consistent; no contradiction. COHESION FLAG (Step 11): TOC line 91 carries stale label "Detecting Structural Change 14" and will be rebuilt in Step 11 of this series.
+- **Commit:** TBD
+
 ### 2026-05-02 — Move 'For many years after the Cold War...' paragraph from 5.3 Framing Theory to 3.1 (Tier 3 Step 6/12, Gonchar 34)
 - **Resolves:** Gonchar id 34 / referee: tier-3-structure-step-6-of-12
 - **Section:** Move 'For many years after the Cold War...' paragraph from 5.3 Framing Theory to 3.1 (Tier 3 Step 6/12, Gonchar 34)
