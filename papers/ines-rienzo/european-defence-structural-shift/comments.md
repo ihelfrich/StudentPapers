@@ -10,7 +10,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 0 | Gonchar | 2026-05-01 | Executive Summary | General Formatting:I recommend numbering the section and subsection titles and try to avoid using subsubsections | open |  |
 | 1 | Gonchar | 2026-05-01 | February 2022 saw Russia’s invasion of Ukraine, marking the first conventional warfare bet… | A few concerns:- Russia initially invaded Ukraine in 2014.- This was not the first conventional warfare between European countries but it is the first in quite some time.- For the … | resolved | Executive Summary opener recast: 2022 framed as escalation of 2014 war; Crimea + Donbas named; temporal hedge added |
 | 2 | Gonchar | 2026-05-01 | its previous occupation of Crimea in 2014 | Russia also invaded eastern Ukraine in 2014, which actually remained as a conflict zone through the 2022 invasion | resolved | Introduction opener recast: full 2014 scope named (Crimea + Donbas); 2022 framed as escalation; "first conventional invasion" hedged to "largest conventional war" |
-| 3 | Gonchar | 2026-05-01 | fundamental strategic independence | simplify | open |  |
+| 3 | Gonchar | 2026-05-01 | fundamental strategic independence | simplify | resolved | "fundamental" removed; replaced with "greater strategic independence" |
 | 4 | Gonchar | 2026-05-01 | Mellace et al., 2025 | Not correct - their paper considered the suspension of US aid to Ukraine in early 2025. | resolved | citation dropped from Introduction line 204; Mellace correctly retained at line 246 |
 | 5 | Gonchar | 2026-05-01 | Literature Review | This currently reads as both a Literature Review and a Background, which is totally fine. I think rearranging the order of the paragraphs would help tell a clearer story.Perhaps yo… | open |  |
 | 6 | Gonchar | 2026-05-01 | Defence Companies as “Sin Stocks” | Need to communicate to the reader why they need to know about sin stocks in terms of the question/research | open |  |
@@ -21,29 +21,29 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 11 | Gonchar | 2026-05-01 | We can deduce here that if defence spending growth is stagnating and returning to a trend … | is "deduce" correct here?Make sure this does not contradict the conclusion:"The overall trend forecasts that this fundamental shift will be sustained." | resolved | "deduce" replaced with "One inference is that … may follow"; foil direction preserved; 2014 Crimea-only scope corrected to Crimea + Donbas |
 | 12 | Gonchar | 2026-05-01 | The conflict, after all, was in Europe’s backyard, and Russian aggression loomed as a clea… | Necessary to keep in? | open |  |
 | 13 | Gonchar | 2026-05-01 | the policymakers who crafted them were driven to create a fast fix and the “band-aid” natu… | What was this fast fix? Citation? | open |  |
-| 14 | Gonchar | 2026-05-01 | “band-aid” | maybe short-term? | open |  |
+| 14 | Gonchar | 2026-05-01 | “band-aid” | maybe short-term? | resolved | “band-aid”/”fast fix”/”stop the bleeding” replaced with “short-term measures” and “limited durability of these arrangements” |
 | 15 | Gonchar | 2026-05-01 | Given its nature and organisation | What about their nature and organisation gave them no choice? | open |  |
 | 16 | Gonchar | 2026-05-01 | Government policies, economic forecasts, and the way companies saw their role in adapting … | Vague/broad - need citations | open |  |
 | 17 | Gonchar | 2026-05-01 | (no anchor) | (I could be wrong on this one) | open |  |
 | 18 | Gonchar | 2026-05-01 | Detecting Structural ChangeDistinguishing temporary shocks from permanent regime changes i… | Should be moved to the "Structural Break Analysis" subsection | open |  |
 | 19 | Gonchar | 2026-05-01 | “guns versus butter” which holds that if a government spends more on guns it will have few… | Citation? | open |  |
-| 20 | Gonchar | 2026-05-01 | admitting in the process its crucial nature | Recommend rewording | open |  |
+| 20 | Gonchar | 2026-05-01 | admitting in the process its crucial nature | Recommend rewording | resolved | reworded to "capital is flowing into the industry at scale, reflecting a growing recognition of its socioeconomic importance" |
 | 21 | Rienzo | 2026-04-26 | This thesis scrutinises management teams’ semantic narratives along with their companies’ … | to check | open |  |
 | 22 | Gonchar | 2026-05-01 | This thesis scrutinises management teams’ semantic narratives along with their companies’ … | Why is doing this semantic analysis important? What additional insights/information does it give that were overlooked by existing methods?Which papers are closest to yours in terms… | open |  |
 | 23 | Gonchar | 2026-05-01 | Analytical and Theoretical Frameworks | I recommend moving the subsections around. It may flow better if you title this section "Methodology" or "Theoretical Framework" Then introduce the three theoretical frameworks whe… | open |  |
 | 24 | Gonchar | 2026-05-01 | 2025 | Did the dynamics changes end in 2025? | open |  |
-| 25 | Gonchar | 2026-05-01 | prompts a close look | rephrase - you're implementing these, not just looking | open |  |
+| 25 | Gonchar | 2026-05-01 | prompts a close look | rephrase - you're implementing these, not just looking | resolved | replaced with "the thesis applies … to analyse this evolution"; "energised the defence sector" clause dropped |
 | 26 | Gonchar | 2026-05-01 | structural break theory distinguishes the difference between a short-term bump and a perma… | Citation? | open |  |
 | 27 | Gonchar | 2026-05-01 | analysis | sentiment analysis? | open |  |
 | 28 | Gonchar | 2026-05-01 | immediately prevent or preemptively mitigate | (or something like this) | open |  |
 | 29 | Gonchar | 2026-05-01 | Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in … | This should go into a History of European Defence Spending subsection | open |  |
 | 30 | Gonchar | 2026-05-01 | necessary | why? | open |  |
-| 31 | Rienzo | 2026-04-26 | its military. To the uncritical onlooker, this might seem like a person renting a hall for… | check the joke | open |  |
-| 32 | Gonchar | 2026-05-01 | huge | large or considerable | open |  |
+| 31 | Rienzo | 2026-04-26 | its military. To the uncritical onlooker, this might seem like a person renting a hall for… | check the joke | resolved | wedding-banquet/brides/honeymoon/"Like the marriage" metaphor fully removed; all substantive claims preserved |
+| 32 | Gonchar | 2026-05-01 | huge | large or considerable | resolved | "huge" → "considerable"; also tightened "toward building" → "on" |
 | 33 | Gonchar | 2026-05-01 | Framing theory is a sociological practice that examines how the presentation of informatio… | Who started it? (Source) | open |  |
 | 34 | Gonchar | 2026-05-01 | For many years after the Cold War, the European defence industry was framed predominantly … | This should go into a History of European Defence Spending subsection | open |  |
 | 35 | Gonchar | 2026-05-01 | Data Collection | "Data" should be a separate section where you discuss what data is needed for the analysis, where you got it, and any changes you made to it (as well as any immediately relevant li… | open |  |
-| 36 | Gonchar | 2026-05-01 | this study designed its AI scans to “read” the reports | Rephrase recommended. | open |  |
+| 36 | Gonchar | 2026-05-01 | this study designed its AI scans to “read” the reports | Rephrase recommended. | resolved | reworded: “prompts in this study direct the model to interpret” replaces “designed its AI scans to 'read'”; “the AI here” eliminated |
 | 37 | Gonchar | 2026-05-01 | measures the proportion of recognised defence revenue to new defence orders. | i believe this is inverted | resolved | fixed in Q1 edit (2026-05-01); definition corrected to orders ÷ revenue |
 | 38 | Rienzo | 2026-04-26 | ntity demeaning is | check | open |  |
 | 39 | Rienzo | 2026-04-26 | reasons; | add reason | open |  |
