@@ -33,7 +33,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 23 | Gonchar | 2026-05-01 | Analytical and Theoretical Frameworks | I recommend moving the subsections around. It may flow better if you title this section "Methodology" or "Theoretical Framework" Then introduce the three theoretical frameworks whe… | open |  |
 | 24 | Gonchar | 2026-05-01 | 2025 | Did the dynamics changes end in 2025? | open |  |
 | 25 | Gonchar | 2026-05-01 | prompts a close look | rephrase - you're implementing these, not just looking | open |  |
-| 26 | Gonchar | 2026-05-01 | structural break theory distinguishes the difference between a short-term bump and a perma… | Citation? | open |  |
+| 26 | Gonchar | 2026-05-01 | structural break theory distinguishes the difference between a short-term bump and a perma… | Citation? | resolved | Chow (1960) added as parenthetical at line 308; References entry confirmed at line 826 |
 | 27 | Gonchar | 2026-05-01 | analysis | sentiment analysis? | open |  |
 | 28 | Gonchar | 2026-05-01 | immediately prevent or preemptively mitigate | (or something like this) | open |  |
 | 29 | Gonchar | 2026-05-01 | Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in … | This should go into a History of European Defence Spending subsection | open |  |
