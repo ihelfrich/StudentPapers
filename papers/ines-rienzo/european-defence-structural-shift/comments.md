@@ -42,7 +42,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 32 | Gonchar | 2026-05-01 | huge | large or considerable | open |  |
 | 33 | Gonchar | 2026-05-01 | Framing theory is a sociological practice that examines how the presentation of informatio… | Who started it? (Source) | open |  |
 | 34 | Gonchar | 2026-05-01 | For many years after the Cold War, the European defence industry was framed predominantly … | This should go into a History of European Defence Spending subsection | resolved | moved to end of 3.1 History of European Defence Spending (last paragraph before ## 3.2 header); Tier 3 Step 6/12 |
-| 35 | Gonchar | 2026-05-01 | Data Collection | "Data" should be a separate section where you discuss what data is needed for the analysis, where you got it, and any changes you made to it (as well as any immediately relevant li… | open |  |
+| 35 | Gonchar | 2026-05-01 | Data Collection | "Data" should be a separate section where you discuss what data is needed for the analysis, where you got it, and any changes you made to it (as well as any immediately relevant li… | resolved | promoted to # 6. Data; Mixed Methods → # 7; Semantic → 7.1; Financial → 7.2; Tier 3 Step 10/12 |
 | 36 | Gonchar | 2026-05-01 | this study designed its AI scans to “read” the reports | Rephrase recommended. | open |  |
 | 37 | Gonchar | 2026-05-01 | measures the proportion of recognised defence revenue to new defence orders. | i believe this is inverted | resolved | fixed in Q1 edit (2026-05-01); definition corrected to orders ÷ revenue |
 | 38 | Rienzo | 2026-04-26 | ntity demeaning is | check | open |  |

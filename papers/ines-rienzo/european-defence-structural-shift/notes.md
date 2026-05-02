@@ -25,7 +25,7 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 - [ ] Then a real **Literature Review** that positions question + method against prior work.
 - [x] Move "Detecting Structural Change" into the *Structural Break Analysis* subsection (Gonchar 18). *Applied; Tier 3 Step 7/12; heading dropped, paragraph inserted as 3rd para of 5.1; see CHANGELOG 2026-05-02.*
 - [x] Move two history paragraphs into *History of European Defence Spending* (Gonchar 29, 34). *Gonchar 29 applied: "Prior to 2022, European defence companies…" moved to end of 3.1 (Tier 3 Step 5/12). Gonchar 34 applied: "For many years after the Cold War…" moved to end of 3.1 (Tier 3 Step 6/12).*
-- [ ] Promote **Data Collection** to its own *Data* section between Theory and Empirical (Gonchar 35).
+- [x] Promote **Data Collection** to its own *Data* section between Theory and Empirical (Gonchar 35). *Applied; Tier 3 Step 10/12; ## Data Collection → # 6. Data; # Mixed Methods → # 7. Mixed Methods; ## Semantic Analysis → ## 7.1 Semantic Analysis; ## Financial Analysis → ## 7.2 Financial Analysis; see CHANGELOG 2026-05-02.*
 - [x] Rename "Analytical and Theoretical Frameworks" → **Theoretical Framework** or **Methodology** (Gonchar 23). *Step 9/12 applied (heading renames only, commit 744d0ed); Gonchar 23 remains open until Phase A/B/C structural bundle is complete.*
 - [ ] Expand **Conclusion** per Gonchar 44: restate question → semantic evidence → financial evidence → limits → hedged statement.
 

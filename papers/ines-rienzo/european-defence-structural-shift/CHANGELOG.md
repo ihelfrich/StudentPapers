@@ -25,6 +25,17 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Promote Data Collection to top-level Section 6; renumber Mixed Methods + Semantic + Financial (Tier 3 Step 10/12, Gonchar 35)
+- **Resolves:** Gonchar id 35 / referee: tier-3-structure-step-10-of-12
+- **Section:** Promote Data Collection to top-level Section 6; renumber Mixed Methods + Semantic + Financial (Tier 3 Step 10/12, Gonchar 35)
+- **Before (A):** "# **Mixed Methods**\n\n  \n\n## **Data Collection**\n\nThe primary data source…\n\n## **Semantic Analysis**"
+- **After (A):** "# **6. Data**\n\nThe primary data source…\n\n# **7. Mixed Methods**\n\n## **7.1 Semantic Analysis**"
+- **Before (B):** "## **Financial Analysis**"
+- **After (B):** "## **7.2 Financial Analysis**"
+- **Rationale:** Per Gonchar (id 35), Data should be its own top-level section between Theoretical Framework (now Section 5) and Mixed Methods. Promoted `## Data Collection` to `# 6. Data` and dropped the "Collection" suffix; the two existing Data-Collection paragraphs become the body of Section 6 unchanged. Mixed Methods becomes Section 7 with two sub-numbered children: 7.1 Semantic Analysis and 7.2 Financial Analysis. The `# Mixed Methods` header was relocated from above Data to just before Semantic Analysis so the structure now reads: Theoretical Framework → Data → Mixed Methods (Semantic / Financial).
+- **Cohesion check:** Swept "Mixed Methods", "Data Collection", "Semantic Analysis", "Financial Analysis". Body occurrences after edit: "# **7. Mixed Methods**" at line 344 (correct, unique); "## **7.1 Semantic Analysis**" at line 346 (correct, unique); "## **7.2 Financial Analysis**" at line 616 (correct, unique); "# **6. Data**" at line 338 (correct, unique). Remaining "Data Collection" (line 107), "Mixed Methods" (line 105), "Semantic Analysis" (line 109), "Financial Analysis" (line 131) are all TOC entries — stale links expected and flagged for Step 11 (TOC rebuild). No body passage contradicts the new structure.
+- **Commit:** TBD
+
 ### 2026-05-02 — Move Detecting Structural Change content into 5.1 Structural Break Analysis (Tier 3 Step 7/12, Gonchar 18)
 - **Resolves:** Gonchar id 18 / referee: tier-3-structure-step-7-of-12
 - **Section:** Move Detecting Structural Change content into 5.1 Structural Break Analysis (Tier 3 Step 7/12, Gonchar 18)

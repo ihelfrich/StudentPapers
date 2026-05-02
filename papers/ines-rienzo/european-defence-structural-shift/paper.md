@@ -335,17 +335,15 @@ The abrupt and emphatic change in popular, governmental, and financial worlds fo
 
   
 
-# **Mixed Methods**
-
-  
-
-## **Data Collection**
+# **6. Data**
 
 The primary data source consists of annual reports and earnings presentation materials published by ten European defence companies over the period 2018–2025. These are Airbus, Thales, Leonardo, Dassault Aviation, Indra, Rolls-Royce Holdings, BAE Systems, Rheinmetall, Safran, and Saab. For each company, eight reports were collected, four from the pre-invasion period (2018, 2019, 2020, and 2021) and four from the post-invasion period (2022, 2023, 2024, and either 2025 full-year results or the most recent available report). In total, 79 reports were included in the semantic analysis, as Indra’s 2025 report was too short to be meaningfully incorporated. However, this report was retained and used in the financial analysis. Rheinmetall had only published results for the first three quarters of 2025 at the time of writing. To avoid mixing partial-year data with full-year figures from other companies, Rheinmetall’s 2025 data was excluded. All other companies have complete data for every year from 2018 to 2025.  
 
  The reports from which the analyses were derived were published on the companies’ own websites, and while the reports differed in length, they essentially contain similar information. Some were fully narrative, and others provided graphic support. The code constructed for this study instructed the AI to focus on the first and final parts as well as sections in which management most clearly articulates its intent, including CEO letters, strategic overviews, outlook statements, and summaries of financial discussions. The same reports were used to drive the quantitative analysis, and a corpus was made using the relevant metrics for each company.
 
-## **Semantic Analysis**
+# **7. Mixed Methods**
+
+## **7.1 Semantic Analysis**
 
 ### ***Methodology***
 
@@ -615,7 +613,7 @@ Four limitations should be acknowledged. First, as noted above, the parallel tre
 
   
 
-## **Financial Analysis**
+## **7.2 Financial Analysis**
 
 ### ***Methodology***
 
