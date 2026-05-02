@@ -909,6 +909,8 @@ Sacchi, S., Buzzelli, G., & de la Porte, C. (2026). ‘Guns versus butter’ in 
 
 politicization of the warfare-welfare trade-off. Journal of European Public Policy, 33(4), 1199–1225. https://doi.org/10.1080/13501763.2025.2534663
 
+Sandler, T., & Hartley, K. (1995). *The Economics of Defense*. Cambridge University Press.
+
 Shevchuk, V., & Luchka, O. (2024). The relationship between ESG ratings and corporate 
 
 decisions during the Russian-Ukrainian war. Visnyk of the Lviv University. Series Economics, (66).[ ](https://www.google.com/search?q=https://doi.org/10.30970/ves.2024.66.0.6614)<https://doi.org/10.30970/ves.2024.66.0.6614>

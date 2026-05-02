@@ -15,7 +15,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 5 | Gonchar | 2026-05-01 | Literature Review | This currently reads as both a Literature Review and a Background, which is totally fine. I think rearranging the order of the paragraphs would help tell a clearer story.Perhaps yo… | open |  |
 | 6 | Gonchar | 2026-05-01 | Defence Companies as “Sin Stocks” | Need to communicate to the reader why they need to know about sin stocks in terms of the question/research | open |  |
 | 7 | Gonchar | 2026-05-01 | (Derwall et al., 2011) | Missing in References | open |  |
-| 8 | Gonchar | 2026-05-01 | Sandler and Hartley (1995) | Missing in References | open |  |
+| 8 | Gonchar | 2026-05-01 | Sandler and Hartley (1995) | Missing in References | resolved | entry added to References (alphabetically between Sacchi and Shevchuk); web-verified citation |
 | 9 | Gonchar | 2026-05-01 | , a research body that provides data and reports on armed conflicts, | not sure this is necessary to include? | open |  |
 | 10 | Gonchar | 2026-05-01 | below illustrates the annual percentage change in European Union defence spending from 200… | Would be helpful to add a sentence here explaining what the reader should take away from the information presented in the graph | open |  |
 | 11 | Gonchar | 2026-05-01 | We can deduce here that if defence spending growth is stagnating and returning to a trend … | is "deduce" correct here?Make sure this does not contradict the conclusion:"The overall trend forecasts that this fundamental shift will be sustained." | resolved | "deduce" replaced with "One inference is that … may follow"; foil direction preserved; 2014 Crimea-only scope corrected to Crimea + Donbas |
