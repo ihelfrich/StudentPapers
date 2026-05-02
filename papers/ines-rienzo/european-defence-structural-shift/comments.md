@@ -36,7 +36,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 26 | Gonchar | 2026-05-01 | structural break theory distinguishes the difference between a short-term bump and a perma… | Citation? | open |  |
 | 27 | Gonchar | 2026-05-01 | analysis | sentiment analysis? | open |  |
 | 28 | Gonchar | 2026-05-01 | immediately prevent or preemptively mitigate | (or something like this) | open |  |
-| 29 | Gonchar | 2026-05-01 | Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in … | This should go into a History of European Defence Spending subsection | open |  |
+| 29 | Gonchar | 2026-05-01 | Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in … | This should go into a History of European Defence Spending subsection | resolved | moved to end of 3.1 History of European Defence Spending (last paragraph before ## 3.2 header); Tier 3 Step 5/12 |
 | 30 | Gonchar | 2026-05-01 | necessary | why? | open |  |
 | 31 | Rienzo | 2026-04-26 | its military. To the uncritical onlooker, this might seem like a person renting a hall for… | check the joke | open |  |
 | 32 | Gonchar | 2026-05-01 | huge | large or considerable | open |  |

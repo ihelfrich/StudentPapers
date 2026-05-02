@@ -25,6 +25,17 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Move 'Prior to 2022...' paragraph from Signalling Theory to end of 3.1 (Tier 3 Step 5/12, Gonchar 29)
+- **Resolves:** Gonchar id 29 / referee: tier-3-structure-step-5-of-12
+- **Section:** Move 'Prior to 2022...' paragraph from Signalling Theory to end of 3.1 (Tier 3 Step 5/12, Gonchar 29)
+- **Before (A):** "Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in demand…(Ribera Payá & Barredo González, 2025). \n\nGermany's *Zeitenwende*…"
+- **After (A):** "Germany's *Zeitenwende*…" (paragraph deleted from 5.2 Signalling Theory)
+- **Before (B):** "One inference is that if defence spending growth stagnated…then a similar reversion may follow the 2022 escalation.\n\n  \n\n## **3.2 Russia's Invasion of Ukraine**"
+- **After (B):** "One inference is that…escalation.\n\n  \n\nPrior to 2022, European defence companies had no reason…(Ribera Payá & Barredo González, 2025).\n\n  \n\n## **3.2 Russia's Invasion of Ukraine**"
+- **Rationale:** Per Gonchar (id 29), the "Prior to 2022, European defence companies had no reason..." paragraph belongs in the History of European Defence Spending subsection — it discusses pre-invasion incentive structure for defence companies, which is historical background, not signalling theory. The paragraph is a natural transition between 3.1's pre-2022 history and 3.2's post-2022 escalation, so it is placed as the last paragraph of 3.1 (immediately before the 3.2 header). Removed from Signalling Theory; the Zeitenwende paragraph now becomes the immediate next paragraph after the Spence opener in 5.2.
+- **Cohesion check:** (1) "Prior to 2022, European defence companies had no reason" — exactly 1 occurrence at line 242, immediately before ## 3.2 header (correct). (2) "Ribera Payá" — 2 occurrences: line 242 (moved paragraph) + line 918 (References entry); no body orphans elsewhere. (3) "Spence (1973)" — 1 occurrence at line 322 (Signalling Theory opener); no conflict. (4) "Zeitenwende" — 3 occurrences: line 324 (5.2 Signalling Theory, now the immediate next paragraph after the Spence opener), lines 890 and 954 (References). COHESION FLAG (Tier 4 follow-up): In 5.2 Signalling Theory, the Spence-on-signalling opener (line 322) now leads directly into the Zeitenwende illustration (line 324) without the bridging "Prior to 2022..." transition paragraph. The abrupt jump may want a bridge sentence. Do NOT add here — flag for a Tier 4 pass.
+- **Commit:** TBD
+
 ### 2026-05-02 — Evidence of Structural Shift renamed to 3.2 Russia's Invasion of Ukraine; An Improvised Solution relocated into 3.2 (Tier 3 Step 4/12)
 - **Resolves:** Gonchar id (none — multi-step; id 5 will be closed at end of Phase B/C) / referee: tier-3-structure-step-4-of-12
 - **Section:** Evidence of Structural Shift renamed to 3.2 Russia's Invasion of Ukraine; An Improvised Solution relocated into 3.2 (Tier 3 Step 4/12)
