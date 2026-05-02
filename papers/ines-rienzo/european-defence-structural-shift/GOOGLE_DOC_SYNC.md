@@ -128,6 +128,92 @@ Suggested reply tone is brief and concrete — Gonchar will see the diff in trac
 - **One internal cohesion edit** (item 5 above) has no Gonchar comment to resolve.
 - **All other Gonchar comments remain open** — see `comments.md` for the full status, and `notes.md` for the prioritised punch list of what's queued next.
 
+---
+
+# Tier 4 — wording / over-claiming (6 more edits)
+
+These shipped on branch `tier-4-wording`. Same workflow: search, replace, reply, resolve.
+
+## 11. "Fundamental strategic independence" (Gonchar 3) — commit `8397fac`
+
+**Find:** *"drive a shift toward fundamental strategic independence"* (closing of the Introduction autonomy paragraph)
+
+**Replace:**
+> drive a shift toward greater strategic independence.
+
+**Reply to Gonchar 3:** "Simplified — 'fundamental' was carrying no weight; the surrounding paragraph already establishes 'strategic autonomy and independence', so 'greater strategic independence' echoes cleanly."
+
+---
+
+## 12. "Band-aid" register (Gonchar 14) — commit `90fc1b7`
+
+**Find:** *"a fast fix -to stop the bleeding, as it were-and the "band-aid" nature"* (closing of the line-246 cyclical-evidence paragraph)
+
+**Replace the entire closing clause with:**
+> short-term measures, and the limited durability of these arrangements implied that a more sustainable, coherent continental level of defence security needed to be developed.
+
+**Reply to Gonchar 14:** "Fixed — replaced 'band-aid' / 'stop the bleeding' colloquialism with neutral academic register ('short-term measures', 'limited durability')."
+
+*Heads-up:* Gonchar's id 13 ("What was this fast fix? Citation?") is still open — the colloquialism is gone but no citation has been added for the limited-durability characterisation. Tier 2 will pick that up.
+
+---
+
+## 13. "Admitting in the process its crucial nature" (Gonchar 20) — commit `72170dc`
+
+**Find:** *"admitting in the process its crucial nature from a socioeconomic lens"* (in the Literature Contradictions paragraph at line 294)
+
+**Replace the sentence with:**
+> As the old perceptions regarding spending on weaponry begin to shift, capital is flowing into the industry at scale, reflecting a growing recognition of its socioeconomic importance (Shevchuk & Luchka, 2024).
+
+**Reply to Gonchar 20:** "Reworded — replaced the awkward 'admitting … its crucial nature from a socioeconomic lens' with the more direct 'reflecting a growing recognition of its socioeconomic importance'."
+
+---
+
+## 14. "Prompts a close look" (Gonchar 25) — commit `eb26ead`
+
+**Find:** *"This evolution has energised the defence sector and prompts a close look at three key theoretical frameworks"* (closing sentence of the Theoretical Framework opener at line 306)
+
+**Replace the sentence with:**
+> To analyse this evolution, the thesis applies three key theoretical frameworks: structural break theory, signalling theory, and framing theory.
+
+**Reply to Gonchar 25:** "Made the agency explicit — the thesis applies these frameworks rather than just looks at them. Also dropped the 'energised' rhetorical clause."
+
+---
+
+## 15. Wedding-banquet metaphor + "huge" (Gonchar 31, 32) — commit `36b6f65`
+
+**Find:** *"this might seem like a person renting a hall for his wedding banquet"* (in the Zeitenwende paragraph at line 326)
+
+**Replace the entire paragraph with:**
+> Germany's *Zeitenwende* ("watershed moment") was established in February of 2022 and earmarked 100 billion euros to be disbursed in binding, long-term contracts just for its military. *Zeitenwende 2.0* (500 billion euros over the next 12 years) extends this commitment substantially further (KRPATA, 2025). Defence contractors received the signal clearly: the German commitment to a more robust defence stimulated a considerable increase in corporate spending on new facilities, factories, and production lines (Zandee et al., 2024). This illustration of signalling theory then piggybacks into other spheres as well — defence companies send their own signals to financial markets, which can then plan for expansion in banking, loans, and broader financial activity.
+
+**Reply to Gonchar 31:** "Cut — the wedding banquet / brides / honeymoon / 'Like the marriage' metaphor was too informal for journal submission. All substantive claims (€100B 2022 commitment, €500B Zeitenwende 2.0, contractor response, signalling-theory framing, KRPATA and Zandee citations) preserved verbatim."
+
+**Reply to Gonchar 32:** "'huge' → 'considerable' as suggested."
+
+---
+
+## 16. AI-scans-to-"read" rephrase (Gonchar 36) — commit `9208614`
+
+**Find:** *"this study designed its AI scans to "read" the reports"* (Semantic Analysis methodology opener at line 354)
+
+**Replace the entire opening cluster with:**
+> Semantic analysis should aim to identify *meaning* rather than count words. While AI tools can readily measure word frequency, the prompts in this study direct the model to interpret each report from the perspective of a financial analyst specialising in defence-sector nomenclature and reporting conventions. The model is then asked to assess tone, framing, and commitment levels as reflected in word choices and the identifiable language of strategic stance.
+
+**Reply to Gonchar 36:** "Rephrased — replaced 'designed its AI scans to "read"' (anthropomorphic, vague) with 'the prompts in this study direct the model to interpret', which names the actual mechanism (prompt engineering) and drops the scare quotes."
+
+---
+
+## After Tier 4: 14 of 51 Gonchar comments resolved
+
+Tier 1 (8) + Tier 4 (6) = **14 comment threads** can now be closed: 1, 2, 3, 4, 11, 14, 20, 25, 31, 32, 36, 37, 40, 42, 43, 45.
+
+Still open (37): the references-and-citations cluster (Tier 2), the structural-rewrite cluster (Tier 3 — handled by `RESTRUCTURE_PLAN.md`), and methodological / journal-style work (Tiers 5–6).
+
+Two cohesion follow-ups flagged but not yet edited:
+- **Line 348** — "instructed the AI to focus" — mild personification; candidate for tightening as part of Tier 5 LLM-rigor pass.
+- **Line 364** — "the AI model provided a structured assessment" — same flavour; same plan.
+
 ## What's NOT in this checklist (still to be done)
 
-Tier 2 references, Tier 3 structural rewrite (12 steps in `RESTRUCTURE_PLAN.md`), Tier 4 wording fixes, Tier 5 referee-grade methodology work, Tier 6 journal-style cleanup. These will produce their own sync sheets when each batch lands.
+Tier 2 references, Tier 3 structural rewrite (12 steps in `RESTRUCTURE_PLAN.md`), Tier 5 referee-grade methodology work, Tier 6 journal-style cleanup. These will produce their own sync sheets when each batch lands.
