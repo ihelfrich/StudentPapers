@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Theoretical Framework section + 5.1/5.2/5.3 subsections renamed (Tier 3 Step 9/12)
+- **Resolves:** Gonchar id (none — Gonchar 23 remains open; will be closed at end of Phase A/B/C bundle) / referee: tier-3-structure-step-9-of-12
+- **Section:** Theoretical Framework section + 5.1/5.2/5.3 subsections renamed (Tier 3 Step 9/12)
+- **Before:** "# **Analytical and Theoretical Frameworks**" / "## **Structural Break Analysis**" / "## **Signalling Theory** " / "## **Framing Theory**"
+- **After:** "# **5. Theoretical Framework**" / "## **5.1 Structural Break Analysis**" / "## **5.2 Signalling Theory**" / "## **5.3 Framing Theory**"
+- **Rationale:** Per Gonchar (id 23) and RESTRUCTURE_PLAN.md, the section titled "Analytical and Theoretical Frameworks" is renamed to the cleaner "Theoretical Framework" and its three subsections get hierarchical numerals (5.1, 5.2, 5.3). The opener paragraphs at lines 306–308 already preview each theory and tie it to its analytical role, so no prose changes are needed — only the heading renames. This is one of the two backbone-rename steps in Phase A of the Tier 3 series and unblocks subsequent paragraph-move steps.
+- **Cohesion check:** (1) "Analytical and Theoretical Frameworks" — 1 remaining occurrence at line 97 (TOC entry `[**Analytical and Theoretical Frameworks** **16**](…)`); this is a stale TOC link to be rebuilt in Step 11. No body occurrence remains. (2) "Theoretical Framework" — 4 occurrences: line 97 (TOC, stale — see above), line 143 (TOC entry for "Contextualisation of Mixed-Methods vis-a-vis the Theoretical Framework and Results" — unrelated section, no conflict), line 304 (the renamed heading itself, correct), line 725 (section heading "Contextualisation of Mixed-Methods vis-a-vis the Theoretical Framework and Results" — a separate later section, no conflict). (3) "Structural Break Analysis" — 2 occurrences: line 99 (TOC entry `[Structural Break Analysis 16](…)` — stale, lacks numeral; flag for Step 11) and line 312 (renamed heading `## **5.1 Structural Break Analysis**`, correct). (4) "Signalling Theory" — 2 occurrences: line 320 (renamed heading `## **5.2 Signalling Theory**`, correct) and line 816 (References entry "BliegeBird… Signaling Theory…" — one-L American spelling in a reference title, no conflict). TOC line 101 uses "Signaling Theory" (one-L, old spelling, lacks numeral) — stale; flag for Step 11. (5) "Framing Theory" — 2 occurrences: line 103 (TOC entry `[Framing Theory 18](…)` — stale, lacks numeral; flag for Step 11) and line 330 (renamed heading `## **5.3 Framing Theory**`, correct). COHESION FLAGS FOR STEP 11: TOC lines 97, 99, 101, 103 all carry stale labels and will be rebuilt in Step 11 of this series.
+- **Commit:** TBD
+
 ### 2026-05-02 — Top-level heading rename: # Literature Review → # 3. Background (Tier 3 Step 1/12)
 - **Resolves:** Gonchar id (none — multi-step; id 5 will be closed at end of Phase B/C) / referee: tier-3-structure-step-1-of-12
 - **Section:** Top-level heading rename: # Literature Review → # 3. Background (Tier 3 Step 1/12)

@@ -301,7 +301,7 @@ At the same time, the business side of defence has entirelycompletely changed. A
 
   
 
-# **Analytical and Theoretical Frameworks**
+# **5. Theoretical Framework**
 
 In order to determine whether Russia’s invasion of Ukraine did indeed force a structural shift or a cyclical one, a strong theoretical model must be applied. From 2018-2025, the dynamics in Europe and among defence companies changed. Now, a complex environment of ethical questions, changing budgets, and shifting global political priorities has emerged. This evolution has energised the defence sector and prompts a close look at three key theoretical frameworks: structural break theory, signalling theory, and framing theory.
 
@@ -309,7 +309,7 @@ As applied to the original research question, structural break theory distinguis
 
   
 
-## **Structural Break Analysis**
+## **5.1 Structural Break Analysis**
 
 In determining whether the current state of the defence sector in Europe resulted from a cyclical shift or a structural break, one must elaborate on each. Cyclical shifts occur fairly often in many sectors as they are a  responsed to unexpected but clearly temporary influences–labor strikes, earthquakes, floods, etc. These are unavoidable shocks such as, for example, labour strikes, earthquakes, or floods, that and nations cannot immediately prevent or preemptively mitigatenegotiate or write policy to avert them. The return to normalcy is implied, even though a decisive response to the crisis may create significant economic shifts. A structural break, by contrast, indicates that the basic rules and long-term trends have permanently changed (Wongsosaputro et al., 2011). No anticipation of a return to the *status quo* is implied by a structural break, and a “new normal” emerges as a result of the break.
 
@@ -317,7 +317,7 @@ The Chow test, originally designed by Gregory Chow in 1960, allowed economists t
 
  
 
-## **Signalling Theory** 
+## **5.2 Signalling Theory**
 
 Michael Spence (1973) articulated the principles of signalling theory in 1973, which is based on understanding that people will discreetly share information that is hidden or that cannot be publicly disclosed. Politicians and business leaders are privy to such information, which might involve commitments to long-term plans or a large shift in investment or policy priorities, but because these visions or plans cannot be fully disclosed or articulated, the leaders must send “signals” to establish credibility and prove their “seriousness” to the market (BliegeBird et al., 2005). A key rule here is that a signal must be “costly” to be believable. If a promise is cheap or easy to make, anyone can do it, so no one will trust it. Economists often look at what a group gives up (opportunity costs) to test that their signal of integrity or trustworthiness  is received (Hover et al., 2025). For example, the book-to-bill ratio reveals how many new orders the companies are receiving relative to revenue recognised in the same period — a tangible signal to the market of a real shift in demand, not only political but, perhaps more importantly, monetary. If the ratio is greater than 1, this indicates that the corporation is growing, and if less than 1, then it is shrinking.
 
@@ -327,7 +327,7 @@ Germany’s *Zeitenwende* (“watershed moment”) was established in February o
 
   
 
-## **Framing Theory**
+## **5.3 Framing Theory**
 
 Framing theory is a sociological practice that examines how the presentation of information (sometimes called messaging) influences public perception and drives ensuing opinions and behaviours. Framing does not fabricate facts but rather emphasises unique aspects of a complex scenario in order to elicit reactions from people, institutions, and even investors (Entman, 1993). An example of this might be when a doctor, articulating the risk of surgery, says the procedure has an 85% success rate. This frame is clearly more attractive and likely to motivate patients toward surgery than saying that the procedure has a 15% mortality rate. The facts are the same, but the frame is quite different. When we apply this similar logic to the European defence industry, framing theory provides a clear explanation of how the sector's public and financial position has changed. 
 
