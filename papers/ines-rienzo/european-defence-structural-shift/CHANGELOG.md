@@ -32,7 +32,7 @@ These are queued. Each will be applied as its own commit.
 - **After:** "Framing theory is a sociological practice … influences public perception and drives ensuing opinions and behaviours (Entman, 1993). Framing does not fabricate facts … elicit reactions from people, institutions, and even investors."
 - **Rationale:** Per Gonchar (id 33), the definitional sentence opening the framing-theory paragraph needed a source citation. The existing Entman (1993) citation was on the second sentence; moved to the end of the first sentence so the source is established with the definition. Removed from the second sentence to avoid duplication, since the same source now governs the entire paragraph. No new bibliography entry needed — Entman (1993) is already in References at line 836.
 - **Cohesion check:** (1) "Entman" — exactly 2 occurrences post-edit: line 332 (moved citation in new position on definitional sentence) and line 836 (References entry). No third occurrence; no orphaned citation. (2) "Framing theory is a" — 1 occurrence at line 332 (the edited sentence, now correctly cited). (3) "Framing does not fabricate facts" — 1 occurrence at line 332 (second sentence, citation removed). No other in-text claim about framing theory's origins is left without a citation. No cohesion flags raised. No follow-up edits required.
-- **Commit:** <fill in after committing>
+- **Commit:** e0122d8
 
 ### 2026-05-02 — Guns-vs-butter definition cited; existing Sacchi year corrected (Gonchar 19)
 - **Resolves:** Gonchar id 19 / referee: bibliography-completeness
