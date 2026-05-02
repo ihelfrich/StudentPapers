@@ -271,19 +271,21 @@ Recent macroeconomic analyses reflect that the transition to a “war economy”
 
   
 
+# **4. Literature Review**
+
 *Microeconomic Transition*
 
 This conflict has resulted in a new transition in which the top defence contractors are reinvigorated,  quickly growing their presence and signaling that demand for their land warfare materials will be maintained for the next decade to come, which will require more capacity increases (Freedman, 2023).
 
 Another subset of contractors, such as Rheinmetall and Saab, are reverting to a different strategy. Previous conflicts resulted in cyclical anomalies akin to temporary “government handouts.” Under the new paradigm, these and other companies are changing their core operations to focus on “dual-use” technologies to fulfill long-term demand (EhrnborgBörjeson Kennedy et al., 2025). In Ukraine, the battlefield brought about new truths regarding the kind of fighting technologies that are most critical. For example, drones and cyber warfare have influenced contractors to place heavy, permanent investments into new jamming technology (Osimen et al., 2025).
 
-## **Textual Analysis of Corporate Disclosures**
+## **4.1 Textual Analysis of Corporate Disclosures**
 
 In past research, the texts of corporate reports and disclosures have been traditionally analysed, and finance-specific word lists were applied in this dictionary-based method. Loughran and McDonald (2011) crafted these word inventories (2011) and showed that when applied to financial language, domain-adapted lexicons outperform general sentiment dictionaries. For example, the word “investment” may signal either a generational capital commitment or cautious discipline toward costs, but because dictionary methods measure word frequency and cannot capture intent or context, their value owes more to transparency than to precision in capturing a text’s overall message or intent. Nevertheless, the dictionary method is still widely used. More recently, large language models (LLMs) have been applied, as these provide for a more holistic framing while still creating structured outputs compatible with statistical analysis. LLM-based methods have met with concerns regarding replicability and inter-rater reliability, but these are typically addressed by using cross-model validation and agreement statistics such as Cohen’s Kappa (Landis & Koch, 1977). An LLM-based approach, therefore, suits this thesis, as the research question centeres on narrative intent rather than word frequency, and the LLM scoring is validated by independent replication via two models, Claude API key (Anthropic, claude-opus-4-5-model) and Gemini 2.5 API key. 
 
   
 
-## **Literature Contradictions**
+## **4.2 Literature Contradictions**
 
 While many researchers point to a permanent shift in the defence sector, there are still certain caveats accompanyingoverhanging the conclusions. First, researchers point out a major contradiction which is that the EU wants to be independent;, however, it is still heavily reliant on the United States from a military defence perspective. As European forces hurried to provide critical support to Ukraine, they purchased the vast majority of their new equipment from US companies (Howorth, 2025). If European countries keep shifting funds away from their own defence production, they risk becoming more dependent on the US, which creates a structural barrier to true EU defence integration.
 
@@ -295,7 +297,7 @@ At the same time, the business side of defence has entirelycompletely changed. A
 
   
 
-## **Current Literature Gaps and Our Contributions**
+## **4.3 Current Literature Gaps and Our Contributions**
 
  An abundance of literature exists about the conflict's effects on European nations and the reactionary strategies that followed, but as yet no comprehensive analysis jointly examines the communications and financial data of the defence contractors themselves. This thesis scrutinises management teams’ semantic narratives in conjunction along with their companies’ key financial metrics in order to broaden understanding of shifts in European industry goals. 
 

@@ -12,7 +12,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 2 | Gonchar | 2026-05-01 | its previous occupation of Crimea in 2014 | Russia also invaded eastern Ukraine in 2014, which actually remained as a conflict zone through the 2022 invasion | resolved | Introduction opener recast: full 2014 scope named (Crimea + Donbas); 2022 framed as escalation; "first conventional invasion" hedged to "largest conventional war" |
 | 3 | Gonchar | 2026-05-01 | fundamental strategic independence | simplify | open |  |
 | 4 | Gonchar | 2026-05-01 | Mellace et al., 2025 | Not correct - their paper considered the suspension of US aid to Ukraine in early 2025. | resolved | citation dropped from Introduction line 204; Mellace correctly retained at line 246 |
-| 5 | Gonchar | 2026-05-01 | Literature Review | This currently reads as both a Literature Review and a Background, which is totally fine. I think rearranging the order of the paragraphs would help tell a clearer story.Perhaps yo… | open |  |
+| 5 | Gonchar | 2026-05-01 | Literature Review | This currently reads as both a Literature Review and a Background, which is totally fine. I think rearranging the order of the paragraphs would help tell a clearer story.Perhaps yo… | resolved | Tier 3 Steps 1–8 complete: old § renamed → # 3. Background (3.1/3.2); # 4. Literature Review inserted with 4.1/4.2/4.3 |
 | 6 | Gonchar | 2026-05-01 | Defence Companies as “Sin Stocks” | Need to communicate to the reader why they need to know about sin stocks in terms of the question/research | open |  |
 | 7 | Gonchar | 2026-05-01 | (Derwall et al., 2011) | Missing in References | open |  |
 | 8 | Gonchar | 2026-05-01 | Sandler and Hartley (1995) | Missing in References | open |  |

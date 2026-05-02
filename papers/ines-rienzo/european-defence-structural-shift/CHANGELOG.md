@@ -25,6 +25,17 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Insert # 4. Literature Review heading + renumber 4.1/4.2/4.3 (Tier 3 Step 8/12, Gonchar 5)
+- **Resolves:** Gonchar id 5 / referee: tier-3-structure-step-8-of-12
+- **Section:** Insert # 4. Literature Review heading + renumber 4.1/4.2/4.3 (Tier 3 Step 8/12, Gonchar 5)
+- **Before (A):** "…have an even larger share of a nation's total general productivity (Furceri et al., 2026).\n\n  \n\n*Microeconomic Transition*"
+- **After (A):** "…(Furceri et al., 2026).\n\n  \n\n# **4. Literature Review**\n\n*Microeconomic Transition*"
+- **Before (B/C/D):** "## **Textual Analysis of Corporate Disclosures**" / "## **Literature Contradictions**" / "## **Current Literature Gaps and Our Contributions**"
+- **After (B/C/D):** "## **4.1 Textual Analysis of Corporate Disclosures**" / "## **4.2 Literature Contradictions**" / "## **4.3 Current Literature Gaps and Our Contributions**"
+- **Rationale:** Per Gonchar (id 5) and RESTRUCTURE_PLAN.md Step 8, a new top-level Section 4 Literature Review is inserted between Section 3 (Background) and Section 5 (Theoretical Framework). The Microeconomic Transition paragraph cluster (existing literature-review-style content about firm-level adaptation) becomes the de facto opener of Section 4. The three existing `##` subsections are renumbered as 4.1 / 4.2 / 4.3. NO new prose has been added; form-only edits at this stage.
+- **Cohesion check:** Swept "4. Literature Review" — 1 body occurrence at line 274 (correct, unique); 0 pre-existing body occurrences (Step 1 renamed old heading to "3. Background"). Swept "Microeconomic Transition" — 1 occurrence at line 276 (italic lead immediately under § 4, correct). Swept "4.1 Textual Analysis of Corporate Disclosures" — 1 at line 282 (correct). Swept "4.2 Literature Contradictions" — 1 at line 288 (correct). Swept "4.3 Current Literature Gaps and Our Contributions" — 1 at line 300 (correct). Swept "Literature Review" (bare) — 2 occurrences: line 81 (TOC entry `[**Literature Review** **10**](…)` — stale link, Step 11 will fix) and line 274 (new heading). COHESION FLAG (Step 11): TOC line 81 still carries the stale label "Literature Review 10" pointing to the old heading that is now "# 3. Background"; this will be rebuilt in Step 11. No body passage contradicts the new structure. Flow reads: § 3 Background (3.1 / 3.2) → § 4 Literature Review (Microeconomic Transition opener + 4.1 / 4.2 / 4.3) → § 5 Theoretical Framework.
+- **Commit:** TBD
+
 ### 2026-05-02 — Promote Data Collection to top-level Section 6; renumber Mixed Methods + Semantic + Financial (Tier 3 Step 10/12, Gonchar 35)
 - **Resolves:** Gonchar id 35 / referee: tier-3-structure-step-10-of-12
 - **Section:** Promote Data Collection to top-level Section 6; renumber Mixed Methods + Semantic + Financial (Tier 3 Step 10/12, Gonchar 35)
