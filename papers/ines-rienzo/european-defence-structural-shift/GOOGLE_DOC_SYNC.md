@@ -16,7 +16,7 @@ Suggested reply tone is brief and concrete — Gonchar will see the diff in trac
 **Find:** *"February of 2022 saw Russia's invasion of Ukraine, marking the first conventional warfare between European countries"*
 
 **Replace with:**
-> February of 2022 saw Russia's full-scale invasion of Ukraine — a major escalation of the war Russia had launched in 2014 with the seizure of Crimea and the incursion into the Donbas — and the first large-scale interstate conventional war in Europe in decades.
+> February of 2022 saw Russia's full-scale invasion of Ukraine, a major escalation of the war Russia had launched in 2014 with the seizure of Crimea and the incursion into the Donbas. The 2022 invasion was the first large-scale interstate conventional war in Europe in decades.
 
 **Reply to Gonchar 1:** "Fixed — recast as the 2022 full-scale invasion / escalation of the 2014 war (Crimea + Donbas), and softened 'first conventional warfare' to 'first large-scale interstate conventional war in Europe in decades.'"
 
@@ -27,7 +27,7 @@ Suggested reply tone is brief and concrete — Gonchar will see the diff in trac
 **Find:** *"its previous occupation of Crimea in 2014"* (also fixes "first conventional invasion of a European sovereign state since World War II")
 
 **Replace the two opening sentences with:**
-> Russia's full-scale invasion of Ukraine in 2022 broke a period of relative social and economic calm in Europe that its earlier 2014 invasion — the seizure of Crimea and the incursion into the Donbas, which simmered as an active conflict zone for the next eight years — had not. The 2022 escalation alarmed people, as it was the largest conventional war on European soil since World War II, and shook the complacent belief that peace in the post-Cold War era would be sustainable indefinitely.
+> Russia's full-scale invasion of Ukraine in 2022 broke a period of relative social and economic calm in Europe that its earlier 2014 invasion had not. The 2014 invasion seized Crimea and opened the Donbas conflict, which simmered as an active conflict zone for the next eight years. The 2022 escalation alarmed people, as it was the largest conventional war on European soil since World War II, and shook the complacent belief that peace in the post-Cold War era would be sustainable indefinitely.
 
 **Reply to Gonchar 2:** "Fixed — named the full 2014 scope (Crimea + Donbas), characterised the 8-year continuity, reframed 2022 as escalation, and softened 'first conventional invasion since WWII' to 'largest conventional war on European soil since WWII.'"
 
@@ -49,7 +49,7 @@ Suggested reply tone is brief and concrete — Gonchar will see the diff in trac
 **Find:** *"We can deduce here that if defence spending growth is stagnating"*
 
 **Replace the entire sentence with:**
-> One inference is that if defence spending growth stagnated and returned to trend (mean-reversion) even after Russia's 2014 invasion of Ukraine — which seized Crimea and opened a sustained war in the Donbas — then a similar reversion may follow the 2022 escalation.
+> One inference is that if defence spending growth stagnated and returned to trend (mean-reversion) even after Russia's 2014 invasion of Ukraine, which seized Crimea and opened a sustained war in the Donbas, then a similar reversion may follow the 2022 escalation.
 
 **Reply to Gonchar 11:** "Fixed — replaced 'deduce' with 'One inference is that … may follow' (more tentative, appropriate for the foil); also corrected the 2014 framing to name both Crimea and Donbas."
 
@@ -60,7 +60,7 @@ Suggested reply tone is brief and concrete — Gonchar will see the diff in trac
 **Find:** *"as a ratio of total orders shipped"*
 
 **Replace the sentence containing it with:**
-> For example, the book-to-bill ratio reveals how many new orders the companies are receiving relative to revenue recognised in the same period — a tangible signal to the market of a real shift in demand, not only political but, perhaps more importantly, monetary.
+> For example, the book-to-bill ratio shows how many new orders companies are receiving relative to revenue recognised in the same period. This is a clear signal of a real shift in demand, not only political but, perhaps more importantly, monetary.
 
 (No Gonchar reply needed — this was an internal cohesion fix to align with the corrected book-to-bill definition below.)
 
@@ -82,7 +82,7 @@ Suggested reply tone is brief and concrete — Gonchar will see the diff in trac
 **Find:** *"areis best demonstrated"* (or *"3 additional5 companies"*) — both inside the *Contextualisation → Key Signalling Links* paragraph.
 
 **Replace the whole sentence cluster from "The corollary…" through "(3 companies at the 5% level and 3 additional5 companies at the 10% level)" with:**
-> The corollary to these semantic scores is best demonstrated by the book-to-bill ratio in the Welch test. As the most forward-looking financial metric, the book-to-bill ratio increased from 1.20 pre-invasion to 1.75 post-invasion and accelerated to 2.02 by 2025. The Chow test provides further compelling support for both findings. The results in Table 2 confirm a structural break (i.e., a shift in trend) between 2021 and 2022 in eight of the sixty company-metric cells — three at the 5% level and five marginally significant at the 10% level — covering six of the ten firms (Airbus, BAE Systems, Dassault Aviation, Leonardo, Rolls-Royce, and Thales).
+> The corollary to these semantic scores is best demonstrated by the book-to-bill ratio in the Welch test. As the most forward-looking financial metric, the book-to-bill ratio increased from 1.20 pre-invasion to 1.75 post-invasion and accelerated to 2.02 by 2025. The Chow test provides further compelling support for both findings. The results in Table 2 confirm a structural break (i.e., a shift in trend) between 2021 and 2022 in eight of the sixty company-metric cells: three at the 5% level and five marginally significant at the 10% level. These cover six of the ten firms (Airbus, BAE Systems, Dassault Aviation, Leonardo, Rolls-Royce, and Thales).
 
 **Reply to Gonchar 40:** "Fixed — corrected unit (cells, not firms): 8 of 60 firm-metric cells covering 6 of the 10 firms. Also fixed two stuck Track-Changes artifacts ('areis', 'compelling supports')."
 
@@ -104,7 +104,7 @@ Suggested reply tone is brief and concrete — Gonchar will see the diff in trac
 **Find:** *"the magnitude of the 2022 invasion with that of the 2014 occupation of Crimea"* — in the limitations / future-work paragraph.
 
 **Replace the sentence with:**
-> One future study might decompose the cumulative impact of Russia's 2014 invasion of Ukraine — which seized Crimea and opened a sustained war in the Donbas — and the 2022 escalation, treating the eight intervening years of low-intensity conflict as a baseline against which the 2022 step-change in cyclical and structural inertia can be measured.
+> One future study might decompose the cumulative impact of Russia's 2014 invasion of Ukraine, which seized Crimea and opened a sustained war in the Donbas, and the 2022 escalation. The eight intervening years of low-intensity conflict could serve as a baseline against which the 2022 step-change in cyclical and structural inertia can be measured.
 
 **Reply to Gonchar 43:** "Fixed — recast the proposed future study as a decomposition of the continuous 2014–2022 war into its two phases, naming the full 2014 scope (Crimea + Donbas) and treating 2022 as a step-change."
 
@@ -185,7 +185,7 @@ These shipped on branch `tier-4-wording`. Same workflow: search, replace, reply,
 **Find:** *"this might seem like a person renting a hall for his wedding banquet"* (in the Zeitenwende paragraph at line 326)
 
 **Replace the entire paragraph with:**
-> Germany's *Zeitenwende* ("watershed moment") was established in February of 2022 and earmarked 100 billion euros to be disbursed in binding, long-term contracts just for its military. *Zeitenwende 2.0* (500 billion euros over the next 12 years) extends this commitment substantially further (KRPATA, 2025). Defence contractors received the signal clearly: the German commitment to a more robust defence stimulated a considerable increase in corporate spending on new facilities, factories, and production lines (Zandee et al., 2024). This illustration of signalling theory then piggybacks into other spheres as well — defence companies send their own signals to financial markets, which can then plan for expansion in banking, loans, and broader financial activity.
+> Germany's *Zeitenwende* ("watershed moment") was established in February of 2022 and earmarked 100 billion euros to be disbursed in binding, long-term contracts just for its military. *Zeitenwende 2.0* (500 billion euros over the next 12 years) extends this commitment further (KRPATA, 2025). Defence contractors read these commitments as a credible signal, and the German push for a more robust defence stimulated a considerable increase in corporate spending on new facilities, factories, and production lines (Zandee et al., 2024). This illustration of signalling theory then piggybacks into other spheres as well. Defence companies send their own signals to financial markets, which can then plan for expansion in banking, loans, and broader financial activity.
 
 **Reply to Gonchar 31:** "Cut — the wedding banquet / brides / honeymoon / 'Like the marriage' metaphor was too informal for journal submission. All substantive claims (€100B 2022 commitment, €500B Zeitenwende 2.0, contractor response, signalling-theory framing, KRPATA and Zandee citations) preserved verbatim."
 
@@ -198,7 +198,7 @@ These shipped on branch `tier-4-wording`. Same workflow: search, replace, reply,
 **Find:** *"this study designed its AI scans to "read" the reports"* (Semantic Analysis methodology opener at line 354)
 
 **Replace the entire opening cluster with:**
-> Semantic analysis should aim to identify *meaning* rather than count words. While AI tools can readily measure word frequency, the prompts in this study direct the model to interpret each report from the perspective of a financial analyst specialising in defence-sector nomenclature and reporting conventions. The model is then asked to assess tone, framing, and commitment levels as reflected in word choices and the identifiable language of strategic stance.
+> Semantic analysis should aim to identify *meaning* rather than count words. AI tools can readily measure word frequency, but in this study the prompts ask the model to read each report as a financial analyst would, applying the vocabulary and reporting conventions specific to the defence sector. The prompts then ask the model to score tone, framing, and commitment levels as expressed through word choice and the language of strategic stance.
 
 **Reply to Gonchar 36:** "Rephrased — replaced 'designed its AI scans to "read"' (anthropomorphic, vague) with 'the prompts in this study direct the model to interpret', which names the actual mechanism (prompt engineering) and drops the scare quotes."
 
