@@ -25,6 +25,17 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Evidence of Structural Shift renamed to 3.2 Russia's Invasion of Ukraine; An Improvised Solution relocated into 3.2 (Tier 3 Step 4/12)
+- **Resolves:** Gonchar id (none — multi-step; id 5 will be closed at end of Phase B/C) / referee: tier-3-structure-step-4-of-12
+- **Section:** Evidence of Structural Shift renamed to 3.2 Russia's Invasion of Ukraine; An Improvised Solution relocated into 3.2 (Tier 3 Step 4/12)
+- **Before (A):** "## **Evidence of Structural Shift**"
+- **After (A):** "## **3.2 Russia's Invasion of Ukraine**"
+- **Before (B):** "One inference is that if defence spending growth stagnated…\n\n  \n\n*An Improvised Solution*\n\nThe uncertainty and volatility… [block] …## **3.2 Russia's Invasion of Ukraine**\n\nGiven its nature and organisation…"
+- **After (B):** "One inference is that if defence spending growth stagnated…\n\n  \n\n## **3.2 Russia's Invasion of Ukraine**\n\nGiven its nature and organisation…\n\n*An Improvised Solution*\n\nThe uncertainty and volatility… [block]"
+- **Rationale:** Per RESTRUCTURE_PLAN.md Step 4, the existing "Evidence of Structural Shift" section is reframed as "3.2 Russia's Invasion of Ukraine". The "An Improvised Solution" sub-block — orphaned at the end of 3.1 by Step 3 — is relocated to position 2 within 3.2 (between the opener "Given its nature…" and the existing "Underlying Political Change" subsection). Order in 3.2 becomes: opener → An Improvised Solution → Underlying Political Change → Economic Legitimacy → Microeconomic Transition. No prose changes; only header rename and block relocation.
+- **Cohesion check:** (1) "Evidence of Structural Shift" — 1 remaining occurrence at line 87 (TOC entry `[Evidence of Structural Shift 12](…)`); stale TOC link, flag for Step 11, no action here. 0 body occurrences remain. (2) "3.2 Russia's Invasion of Ukraine" — exactly 1 occurrence at line 242 (the renamed heading, correct). (3) "An Improvised Solution" — exactly 1 occurrence at line 246 (now under 3.2, immediately after the "Given its nature…" opener, correct). (4) "Given its nature and organisation" — 1 occurrence at line 244 (opener paragraph of 3.2, correct). (5) "Underlying Political Change" — 1 occurrence at line 252 (immediately follows the relocated "An Improvised Solution" block, correct). Order in 3.2 verified: opener (line 244) → An Improvised Solution (line 246) → Underlying Political Change (line 252) → Economic Legitimacy (line 260) → Microeconomic Transition (line 266). COHESION FLAG FOR STEP 11: TOC line 87 carries stale label "Evidence of Structural Shift 12" and will be rebuilt in Step 11 of this series.
+- **Commit:** TBD
+
 ### 2026-05-02 — Drop ## Evidence of a Cyclical Shift header; content attaches to 3.1 (Tier 3 Step 3/12)
 - **Resolves:** Gonchar id (none — multi-step; id 5 will be closed at end of Phase B/C) / referee: tier-3-structure-step-3-of-12
 - **Section:** Drop ## Evidence of a Cyclical Shift header; content attaches to 3.1 (Tier 3 Step 3/12)

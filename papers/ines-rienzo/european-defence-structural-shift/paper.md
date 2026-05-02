@@ -235,19 +235,17 @@ Certain research points to the idea that Europe's reaction to the Ukrainian conf
 
   
 
-One inference is that if defence spending growth stagnated and returned to trend (mean-reversion) even after Russia's 2014 invasion of Ukraine — which seized Crimea and opened a sustained war in the Donbas — then a similar reversion may follow the 2022 escalation.
+One inference is that if defence spending growth stagnated and returned to trend (mean-reversion) even after Russia’s 2014 invasion of Ukraine — which seized Crimea and opened a sustained war in the Donbas — then a similar reversion may follow the 2022 escalation.
 
   
+
+## **3.2 Russia’s Invasion of Ukraine**
+
+Given its nature and organisation, the EU had no choice but to devise a limited short-term response to the invasion of Ukraine, but as it became clear that this conflict would not be resolved quickly, a more developed long-term response took shape. Government policies, economic forecasts, and the way companies saw their role in adapting to this new level of Russian aggression all influenced a stimulation of the European defence market. Companies could now foresee a necessary expansion and adapt to a far broader scale of operation and production.
 
 *An Improvised Solution*
 
 The uncertainty and volatility in countries providing defence aid to Ukraine are obviously driven by simultaneous, parallel political and economic developments. For example, when the U.S. commitment to Ukraine became uncertainlear in early 2025., As a result, European countries and the EU were compelled to fill the gap. – Tthe conflict, after all, was in Europe’s backyard, and Russian aggression loomed as a clear possibility to Europe’s eastern areas. Even though Europe gave a record €26.9 billion to Ukraine in the first part of 2025, analysts warned this spike was temporary, uneven, and relied on one-time funding tricks, such as using the interest from frozen Russian assets (Mellace et al., 2025). Even when these short-term efforts to fill a funding void were instituted, the policymakers who crafted them were driven to create a fast fix -to stop the bleeding, as it were-and the “band-aid” nature of this response implied that a more sustainable course of providing a coherent continental level of defence security needed to be developed.
-
-  
-
-## **Evidence of Structural Shift**
-
-Given its nature and organisation, the EU had no choice but to devise a limited short-term response to the invasion of Ukraine, but as it became clear that this conflict would not be resolved quickly, a more developed long-term response took shape. Government policies, economic forecasts, and the way companies saw their role in adapting to this new level of Russian aggression all influenced a stimulation of the European defence market. Companies could now foresee a necessary expansion and adapt to a far broader scale of operation and production.
 
   
 
