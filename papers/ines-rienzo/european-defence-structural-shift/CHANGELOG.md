@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — "band-aid"/"stop the bleeding" replaced with neutral academic register (Gonchar 14)
+- **Resolves:** Gonchar id 14 / referee: (none — Gonchar wording fix)
+- **Section:** Literature Review → Evidence of a Cyclical Shift (closing of paragraph at line 246)
+- **Before:** "…the policymakers who crafted them were driven to create a fast fix -to stop the bleeding, as it were-and the "band-aid" nature of this response implied that a more sustainable course of providing a coherent continental level…"
+- **After:** "…the policymakers who crafted them were driven to create short-term measures, and the limited durability of these arrangements implied that a more sustainable, coherent continental level…"
+- **Rationale:** Per Gonchar (id 14), the "band-aid" framing was too colloquial for a journal submission; the editor explicitly suggested "short-term." This rewrite replaces both the "fast fix — to stop the bleeding, as it were" aside and the "'band-aid' nature of this response" phrase with neutral academic register, while preserving the original meaning (these were stopgap measures, not durable solutions). Also tightens "providing a coherent continental level" → "coherent continental level" (the verb is implied by the surrounding clause).
+- **Cohesion check:** (1) "band-aid" — 0 occurrences remaining; fully eliminated. (2) "stop the bleeding" — 0 occurrences remaining; fully eliminated. (3) "fast fix" — 0 occurrences remaining; fully eliminated. (4) "short-term" — 5 occurrences remain: line 202 ("a short-term allocation toward one sector" — neutral, no conflict), line 246 ("short-term efforts to fill a funding void" — same sentence, earlier clause; this surviving use of "short-term" is in neutral academic register, no conflict), line 246 ("short-term measures" — the new text itself), line 252 ("a limited short-term response" — next paragraph, neutral, consistent), line 308 ("a short-term bump" — structural-break theory paragraph, neutral, no conflict), line 467 ("short-term investment requirements" — heatmap discussion, neutral, no conflict). No contradicting passage found. One minor cohesion note: line 246 now contains "short-term efforts" (earlier in the sentence, unedited) and "short-term measures" (the new text, end of sentence) — slight repetition within the same sentence, but both uses are accurate and neutral; no structural fix required. No follow-up edits required for this sweep.
+- **Commit:** <fill in after committing>
+
 ### 2026-05-02 — "fundamental strategic independence" simplified to "greater strategic independence" (Gonchar 3)
 - **Resolves:** Gonchar id 3 / referee: (none — Gonchar wording fix)
 - **Section:** Introduction (closing clause of the autonomy paragraph, line 202)

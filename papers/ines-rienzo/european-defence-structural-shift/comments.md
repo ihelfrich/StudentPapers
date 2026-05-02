@@ -21,7 +21,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 11 | Gonchar | 2026-05-01 | We can deduce here that if defence spending growth is stagnating and returning to a trend … | is "deduce" correct here?Make sure this does not contradict the conclusion:"The overall trend forecasts that this fundamental shift will be sustained." | resolved | "deduce" replaced with "One inference is that … may follow"; foil direction preserved; 2014 Crimea-only scope corrected to Crimea + Donbas |
 | 12 | Gonchar | 2026-05-01 | The conflict, after all, was in Europe’s backyard, and Russian aggression loomed as a clea… | Necessary to keep in? | open |  |
 | 13 | Gonchar | 2026-05-01 | the policymakers who crafted them were driven to create a fast fix and the “band-aid” natu… | What was this fast fix? Citation? | open |  |
-| 14 | Gonchar | 2026-05-01 | “band-aid” | maybe short-term? | open |  |
+| 14 | Gonchar | 2026-05-01 | “band-aid” | maybe short-term? | resolved | “band-aid”/”fast fix”/”stop the bleeding” replaced with “short-term measures” and “limited durability of these arrangements” |
 | 15 | Gonchar | 2026-05-01 | Given its nature and organisation | What about their nature and organisation gave them no choice? | open |  |
 | 16 | Gonchar | 2026-05-01 | Government policies, economic forecasts, and the way companies saw their role in adapting … | Vague/broad - need citations | open |  |
 | 17 | Gonchar | 2026-05-01 | (no anchor) | (I could be wrong on this one) | open |  |
