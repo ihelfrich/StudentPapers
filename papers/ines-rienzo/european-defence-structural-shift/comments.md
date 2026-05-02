@@ -26,7 +26,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 16 | Gonchar | 2026-05-01 | Government policies, economic forecasts, and the way companies saw their role in adapting … | Vague/broad - need citations | open |  |
 | 17 | Gonchar | 2026-05-01 | (no anchor) | (I could be wrong on this one) | open |  |
 | 18 | Gonchar | 2026-05-01 | Detecting Structural ChangeDistinguishing temporary shocks from permanent regime changes i… | Should be moved to the "Structural Break Analysis" subsection | open |  |
-| 19 | Gonchar | 2026-05-01 | “guns versus butter” which holds that if a government spends more on guns it will have few… | Citation? | open |  |
+| 19 | Gonchar | 2026-05-01 | “guns versus butter” which holds that if a government spends more on guns it will have few… | Citation? | resolved | Sacchi et al. (2026) citation added to definition sentence; “fewerless” typo removed; existing Sacchi year corrected from 2025 → 2026 |
 | 20 | Gonchar | 2026-05-01 | admitting in the process its crucial nature | Recommend rewording | open |  |
 | 21 | Rienzo | 2026-04-26 | This thesis scrutinises management teams’ semantic narratives along with their companies’ … | to check | open |  |
 | 22 | Gonchar | 2026-05-01 | This thesis scrutinises management teams’ semantic narratives along with their companies’ … | Why is doing this semantic analysis important? What additional insights/information does it give that were overlooked by existing methods?Which papers are closest to yours in terms… | open |  |

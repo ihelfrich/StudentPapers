@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Guns-vs-butter definition cited; existing Sacchi year corrected (Gonchar 19)
+- **Resolves:** Gonchar id 19 / referee: bibliography-completeness
+- **Section:** Literature Contradictions paragraph (line 290) — guns-vs-butter citation added; existing Sacchi year corrected
+- **Before:** ""guns versus butter" which holds that if a government spends more on guns it will have fewerless funds for public benefits. If a nation's policy makers return … (Sacchi et al., 2025)."
+- **After:** ""guns versus butter" — the proposition that funds spent on military capacity are funds not available for civilian welfare (Sacchi et al., 2026). If a nation's policy makers return … (Sacchi et al., 2026)."
+- **Rationale:** Two corrections in one paragraph-local edit. (1) Gonchar 19: added a Sacchi et al. (2026) in-text citation to the "guns versus butter" definition sentence. The Sacchi paper title is "'Guns versus butter' in public opinion: the politicization of the warfare-welfare trade-off" — directly topical for the definitional claim. The typo "fewerless" (a stuck Track-Changes artifact) was removed and the sentence recast as a clean definition. (2) Bonus year fix: the existing "(Sacchi et al., 2025)" in the same paragraph was incorrect — the References entry (line 908) is dated 2026. Updated to "(Sacchi et al., 2026)" to match.
+- **Cohesion check:** (1) "Sacchi et al., 2025" — 0 occurrences remaining; fully eliminated. (2) "Sacchi et al., 2026" — 2 in-body occurrences at line 290 (both edited sentences) + 1 References entry at line 908; all consistent. (3) "fewerless" — 0 occurrences remaining; fully eliminated. (4) "guns vs butter" — 0 occurrences (no alternate spelling in paper). (5) "warfare-welfare" — 1 occurrence at line 910 (References entry only); no body passage contradicts the edit. (6) "Sacchi" — 3 total occurrences: 2 in body (line 290) and 1 in References (line 908); all consistent. No cohesion flags raised. No follow-up edits required.
+- **Commit:** TBD
+
 ### 2026-05-02 — References (add Sandler & Hartley 1995, web-verified citation)
 - **Resolves:** Gonchar id 8 / referee: bibliography-completeness
 - **Section:** References (add Sandler & Hartley 1995, web-verified citation)
