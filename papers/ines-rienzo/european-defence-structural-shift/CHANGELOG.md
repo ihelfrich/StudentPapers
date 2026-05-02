@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Top-level heading rename: # Literature Review → # 3. Background (Tier 3 Step 1/12)
+- **Resolves:** Gonchar id (none — multi-step; id 5 will be closed at end of Phase B/C) / referee: tier-3-structure-step-1-of-12
+- **Section:** Top-level heading rename: # Literature Review → # 3. Background (Tier 3 Step 1/12)
+- **Before:** "# **Literature Review**"
+- **After:** "# **3. Background**"
+- **Rationale:** Per Gonchar (id 5, restructure plan in `RESTRUCTURE_PLAN.md`), the current `# Literature Review` section actually reads as Background (history of European defence + history of Russia's invasion + the post-invasion response). It is being renamed to `# 3. Background`; a fresh `# 4. Literature Review` will be inserted later (Step 8) to position the question and methods against prior work. This is the first edit in a 12-step structural rewrite series and is intentionally minimal — only the heading text changes; the section's contents stay put for now.
+- **Cohesion check:** Swept "Literature Review", "Background", and "Historical Baseline". One remaining "Literature Review" occurrence at line 81 (TOC entry: `[**Literature Review** **10**](…)`) — this is the TOC link, which will be rebuilt in Step 11 of this series; deliberately left untouched. "Background" now appears only at line 208 (the renamed heading itself); no conflict. "Historical Baseline" appears at line 83 (TOC entry) and line 212 (subsection heading `## **Historical Baseline**`); neither conflicts with the rename. No in-text cross-references found that use "Literature Review" as a broken pointer outside of the TOC. No follow-up edits triggered by this step.
+- **Commit:** <fill in after committing>
+
 ### 2026-05-01 — Future Research sentence: 2014 full scope and 2022 as escalation (Gonchar 43)
 - **Resolves:** Gonchar id 43 / referee: factual-2014-framing
 - **Section:** Conclusion → Limitations and Future Research (line 777)
