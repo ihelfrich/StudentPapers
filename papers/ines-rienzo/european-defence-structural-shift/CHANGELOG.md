@@ -25,6 +25,15 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — "prompts a close look" replaced with active thesis-agency verb (Gonchar 25)
+- **Resolves:** Gonchar id 25 / referee: (none — Gonchar wording fix)
+- **Section:** Theoretical Framework (opener paragraph, line 306)
+- **Before:** "This evolution has energised the defence sector and prompts a close look at three key theoretical frameworks: structural break theory, signalling theory, and framing theory."
+- **After:** "To analyse this evolution, the thesis applies three key theoretical frameworks: structural break theory, signalling theory, and framing theory."
+- **Rationale:** Per Gonchar (id 25), "prompts a close look" was too passive — the thesis is not merely *looking* at these frameworks, it is *applying* them. The replacement makes the agency explicit ("the thesis applies"), names the action ("analyse"), and tightens the sentence by dropping the rhetorical "energised the defence sector" framing that did not contribute substantive content. The list of three frameworks is preserved verbatim.
+- **Cohesion check:** (1) "prompts a close look" — 0 occurrences remaining; fully eliminated. (2) "three key theoretical frameworks" — 1 occurrence at line 306 (the edited sentence itself); no other occurrence; no conflict. (3) "structural break theory" — 4 occurrences: line 179 (Executive Summary methods list, consistent), line 282 (Literature Review Detecting Structural Change paragraph, consistent), line 306 (edited sentence), line 308 (following sentence applying the framework — consistent with the new "the thesis applies" framing). No conflict. (4) "signalling theory" — 4 occurrences: line 306 (edited sentence), line 308 (following sentence, consistent), line 322 (Signalling Theory sub-section opener, consistent), line 736 (Discussion synthesis, consistent). No conflict. (5) "framing theory" — 3 occurrences: line 306 (edited sentence), line 308 (following sentence, consistent), line 332 (Framing Theory sub-section opener, consistent). No conflict. No contradicting passage found. No follow-up edits required.
+- **Commit:** <fill in after committing>
+
 ### 2026-05-02 — "admitting in the process its crucial nature" reworded (Gonchar 20)
 - **Resolves:** Gonchar id 20 / referee: (none — Gonchar wording fix)
 - **Section:** Literature Review → Literature Contradictions (paragraph at line 294)

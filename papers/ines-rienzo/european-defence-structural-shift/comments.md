@@ -32,7 +32,7 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 22 | Gonchar | 2026-05-01 | This thesis scrutinises management teams’ semantic narratives along with their companies’ … | Why is doing this semantic analysis important? What additional insights/information does it give that were overlooked by existing methods?Which papers are closest to yours in terms… | open |  |
 | 23 | Gonchar | 2026-05-01 | Analytical and Theoretical Frameworks | I recommend moving the subsections around. It may flow better if you title this section "Methodology" or "Theoretical Framework" Then introduce the three theoretical frameworks whe… | open |  |
 | 24 | Gonchar | 2026-05-01 | 2025 | Did the dynamics changes end in 2025? | open |  |
-| 25 | Gonchar | 2026-05-01 | prompts a close look | rephrase - you're implementing these, not just looking | open |  |
+| 25 | Gonchar | 2026-05-01 | prompts a close look | rephrase - you're implementing these, not just looking | resolved | replaced with "the thesis applies … to analyse this evolution"; "energised the defence sector" clause dropped |
 | 26 | Gonchar | 2026-05-01 | structural break theory distinguishes the difference between a short-term bump and a perma… | Citation? | open |  |
 | 27 | Gonchar | 2026-05-01 | analysis | sentiment analysis? | open |  |
 | 28 | Gonchar | 2026-05-01 | immediately prevent or preemptively mitigate | (or something like this) | open |  |
