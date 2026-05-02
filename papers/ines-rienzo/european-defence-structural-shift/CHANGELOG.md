@@ -25,6 +25,17 @@ These are queued. Each will be applied as its own commit.
 
 ## Applied
 
+### 2026-05-02 — Move 'For many years after the Cold War...' paragraph from 5.3 Framing Theory to 3.1 (Tier 3 Step 6/12, Gonchar 34)
+- **Resolves:** Gonchar id 34 / referee: tier-3-structure-step-6-of-12
+- **Section:** Move 'For many years after the Cold War...' paragraph from 5.3 Framing Theory to 3.1 (Tier 3 Step 6/12, Gonchar 34)
+- **Before (A):** "For many years after the Cold War, the European defence industry was framed predominantly…(Drempetic et al., 2020).\n\nThe abrupt and emphatic change in popular, governmental, and financial worlds"
+- **After (A):** "The abrupt and emphatic change in popular, governmental, and financial worlds" (Cold War paragraph deleted from 5.3)
+- **Before (B):** "Prior to 2022, European defence companies had no reason…(Ribera Payá & Barredo González, 2025).\n\n  \n\n## **3.2 Russia's Invasion of Ukraine**"
+- **After (B):** "Prior to 2022…(Ribera Payá & Barredo González, 2025).\n\n  \n\nFor many years after the Cold War…(Drempetic et al., 2020).\n\n  \n\n## **3.2 Russia's Invasion of Ukraine**"
+- **Rationale:** Per Gonchar (id 34) and RESTRUCTURE_PLAN.md Step 6, the Cold War / sin-stock framing paragraph is historical-context material that belongs under 3.1 History of European Defence Spending, not as an example inside 5.3 Framing Theory. The paragraph references "the previously -noted peace dividends" which still resolves correctly because Peace Dividend is also in 3.1. Removed from Framing Theory; the existing "abrupt and emphatic change..." paragraph (which contrasts with the just-removed Cold War content) now leads directly from the Framing-theory definitional opener — the transition is abrupt and warrants a bridge sentence in a future Tier 4 wording pass; bridge NOT added here.
+- **Cohesion check:** (1) "For many years after the Cold War" — exactly 1 occurrence at line 246, now at end of 3.1 (immediately before ## 3.2 header), correct. (2) "Drempetic" — 2 occurrences: line 246 (moved paragraph) + line 838 (References entry); no orphans. (3) "abrupt and emphatic change" — 1 occurrence at line 336, now the second paragraph of 5.3 Framing Theory (directly following the Entman definitional opener). Reads abruptly without the Cold War lead-in — this is the documented transition issue, flagged for Tier 4. (4) "previously -noted peace dividends" — 1 occurrence at line 246 (the moved paragraph); the Peace Dividend subsection at lines 220–222 of 3.1 is the antecedent and still precedes this paragraph, so the cross-reference resolves correctly. (5) "Peace Dividend" — 3 occurrences: line 220 (subsection italic lead in 3.1), line 246 (moved paragraph in 3.1, "previously -noted peace dividends"), line 785 (Conclusion "Peace Dividend era is fading"); all consistent. COHESION FLAG (Tier 4 follow-up): In 5.3 Framing Theory, the Entman definitional opener (line 330) now leads directly into "The abrupt and emphatic change..." (line 332) without the Cold War lead-in paragraph. The jump from theoretical definition to post-2022 contrast is abrupt and warrants a bridge sentence. Do NOT add here — flag for Tier 4 pass.
+- **Commit:** TBD
+
 ### 2026-05-02 — Move 'Prior to 2022...' paragraph from Signalling Theory to end of 3.1 (Tier 3 Step 5/12, Gonchar 29)
 - **Resolves:** Gonchar id 29 / referee: tier-3-structure-step-5-of-12
 - **Section:** Move 'Prior to 2022...' paragraph from Signalling Theory to end of 3.1 (Tier 3 Step 5/12, Gonchar 29)

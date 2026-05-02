@@ -243,6 +243,10 @@ Prior to 2022, European defence companies had no reason to anticipate a dramatic
 
   
 
+For many years after the Cold War, the European defence industry was framed predominantly through a lens of ethical liability and restraint. The key political narrative placed emphasis on the previously -noted peace dividends and demilitarisation. The defence sector was often framed as an unfortunate, heavily regulated necessity rather than a public good. In financial markets, this framing resulted in the exclusion of most defence companies from many Environmental, Social, and Governance ESG (ESGEnvironmental, Social, and Governance) portfolios, creating the moral opinion that weapons manufacturing was inherently risky or anti-sustainable (Drempetic et al., 2020).
+
+  
+
 ## **3.2 Russia’s Invasion of Ukraine**
 
 Given its nature and organisation, the EU had no choice but to devise a limited short-term response to the invasion of Ukraine, but as it became clear that this conflict would not be resolved quickly, a more developed long-term response took shape. Government policies, economic forecasts, and the way companies saw their role in adapting to this new level of Russian aggression all influenced a stimulation of the European defence market. Companies could now foresee a necessary expansion and adapt to a far broader scale of operation and production.
@@ -328,8 +332,6 @@ Germany’s *Zeitenwende* (“watershed moment”) was established in February o
 ## **5.3 Framing Theory**
 
 Framing theory is a sociological practice that examines how the presentation of information (sometimes called messaging) influences public perception and drives ensuing opinions and behaviours. Framing does not fabricate facts but rather emphasises unique aspects of a complex scenario in order to elicit reactions from people, institutions, and even investors (Entman, 1993). An example of this might be when a doctor, articulating the risk of surgery, says the procedure has an 85% success rate. This frame is clearly more attractive and likely to motivate patients toward surgery than saying that the procedure has a 15% mortality rate. The facts are the same, but the frame is quite different. When we apply this similar logic to the European defence industry, framing theory provides a clear explanation of how the sector's public and financial position has changed. 
-
-For many years after the Cold War, the European defence industry was framed predominantly through a lens of ethical liability and restraint. The key political narrative placed emphasis on the previously -noted peace dividends and demilitarisation. The defence sector was often framed as an unfortunate, heavily regulated necessity rather than a public good. In financial markets, this framing resulted in the exclusion of most defence companies from many Environmental, Social, and Governance ESG (ESGEnvironmental, Social, and Governance) portfolios, creating the moral opinion that weapons manufacturing was inherently risky or anti-sustainable (Drempetic et al., 2020).
 
 The abrupt and emphatic change in popular, governmental, and financial worlds forced a rapid reevaluation of existential security and economic stability. The EU and national governments were now compelled to reframe their worlds and words in terms of survival and resilience, moving from budgetary stewardship to intentional efforts to repel or at least deter existential threats and an overt assault on democratic values (Fiott, 2018). The time to squabble about, for instance, how the Greeks handle debt is gone because reality has spawned an understanding that the defence sector is actually a pillar of long-term social and economic stability. 
 
