@@ -375,8 +375,6 @@ The LLM framework was applied across all 79 reports uniformly, and all models we
 
 ### ***7.1.3 Results***
 
-#### *The Overall Picture*
-
 The consistency and degree of management language shifts from the pre-invasion through the post-invasion periods were evident in the findings of the analysis. Across 10 companies and 79 reports, the structural score mean rose from 4.7 to 7.1 on a scale of 10, an increase of 2.4 points or approximately 51 percent.
 
 In the larger context of the analysis, a score of 4.7 stands just below a neutral midpoint of 5, which suggests that the pre-invasion language was generally more consistent with a cyclical, business-as-usual orientation than with a structural transformation. The 7.1 post-invasion mark, however, lies well above the midpoint and fits firmly in structural shift territory. This signals a fundamental change in the tone and tenor of management communication.
@@ -392,8 +390,6 @@ In the larger context of the analysis, a score of 4.7 stands just below a neutra
 The figure illustrates the year-by-year trajectory of this structural score. The pre-invasion period indicates a modest downward trend from 2018 to 2021, reflecting the effect of the COVID-19 pandemic in 2020 and 2021, which pushed the tone and register of companies’ language toward a more cautious, business-continuity articulation. This changed between 2021 and 2022, where a sharp and immediate jump is noticeable. The mean score jumps from 4.4 in 2021 to 6.2 in 2022. This represents the largest single-year movement in the dataset. This jump is followed by a continuous upward trend, reaching 8.1 by 2025. The post-2022 ongoing acceleration is compelling evidence vis-a-vis the structural versus cyclical question. If the shift were cyclical, one might expect scores to plateau or even decline once the initial shock of the invasion had passed. Instead, scores continued rising, which is consistent with companies deepening their structural commitments over time.
 
   
-
-#### *Classification*
 
 Categorical distributions of narrative tone and structural labels across the two periods reinforce and validate the results of the structural scores.
 
@@ -419,8 +415,6 @@ The table above confirms the results from a different perspective. In the pre-in
 
   
 
-#### *Company-level Assessment*
-
 Of course, when aggregating evidence from multiple reports, some variations in data will occur, and these are statistically significant but do not diminish the clear general trend. The line of best fit in a scatterplot is not intended to explain the outlying data points. Across the ten companies in this study, the structural shift was not uniform, as some revealed striking transformation in strategic language while others had more modest changes. Airbus and Safran, for instance, had a relatively small shift in language, but this may be more indicative of which companies among the ten were most affected by the invasion. There are also unknowns within companies–editorial and/or style guidelines for publications–that cannot be known from a series of annual reports, although an AI analysis might certainly infer these.
 
   
@@ -441,15 +435,11 @@ Leonardo provides the most dramatic shift toward structural identity. Its pre-in
 
   
 
-#### *The Outliers*
-
 Airbus and Safran notably seem to buck the trend toward structural shift among the companies in this study, but this is due to core differences in their role in defense production. Since both companies may be viewed as indirectly involved with defence-oriented products (aircraft and aircraft components), it would likely take a full mobilisation for another global war to move them to an overtly structural level. Safran’s post-invasion structural score, 4.0, is the lowest in the sample, and thus three of its four post-invasion reports land in a cyclical area, but this reflects Safran’s business mix: primarily a commercial aerospace company, Safran is prominent in the areas of LEAP aircraft engines and serves other commercial aviation aftermarkets. Its reports from 2022 onward offer a focus on a post-pandemic recovery of civil aviation rather than an engagement with European rearmament. In fact, Russia and Ukraine are only noted in risk disclaimers that acknowledge potential supply chain disruptions or compliance with sanctions–not as demand catalysts or strategic opportunities.
 
 As a company that participates in FCAS (Future Combat Air Systems), Safran is relevant to this study, but in its role as a commercial aerospace business, it has limited defence exposure and is certainly not a defence company operating in a transformed level of mobilisation. Still, by 2025, its reports show signs of a partial shift to 6.0 and include language concerning new joint ventures and defence manufacturing investments. Nevertheless, Safran remains the least structurally committed company in the sample.
 
 Airbus is synonymous with commercial aviation and in commercial airliner production, and thus its 3.9 average in the 2022 and 2023 reports almost entirely focus on commercial aviation’s recovery from the pandemic. The 2024 report frames its Defence and Space division as a source of write-downs and transformation costs, but not in the lens of strategic growth. Airbus’s score, however, rises to 7.0 by 2025, with the report language beginning to illustrate defence momentum as a structural opportunity, citing record order intakes of 16.7 billion euros in Defence and Space. Considering this, one may view Airbus as a company demonstrating a lagged response to the overall structural shift as the recovery of commercial aviation gave way to a more defence-forward stance. In its overall corporate identity, however, Airbus is responding to one factor in a much larger reality, and its core identity is not as a defence manufacturer. But its move toward more structural language is likely an indicator of Airbus' investment commitment remaining more stable over the period due to its lower exposure to defence spending. This does suggest that the trend results from structural shifts in defence rather than a broader macro trend increasing investment generally. Airbus seems to be adapting to the structural shift among defence-focused companies even as it maintains its identity  as an aviation company.
-
-#### *Investment Commitment Language*
 
 The below Investment Commitment heatmap provides a complementary perspective on the structural shift by scoring how companies discuss capital spending decisions, workforce investment, and procurement commitments over the entire eight-year period.
 
@@ -635,8 +625,6 @@ All figures originally reported in British pounds were converted to euros using 
 
 Three tests have been performed to analyse and verify findings: (1) a Welch test to compare metric averages pre- and post-invasion (2) a Chow test to confirm the breaking point, and (3) a panel fixed effect regression to normalise the underlying data and confirm results.
 
-#### *Test 1 - Comparing Metric Averages Before and After the Invasion (Welch)*
-
 The first test measures whether financial metrics are meaningfully different pre- and post-invasion. The test divides the data into two groups: the years 2018 to 2021 (pre-invasion) and the years 2022 to 2025 (post-invasion). For each period grouping, the average for each financial metric is calculated across all companies. The pre- and post-invasion averages are then compared to indicate significance or potential random variation.
 
 Two metrics produce strong and statistically significant results. First, the book-to-bill ratio rose from a pre-invasion average of 1.20 to a post-invasion average of 1.75, a difference of 0.55. There is only a 0.13%  probability that this difference arose purely by coincidence. Second, the Group EBIT Adjusted Margin rose from 7.8% to 10.5%, an increase of 2.7 percentage points. This represents a 0.41%  probability that this is a coincidence. 
@@ -653,8 +641,6 @@ Two metrics produce strong and statistically significant results. First, the boo
 By contrast, defence revenue growth showed no meaningful difference between the two periods. The observed gap carries a 50.2% probability of having arisen by chance alone. This is consistent with the lagging nature of revenue recognition. Contracts signed in 2022 and 2023 are only physically delivered (and therefore recognised as revenue) over the following years. Therefore, the absence of a revenue signal at this stage is expected, not contradictory.
 
   
-
-#### *Test 2 - Confirming the Break Point, Per-Company and Pooled Chow Tests*
 
 While the Welch test compared static averages, it is limited in terms of testing underlying statistical trends. The Chow structural break test applies a simple regression model (a constant plus a time trend) to the pre- and post-invasion periods to determine whether the two models are statistically different from one another. If the models differ significantly, February 2022 represents a genuine structural break point, not merely a continuation of underlying trends. The restricted model pools all data and fits a single trend. The unrestricted model fits separate trends to each sub-period and leaves less unexplained variation. 
 
@@ -702,8 +688,6 @@ Two of the six metrics confirm a structural break at the 5% significance level: 
 *\* p\<0.10   \*\* p\<0.05   \*\*\* p\<0.01   |   F-critical(2,\~65) at 5% ≈ 3.14*
 
   
-
-#### *Test 3 - Panel Fixed-Effects Regression*
 
 The core construct of the regression is to independently analyse each company against its own historical performance, rather than against other companies within the sample. This provides incremental insight due to the inherent differences between companies. An example of the test’s importance is demonstrated by Rheinmetall consistently having a higher order ratio than Thales. This is due to Rheinmetall exclusively producing weapons, whereas Thales produces a mix of defence electronics and commercial products. Based on a comparison of the whole group pre- and post-invasion, Rheinmetall's already-high figures incrementally increase the post-invasion group average in a potentially misleading way. The regression removes these types of distortions to identify intra-company improvements across all ten companies and find the common signal in a resultant number, termed a coefficient. A significant positive coefficient indicates that improvements happened consistently across companies and cannot be explained by pre-existing differences between companies.
 
