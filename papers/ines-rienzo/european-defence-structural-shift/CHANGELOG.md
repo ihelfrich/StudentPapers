@@ -36,7 +36,7 @@ These are queued. Each will be applied as its own commit.
 - **After (all five):** *(entries deleted; following reference entry now leads directly)*
 - **Rationale:** Per Gonchar ids 49–53, each asked "Was this referenced?" of these five entries. Case-insensitive grep confirmed that none of the surnames Bruner, English V., Strüwe/Struwe, Suchman, or Walker/Willer appears anywhere in the paper body — all five existed solely in the References list. Per academic convention, uncited references are removed from the bibliography. Git history makes individual restoration trivial if any was inadvertently dropped.
 - **Cohesion check:** Post-deletion sweep of all five surnames and "Willer" across paper.md returned zero matches. Confirmed zero residual mentions for each of: Bruner (0), English V. (0), Strüwe / Struwe (0), Suchman (0), Walker (0), Willer (0). No body-text citation was orphaned; no in-text citation chain was broken.
-- **Commit:** TBD
+- **Commit:** 6a21c60
 
 ### 2026-05-02 — References cleanup: duplicate Ivančík entry + fragmented Article. block removed (Gonchar 47)
 - **Resolves:** Gonchar id 47 / referee: bibliography-cleanup
