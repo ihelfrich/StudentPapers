@@ -351,7 +351,7 @@ The primary data source consists of annual reports and earnings presentation mat
 
 ### ***Methodology***
 
-Any semantic analysis should strive to discern *meaning*, rather than merely word counting. While AI can readily identify word frequency in texts, this study designed its AI scans to “read” the reports from the approximate perspective of a financial analyst specialising in defence sector nomenclature and structures. Thus, the AI here analyses and assesses tone, framing, and commitment levels as reflected in word choices, and the identifiable language of strategic stance.
+Semantic analysis should aim to identify *meaning* rather than count words. While AI tools can readily measure word frequency, the prompts in this study direct the model to interpret each report from the perspective of a financial analyst specialising in defence-sector nomenclature and reporting conventions. The model is then asked to assess tone, framing, and commitment levels as reflected in word choices and the identifiable language of strategic stance.
 
 A qualitative-quantitative hybrid emerged from this method to produce structured assessments. The goal was to tailor statistical comparisons that are derived from textual comprehension of management language to offer a more complete understanding than a basic quantification of word frequency.
 

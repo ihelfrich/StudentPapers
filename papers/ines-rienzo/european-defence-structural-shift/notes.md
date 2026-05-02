@@ -35,7 +35,7 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 - [x] "band-aid" → "short-term" (14). *Applied; see CHANGELOG 2026-05-02.*
 - [x] "huge" → "considerable" (32). *Applied; see CHANGELOG 2026-05-02.*
 - [x] "admitting in the process its crucial nature" → reword (20). *Applied; see CHANGELOG 2026-05-02.*
-- [ ] "this study designed its AI scans to 'read' the reports" — rephrase (36).
+- [x] "this study designed its AI scans to 'read' the reports" — rephrase (36). *Applied; see CHANGELOG 2026-05-02.*
 - [x] "prompts a close look" → "applies / implements" (25). *Applied; see CHANGELOG 2026-05-02.*
 - [ ] Cut or hedge the "Peace Dividend era is fading… ESG bygone" closing (46).
 - [x] Drop or audit the wedding-banquet/Zeitenwende joke (author-flagged 31). *Applied; see CHANGELOG 2026-05-02.*
