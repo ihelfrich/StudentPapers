@@ -25,13 +25,13 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 
 ## Tier 3 — structure (Gonchar's flow rewrite)
 
-- [ ] Number sections; drop sub-subsections (Gonchar 0).
-- [ ] Rename "Literature Review" → **Background**; subsections: *History of European Defence Spending* and *Russia's Invasion of Ukraine* (Gonchar 5).
-- [ ] Then a real **Literature Review** that positions question + method against prior work.
-- [ ] Move "Detecting Structural Change" into the *Structural Break Analysis* subsection (Gonchar 18).
-- [ ] Move two history paragraphs into *History of European Defence Spending* (Gonchar 29, 34).
-- [ ] Promote **Data Collection** to its own *Data* section between Theory and Empirical (Gonchar 35).
-- [ ] Rename "Analytical and Theoretical Frameworks" → **Theoretical Framework** or **Methodology** (Gonchar 23).
+- [x] Number sections; drop sub-subsections (Gonchar 0). *Step 11A/12 applied: numeric prefixes on all body top-level (1–9) and second-level headings; ### 7.1.1–7.1.5 / 7.2.1–7.2.2 hierarchical numerals; Contextualisation ### promoted to ## 8.1–8.4; # Onglet 1 artefact removed. Step 11B/12 applied: all 8 `####` sub-subsection headings deleted (Overall Picture, Classification, Company-level Assessment, Outliers, Investment Commitment Language under 7.1.3; Test 1/2/3 headings under 7.2.2). TOC rebuild deferred to Step 11C.*
+- [x] Rename "Literature Review" → **Background**; subsections: *History of European Defence Spending* and *Russia's Invasion of Ukraine* (Gonchar 5). *Step 1/12 applied (heading text only, commit 2ba80be); Step 2/12 applied (## Historical Baseline → ## 3.1 History of European Defence Spending, commit 87be1bf); Step 3/12 applied (## Evidence of a Cyclical Shift header dropped; content attaches to 3.1, commit e5c72c4); Step 4/12 applied (## Evidence of Structural Shift → ## 3.2 Russia's Invasion of Ukraine; An Improvised Solution relocated to position 2 of 3.2, commit dec1f2d); full rename series in progress.*
+- [x] Then a real **Literature Review** that positions question + method against prior work. *Step 8/12 applied: # 4. Literature Review inserted; subsections renumbered 4.1/4.2/4.3; Gonchar 5 resolved; Tier 3 Step 8/12. Opener paragraph (if desired) flagged for Tier 4 prose pass.*
+- [x] Move "Detecting Structural Change" into the *Structural Break Analysis* subsection (Gonchar 18). *Applied; Tier 3 Step 7/12; heading dropped, paragraph inserted as 3rd para of 5.1; see CHANGELOG 2026-05-02.*
+- [x] Move two history paragraphs into *History of European Defence Spending* (Gonchar 29, 34). *Gonchar 29 applied: "Prior to 2022, European defence companies…" moved to end of 3.1 (Tier 3 Step 5/12). Gonchar 34 applied: "For many years after the Cold War…" moved to end of 3.1 (Tier 3 Step 6/12).*
+- [x] Promote **Data Collection** to its own *Data* section between Theory and Empirical (Gonchar 35). *Applied; Tier 3 Step 10/12; ## Data Collection → # 6. Data; # Mixed Methods → # 7. Mixed Methods; ## Semantic Analysis → ## 7.1 Semantic Analysis; ## Financial Analysis → ## 7.2 Financial Analysis; see CHANGELOG 2026-05-02.*
+- [x] Rename "Analytical and Theoretical Frameworks" → **Theoretical Framework** or **Methodology** (Gonchar 23). *Step 9/12 applied (heading renames only, commit 744d0ed); Gonchar 23 remains open until Phase A/B/C structural bundle is complete.*
 - [ ] Expand **Conclusion** per Gonchar 44: restate question → semantic evidence → financial evidence → limits → hedged statement.
 
 ## Tier 4 — wording / over-claiming

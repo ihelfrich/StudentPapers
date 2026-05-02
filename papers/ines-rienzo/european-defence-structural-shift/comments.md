@@ -7,12 +7,12 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 
 | id | author | date | anchor (excerpt) | comment | status | our note |
 |---:|:------|:-----|:-----------------|:--------|:-------|:---------|
-| 0 | Gonchar | 2026-05-01 | Executive Summary | General Formatting:I recommend numbering the section and subsection titles and try to avoid using subsubsections | open |  |
+| 0 | Gonchar | 2026-05-01 | Executive Summary | General Formatting:I recommend numbering the section and subsection titles and try to avoid using subsubsections | resolved | numeric prefixes applied to all body headings (1–9); 7.1.x / 7.2.x subsection numerals; 8.x ## promotion; # Onglet 1 removed; Tier 3 Step 11A/12 |
 | 1 | Gonchar | 2026-05-01 | February 2022 saw Russia’s invasion of Ukraine, marking the first conventional warfare bet… | A few concerns:- Russia initially invaded Ukraine in 2014.- This was not the first conventional warfare between European countries but it is the first in quite some time.- For the … | resolved | Executive Summary opener recast: 2022 framed as escalation of 2014 war; Crimea + Donbas named; temporal hedge added |
 | 2 | Gonchar | 2026-05-01 | its previous occupation of Crimea in 2014 | Russia also invaded eastern Ukraine in 2014, which actually remained as a conflict zone through the 2022 invasion | resolved | Introduction opener recast: full 2014 scope named (Crimea + Donbas); 2022 framed as escalation; "first conventional invasion" hedged to "largest conventional war" |
 | 3 | Gonchar | 2026-05-01 | fundamental strategic independence | simplify | resolved | "fundamental" removed; replaced with "greater strategic independence" |
 | 4 | Gonchar | 2026-05-01 | Mellace et al., 2025 | Not correct - their paper considered the suspension of US aid to Ukraine in early 2025. | resolved | citation dropped from Introduction line 204; Mellace correctly retained at line 246 |
-| 5 | Gonchar | 2026-05-01 | Literature Review | This currently reads as both a Literature Review and a Background, which is totally fine. I think rearranging the order of the paragraphs would help tell a clearer story.Perhaps yo… | open |  |
+| 5 | Gonchar | 2026-05-01 | Literature Review | This currently reads as both a Literature Review and a Background, which is totally fine. I think rearranging the order of the paragraphs would help tell a clearer story.Perhaps yo… | resolved | Tier 3 Steps 1–8 complete: old § renamed → # 3. Background (3.1/3.2); # 4. Literature Review inserted with 4.1/4.2/4.3 |
 | 6 | Gonchar | 2026-05-01 | Defence Companies as “Sin Stocks” | Need to communicate to the reader why they need to know about sin stocks in terms of the question/research | open |  |
 | 7 | Gonchar | 2026-05-01 | (Derwall et al., 2011) | Missing in References | resolved | Derwall (2011) entry already present in References (added by author after this comment); verified during Tier 2 audit |
 | 8 | Gonchar | 2026-05-01 | Sandler and Hartley (1995) | Missing in References | resolved | entry added to References (alphabetically between Sacchi and Shevchuk); web-verified citation |
@@ -25,8 +25,8 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 15 | Gonchar | 2026-05-01 | Given its nature and organisation | What about their nature and organisation gave them no choice? | open |  |
 | 16 | Gonchar | 2026-05-01 | Government policies, economic forecasts, and the way companies saw their role in adapting … | Vague/broad - need citations | resolved | vague three-part claim replaced with cited ASAP/EDIRPA/EDIS topic sentence; Lane (2024) and Andersson & Britz (2025) cited |
 | 17 | Gonchar | 2026-05-01 | (no anchor) | (I could be wrong on this one) | open |  |
-| 18 | Gonchar | 2026-05-01 | Detecting Structural ChangeDistinguishing temporary shocks from permanent regime changes i… | Should be moved to the "Structural Break Analysis" subsection | open |  |
-| 19 | Gonchar | 2026-05-01 | “guns versus butter” which holds that if a government spends more on guns it will have few… | Citation? | resolved | Sacchi et al. (2026) citation added to definition sentence; “fewerless” typo removed; existing Sacchi year corrected from 2025 → 2026 |
+| 18 | Gonchar | 2026-05-01 | Detecting Structural ChangeDistinguishing temporary shocks from permanent regime changes i… | Should be moved to the "Structural Break Analysis" subsection | resolved | moved to 5.1 Structural Break Analysis as 3rd paragraph; heading dropped; Tier 3 Step 7/12 |
+| 19 | Gonchar | 2026-05-01 | “guns versus butter” which holds that if a government spends more on guns it will have few… | Citation? | open |  |
 | 20 | Gonchar | 2026-05-01 | admitting in the process its crucial nature | Recommend rewording | open |  |
 | 21 | Rienzo | 2026-04-26 | This thesis scrutinises management teams’ semantic narratives along with their companies’ … | to check | open |  |
 | 22 | Gonchar | 2026-05-01 | This thesis scrutinises management teams’ semantic narratives along with their companies’ … | Why is doing this semantic analysis important? What additional insights/information does it give that were overlooked by existing methods?Which papers are closest to yours in terms… | open |  |
@@ -36,14 +36,14 @@ Status legend: `open` · `in-progress` · `resolved` · `wont-fix` · `needs-aut
 | 26 | Gonchar | 2026-05-01 | structural break theory distinguishes the difference between a short-term bump and a perma… | Citation? | resolved | Chow (1960) added as parenthetical at line 308; References entry confirmed at line 826 |
 | 27 | Gonchar | 2026-05-01 | analysis | sentiment analysis? | open |  |
 | 28 | Gonchar | 2026-05-01 | immediately prevent or preemptively mitigate | (or something like this) | open |  |
-| 29 | Gonchar | 2026-05-01 | Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in … | This should go into a History of European Defence Spending subsection | open |  |
+| 29 | Gonchar | 2026-05-01 | Prior to 2022, European defence companies had no reason to anticipate a dramatic surge in … | This should go into a History of European Defence Spending subsection | resolved | moved to end of 3.1 History of European Defence Spending (last paragraph before ## 3.2 header); Tier 3 Step 5/12 |
 | 30 | Gonchar | 2026-05-01 | necessary | why? | open |  |
 | 31 | Rienzo | 2026-04-26 | its military. To the uncritical onlooker, this might seem like a person renting a hall for… | check the joke | open |  |
 | 32 | Gonchar | 2026-05-01 | huge | large or considerable | open |  |
-| 33 | Gonchar | 2026-05-01 | Framing theory is a sociological practice that examines how the presentation of informatio… | Who started it? (Source) | resolved | Entman (1993) moved from sentence 2 to end of definitional sentence 1 at line 332 |
-| 34 | Gonchar | 2026-05-01 | For many years after the Cold War, the European defence industry was framed predominantly … | This should go into a History of European Defence Spending subsection | open |  |
-| 35 | Gonchar | 2026-05-01 | Data Collection | "Data" should be a separate section where you discuss what data is needed for the analysis, where you got it, and any changes you made to it (as well as any immediately relevant li… | open |  |
-| 36 | Gonchar | 2026-05-01 | this study designed its AI scans to “read” the reports | Rephrase recommended. | resolved | reworded: “prompts in this study direct the model to interpret” replaces “designed its AI scans to 'read'”; “the AI here” eliminated |
+| 33 | Gonchar | 2026-05-01 | Framing theory is a sociological practice that examines how the presentation of informatio… | Who started it? (Source) | open |  |
+| 34 | Gonchar | 2026-05-01 | For many years after the Cold War, the European defence industry was framed predominantly … | This should go into a History of European Defence Spending subsection | resolved | moved to end of 3.1 History of European Defence Spending (last paragraph before ## 3.2 header); Tier 3 Step 6/12 |
+| 35 | Gonchar | 2026-05-01 | Data Collection | "Data" should be a separate section where you discuss what data is needed for the analysis, where you got it, and any changes you made to it (as well as any immediately relevant li… | resolved | promoted to # 6. Data; Mixed Methods → # 7; Semantic → 7.1; Financial → 7.2; Tier 3 Step 10/12 |
+| 36 | Gonchar | 2026-05-01 | this study designed its AI scans to “read” the reports | Rephrase recommended. | open |  |
 | 37 | Gonchar | 2026-05-01 | measures the proportion of recognised defence revenue to new defence orders. | i believe this is inverted | resolved | fixed in Q1 edit (2026-05-01); definition corrected to orders ÷ revenue |
 | 38 | Rienzo | 2026-04-26 | ntity demeaning is | check | open |  |
 | 39 | Rienzo | 2026-04-26 | reasons; | add reason | open |  |
