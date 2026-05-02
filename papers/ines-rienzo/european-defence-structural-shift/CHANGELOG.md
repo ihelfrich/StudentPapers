@@ -34,7 +34,7 @@ These are queued. Each will be applied as its own commit.
 - **After (deletion 2):** "Ribera Payá" *(duplicate Ivančík block deleted)*
 - **Rationale:** Per Gonchar (id 47), the Ivančík (2025) entry was duplicated in the References list. Cleanup also removes a fragmented "Article." block (former lines 812–814) that is a Google-Docs port artifact pointing to the same ResearchGate URL — vestigial garbage with no bibliographic content. The surviving Ivančík entry at line 884 is itself malformed (concatenates a (2025) DOI'd entry with a separate (2024) "ResearchGate Academic" entry); cleaning that mash-up is a separate concern left to a future Tier 6 reference-formatting pass. This commit removes only the unambiguous duplicates and the fragment.
 - **Cohesion check:** (1) "Ivančík" — 4 occurrences remain: lines 200, 204, 294 are in-text citations (`IvančíkRadoslav, 20254` / `IvančíkRadoslave, 20254`) pointing to the surviving entry; line 884 is the single surviving References entry. No in-text citation chain broken. (2) "Article.([" — 0 occurrences remaining; fully eliminated. (3) "researchgate.net/publication/398034076" — 0 occurrences remaining; fully eliminated. COHESION FLAG (Tier 6): the surviving Ivančík entry at line 884 mashes a (2025) DOI entry with a (2024) "ResearchGate Academic" entry into one paragraph — this is a pre-existing malformation, not introduced by this edit. Flag for a separate Tier 6 reference-formatting pass. DO NOT modify here.
-- **Commit:** <fill in after committing>
+- **Commit:** efaf9d5
 
 ### 2026-05-01 — Future Research sentence: 2014 full scope and 2022 as escalation (Gonchar 43)
 - **Resolves:** Gonchar id 43 / referee: factual-2014-framing
