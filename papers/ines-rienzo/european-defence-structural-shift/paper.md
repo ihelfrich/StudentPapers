@@ -209,7 +209,7 @@ Academic research suggests that the early reaction to the invasion was cyclical,
 
   
 
-## **Historical Baseline**
+## **3.1 History of European Defence Spending**
 
 *Defence Companies as “Sin Stocks”*
 
