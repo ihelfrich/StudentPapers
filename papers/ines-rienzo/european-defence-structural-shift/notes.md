@@ -19,7 +19,7 @@ Cross-references: Gonchar comment ids → `comments.md`; applied edits → `CHAN
 - [x] Verify each: Bruner (2024), English (2025), Strüwe (2024), Suchman (1995), Walker & Willer (2014) is actually cited; drop or cite (Gonchar 49–53). *Applied; all five dropped (zero body mentions confirmed); see CHANGELOG 2026-05-02.*
 - [x] Add citations for "guns vs butter" (19). *Applied; Sacchi et al. (2026) cited for definition; Sacchi year corrected 2025→2026; fewerless typo removed; see CHANGELOG 2026-05-02.*
 - [x] Add citation for framing-theory origin (33, → Entman 1993). *Applied; Entman (1993) moved to definitional sentence; see CHANGELOG 2026-05-02.*
-- [ ] Add citations for structural-break theory (26), "band-aid policy fix" (13), defence sin-stock framing (41), "government policies… stimulated the market" (16).
+- [ ] Add citations for structural-break theory (26), "band-aid policy fix" (13), defence sin-stock framing (41) (citation done: Hong & Kacperczyk 2009 added at line 744; relevance question still open), "government policies… stimulated the market" (16).
 
 ## Tier 3 — structure (Gonchar's flow rewrite)
 

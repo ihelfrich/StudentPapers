@@ -741,7 +741,7 @@ The market signals translate into meaningfully significant results for defence c
 
 ### **Pre- and Post-Invasion Framing**
 
- Framing theory suggests how the market views of various industries and sectors impact various operating and valuation dynamics. Prior to 2022, it was postulated that defence-related companies were out-of-favour for various reasons, including ethical challenges associated with investing in the space and inconsistent demand that was primarily dependent on shorter-term government procurement trends. This was collectively indicative of a highly cyclical landscape.
+ Framing theory suggests how the market views of various industries and sectors impact various operating and valuation dynamics. Prior to 2022, defence-related companies were out-of-favour with many institutional investors for two related reasons: ethical challenges associated with investing in the sector (the canonical "sin stock" framing of Hong & Kacperczyk, 2009) and inconsistent demand that was primarily dependent on shorter-term government procurement cycles. This was collectively indicative of a highly cyclical landscape.
 
  The evidence for the re-framing of the defence industry is highlighted throughout the analyses. The shift in tone within the semantic analysis is dramatic. Moderate-to-strongly “bullish” language categorisations in the pre-invasion period represented approximately 30% of the sample. In the post-invasion period, the equivalent bullish language is nearly 92%,, a definitive shift.
 
