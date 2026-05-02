@@ -32,7 +32,7 @@ These are queued. Each will be applied as its own commit.
 - **After:** "…https://doi.org/10.1080/13501763.2025.2534663\n\nSandler, T., & Hartley, K. (1995). *The Economics of Defense*. Cambridge University Press.\n\nShevchuk, V., & Luchka, O. (2024). The relationship between ESG ratings and corporate …"
 - **Rationale:** Per Gonchar (id 8), Sandler and Hartley (1995) was cited in body text (line 222: "Sandler and Hartley (1995) promoted the view that high defence spending 'crowds-out' private investment...") but missing from the References list. Web-verified canonical citation: *The Economics of Defense*, Cambridge University Press, 1995 (Cambridge Surveys of Economic Literature series, ISBN 9780521447287). Inserted alphabetically between Sacchi and Shevchuk; single-line entry with blank-line separators, book title in italics, matching surrounding formatting.
 - **Cohesion check:** Swept all four targets. (1) "Sandler and Hartley" — 1 occurrence at line 222 (in-text citation); now resolves to new References entry. (2) "Sandler & Hartley" — 0 occurrences in body text; 1 in new References entry (line 912). (3) "Sandler, T." — 1 occurrence at line 912 (new References entry only). (4) "Hartley, K." — 1 occurrence at line 912 (new References entry only). No orphaned surnames. No body passage contradicts the edit. No follow-up edits required.
-- **Commit:** <fill in after committing>
+- **Commit:** 525029c
 
 ### 2026-05-02 — Drop five unreferenced bibliography entries (Gonchar 49–53)
 - **Resolves:** Gonchar ids 49, 50, 51, 52, 53 / referee: bibliography-cleanup
